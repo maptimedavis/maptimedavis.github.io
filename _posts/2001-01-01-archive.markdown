@@ -18,9 +18,15 @@ description:
 
 <h2>Archive</h2>
 
-<p>A list of where you can find materials from past workshops will be placed here soon.</p>
+<p>Below is a list of past workshops and their associated videos and materials.</p>
 
-<table>
+<table id="schedule" class="center">
+<colgroup>
+		<col style="background-color:lightgray">
+		<col style="background-color:#F4F4F4">
+		<col style="background-color:lightgray">
+		<col style="background-color:#F4F4F4">
+	</colgroup>
 <tr>
 	<th>Date</th>
 	<th>Topic</th>
@@ -165,20 +171,50 @@ description:
 	<td>Michele Tobias</td>
 	<td></td>
 </tr>
-<tr><td>11/9/2021</td><td>Intro to PostGIS (Crunchy Data Tutorial)</td><td>Steve Pousty</td><td></td></tr>
-<tr><td>11/2/2021</td><td>ArcGIS Field Maps (Esri)</td><td>Miriam Schmidts and Canserina Kurnia</td><td></td></tr>
-<tr><td>10/26/2021</td><td>Intro to ArcGIS Online</td><td>Karen Beardsley</td><td></td></tr>
-<tr><td>10/19/2021</td><td>Shiny Apps for Geospatial Data</td><td>Taylor Nelsen</td><td></td></tr>
-<tr><td>10/12/2021</td><td>Is my research mappable?</td><td>Michele Tobias</td><td></td></tr>
-<tr><td>10/5/2021</td><td>Reading NetCDF as Zarr</td><td>Lucas Sterzinger</td><td></td></tr>
+<tr>
+	<td>11/9/2021</td>
+	<td>Intro to PostGIS (Crunchy Data Tutorial)</td>
+	<td>Steve Pousty</td>
+	<td></td>
+</tr>
+<tr>
+	<td>11/2/2021</td>
+	<td>ArcGIS Field Maps (Esri)</td>
+	<td>Miriam Schmidts and Canserina Kurnia</td>
+	<td></td>
+</tr>
+<tr>
+	<td>10/26/2021</td>
+	<td>Intro to ArcGIS Online</td>
+	<td>Karen Beardsley</td>
+	<td></td>
+</tr>
+<tr>
+	<td>10/19/2021</td>
+	<td>Shiny Apps for Geospatial Data</td>
+	<td>Taylor Nelsen</td>
+	<td></td>
+</tr>
+<tr>
+	<td>10/12/2021</td>
+	<td>Is my research mappable?</td>
+	<td>Michele Tobias</td>
+	<td></td>
+</tr>
+<tr>
+	<td>10/5/2021</td>
+	<td>Reading NetCDF as Zarr</td>
+	<td>Lucas Sterzinger</td>
+	<td></td>
+</tr>
 <tr><td>18-May-21</td><td>Lightning Talks</td><td>Evlyn Pless (Organizer) & the Community</td><td></td></tr>
 <tr><td>11-May-21</td><td>Art Software for Cartography & Other Visual Research Communication (Studio Discussion)</td><td>Michele Tobias & the Community</td><td></td></tr>
 <tr><td>4-May-21</td><td>Introduction to Spatial Statistics in R</td><td>Wesley Brooks</td><td></td></tr>
 <tr><td>27-Apr-21</td><td>Projected Coordinate Systems in R</td><td>Michele Tobias</td><td></td></tr>
 <tr><td>20-Apr-21</td><td>Agent-Based Modeling with NetLogo</td><td>Sarah Grajdura</td><td></td></tr>
-<tr><td>13-Apr-21</td><td>End-to-end Deep Learning Workflows using Geospatial Technology</td><td>"David Yu, ESRI"</td><td></td></tr>
-<tr><td>6-Apr-21</td><td>Simplified Volcano Hazards Maps: Lessons Learned and Future Directions</td><td>"David Ramsey, U.S. Geological Survey and USAID, Cascades Volcano Observatory"</td><td></td></tr>
-<tr><td>23-Feb-21</td><td>#maptimeDavis Workshop: Getting started with the new ArcGIS Field Maps</td><td>Canserina Kurnia & Mark Stewart, ESRI"</td><td></td></tr>
+<tr><td>13-Apr-21</td><td>End-to-end Deep Learning Workflows using Geospatial Technology</td><td>David Yu, ESRI</td><td></td></tr>
+<tr><td>6-Apr-21</td><td>Simplified Volcano Hazards Maps: Lessons Learned and Future Directions</td><td>David Ramsey, U.S. Geological Survey and USAID, Cascades Volcano Observatory</td><td></td></tr>
+<tr><td>23-Feb-21</td><td>#maptimeDavis Workshop: Getting started with the new ArcGIS Field Maps</td><td>Canserina Kurnia & Mark Stewart, ESRI</td><td></td></tr>
 <tr><td>16-Feb-21</td><td>#maptimeDavis Studio: Working with Address Data</td><td>Community Discussion</td><td></td></tr>
 <tr><td>9-Feb-21</td><td>#maptimeDavis Workshop: Geocoding Address Data: Approaches to Personally Identifiable Data</td><td>Michele Tobias</td><td></td></tr>
 <tr><td>19-Jan-21</td><td>#maptimeDavis Studio: Future of #maptimeDavis</td><td>Community Discussion</td><td></td></tr>
@@ -232,12 +268,12 @@ description:
 <tr><td>23-Apr-19</td><td>NDVI Time Series Data in R</td><td>Mahesh Maskey & Kristen Shapiro</td><td></td></tr>
 <tr><td>16-Apr-19</td><td>Humanitarian OpenStreetMap Mapathon</td><td>Mapping Club</td><td></td></tr>
 <tr><td>6-Mar-19</td><td>Fire Mapping</td><td>Yufang Jin’s Lab</td><td></td></tr>
-<tr><td>27-Feb-19</td><td>Field Data Collection</td><td>Derek Young, Sierra Mabanta, Huck Rees, & Ofuhre Igbinedion"</td><td></td></tr>
+<tr><td>27-Feb-19</td><td>Field Data Collection</td><td>Derek Young, Sierra Mabanta, Huck Rees, & Ofuhre Igbinedion</td><td></td></tr>
 <tr><td>22-Feb-19</td><td>Geospatial Data Visualization</td><td>Michele Tobias</td><td></td></tr>
 <tr><td>20-Feb-19</td><td>Lightning Talks</td><td>Geospatial Community</td><td></td></tr>
 <tr><td>13-Feb-19</td><td>Python for Field Calculations in QGIS and ArcGIS</td><td>Nick Santos</td><td></td></tr>
 <tr><td>6-Feb-19</td><td>Spatial Networks in R</td><td>Beatriz Martinez-Lopez’s Lab</td><td></td></tr>
-<tr><td>30-Jan-19</td><td>Interactive Maps with R</td><td>"Alex Mandel</td><td> Nistara Randhawa, Ryan Peek, & Mahesh Maskey</td><td></td></tr>
+<tr><td>30-Jan-19</td><td>Interactive Maps with R</td><td>Alex Mandel, Nistara Randhawa, Ryan Peek, & Mahesh Maskey</td><td></td></tr>
 <tr><td>23-Jan-19</td><td>1 Hour Map Challenge!</td><td>Center for Spatial Sciences</td><td></td></tr>
 <tr><td>16-Jan-19</td><td>Mapathon</td><td>Sierra Mabanta</td><td></td></tr>
 <tr><td>4-Dec-18</td><td>Finishing touches: how to create polished and professional-looking maps in ArcGIS</td><td>Amber Manfree</td><td></td></tr>

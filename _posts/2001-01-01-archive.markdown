@@ -97,146 +97,295 @@ description:
 	<td>10/25/2022</td>
 	<td>Introduction to Geospatial Raster and Vector Data with Python</td>
 	<td>Ryan Avery</td>
-	<td><a href="">Video</a></td>
+	<td><a href="https://www.youtube.com/watch?v=Ce7GuGIf3r0">Video</a></td>
 </tr>
 <tr>
 	<td>10/18/2022</td>
 	<td>ArcGIS Insights for iterative and exploratory data analysis</td>
 	<td>Karen Beardsley</td>
-	<td><a href="">Video</a></td>
+	<td><a href="https://www.youtube.com/watch?v=4xszCiOw1N8">Video</a></td>
 </tr>
 <tr>
 	<td>9/27/2022</td>
 	<td>Hood Canal Landscape Assessment and Prioritization Tool (HC-LAP): A Web Mapping Application to Support Conservation Efforts in Hood Canal (Washington)</td>
 	<td>David Puckett</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=XOWBOuAC8_U&t=3s">Video</a></td>
 </tr>
 <tr>
 	<td>5/24/2022</td>
 	<td>Mapping Tools for Policy Decisions</td>
 	<td>Nathaniel Roth</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=b9VNmc1Jyww">Video</a></td>
 </tr>
 <tr>
 	<td>5/17/2022</td>
 	<td>Intro to Google Earth Engine</td>
 	<td>Luke Salvato</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=0cYm4CpU2dg">Video</a></td>
 </tr>
 <tr>
 	<td>5/10/2022</td>
 	<td>Spatial SQL</td>
 	<td>Michele Tobias</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=Q9B407eUkmU">Video</a></td>
 </tr>
 <tr>
 	<td>5/3/2022</td>
 	<td>Engaging Underserved Communities through GIS Mapping</td>
 	<td>Angelina Rahimi & Vosawale Lesuma (Aora Planning)</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=AlSCqrdcMPE&t=3075s">Video</a></td>
 </tr>
 <tr>
 	<td>4/26/2022</td>
 	<td>Working with Cal-Adapt Climate Data in R</td>
 	<td>Andy Lyons (UC ANR)</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=fVxuXxyjq7g">Video</a></td>
 </tr>
 <tr>
 	<td>4/12/2022</td>
 	<td>Intro to GIS with QGIS</td>
 	<td>Michele Tobias</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=PAcZUPSmqDE">Video</a></td>
 </tr>
 <tr>
 	<td>2/22/2022</td>
 	<td>Engage your community with ArcHub</td>
 	<td>Carlos Barahona</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=XBLR8DaNgc4">Video</a></td>
 </tr>
 <tr>
 	<td>2/15/2022</td>
 	<td>Web Maps with Leaflet</td>
 	<td>Michele Tobias</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=9Xer6HVv8WI">Video</a></td>
 </tr>
 <tr>
 	<td>2/8/2022</td>
 	<td>Maps with D3</td>
 	<td>Mina Rezaei</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=9udi4Of1mbM">Video</a></td>
 </tr>
 <tr>
 	<td>11/16/2021</td>
 	<td>Introduction to Desktop GIS with QGIS</td>
 	<td>Michele Tobias</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=nRumEIILqEU">Video</a></td>
 </tr>
 <tr>
 	<td>11/9/2021</td>
 	<td>Intro to PostGIS (Crunchy Data Tutorial)</td>
 	<td>Steve Pousty</td>
-	<td></td>
+	<td><a href="https://www.crunchydata.com/blog/postgis-for-newbies">Tutorial: PostGIS for Newbies</a></td>
 </tr>
 <tr>
 	<td>11/2/2021</td>
 	<td>ArcGIS Field Maps (Esri)</td>
 	<td>Miriam Schmidts and Canserina Kurnia</td>
-	<td></td>
+	<td><a href="">Video</a></td>
 </tr>
 <tr>
 	<td>10/26/2021</td>
 	<td>Intro to ArcGIS Online</td>
 	<td>Karen Beardsley</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=tcUoibemtIs">Video</a></td>
 </tr>
 <tr>
 	<td>10/19/2021</td>
 	<td>Shiny Apps for Geospatial Data</td>
 	<td>Taylor Nelsen</td>
-	<td></td>
+	<td><a href="">Video</a></td>
 </tr>
 <tr>
 	<td>10/12/2021</td>
 	<td>Is my research mappable?</td>
 	<td>Michele Tobias</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=R9DLw0SW5JE">Video</a></td>
 </tr>
 <tr>
 	<td>10/5/2021</td>
 	<td>Reading NetCDF as Zarr</td>
 	<td>Lucas Sterzinger</td>
+	<td><a href="https://www.youtube.com/watch?v=JmSkNon4KNk">Video</a></td>
+</tr>
+<tr>
+	<td>18-May-21</td><td>Lightning Talks</td>
+	<td>Evlyn Pless (Organizer) & the Community</td>
 	<td></td>
 </tr>
-<tr><td>18-May-21</td><td>Lightning Talks</td><td>Evlyn Pless (Organizer) & the Community</td><td></td></tr>
-<tr><td>11-May-21</td><td>Art Software for Cartography & Other Visual Research Communication (Studio Discussion)</td><td>Michele Tobias & the Community</td><td></td></tr>
-<tr><td>4-May-21</td><td>Introduction to Spatial Statistics in R</td><td>Wesley Brooks</td><td></td></tr>
-<tr><td>27-Apr-21</td><td>Projected Coordinate Systems in R</td><td>Michele Tobias</td><td></td></tr>
-<tr><td>20-Apr-21</td><td>Agent-Based Modeling with NetLogo</td><td>Sarah Grajdura</td><td></td></tr>
-<tr><td>13-Apr-21</td><td>End-to-end Deep Learning Workflows using Geospatial Technology</td><td>David Yu, ESRI</td><td></td></tr>
-<tr><td>6-Apr-21</td><td>Simplified Volcano Hazards Maps: Lessons Learned and Future Directions</td><td>David Ramsey, U.S. Geological Survey and USAID, Cascades Volcano Observatory</td><td></td></tr>
-<tr><td>23-Feb-21</td><td>#maptimeDavis Workshop: Getting started with the new ArcGIS Field Maps</td><td>Canserina Kurnia & Mark Stewart, ESRI</td><td></td></tr>
-<tr><td>16-Feb-21</td><td>#maptimeDavis Studio: Working with Address Data</td><td>Community Discussion</td><td></td></tr>
-<tr><td>9-Feb-21</td><td>#maptimeDavis Workshop: Geocoding Address Data: Approaches to Personally Identifiable Data</td><td>Michele Tobias</td><td></td></tr>
-<tr><td>19-Jan-21</td><td>#maptimeDavis Studio: Future of #maptimeDavis</td><td>Community Discussion</td><td></td></tr>
-<tr><td>12-Jan-21</td><td>#maptimeDavis Workshop: Earth Engine & R for presentation-quality contextual maps</td><td>Christian John</td><td></td></tr>
-<tr><td>1-Dec-20</td><td>Mapping in R</td><td>community</td><td></td></tr>
-<tr><td>24-Nov-20</td><td>From Spatial Data to Publication Ready Figure: Mapmaking with R</td><td>Ryan Peek</td><td></td></tr>
-<tr><td>17-Nov-20</td><td>Machine Learning for Spatial Data</td><td>community</td><td></td></tr>
-<tr><td>10-Nov-20</td><td>Crop Type Mapping with Deep Learning using Tensor Flow</td><td>Alex Mandel & Lily Thomas, Development Seed</td><td></td></tr>
-<tr><td>3-Nov-20</td><td>Map Design & Cartography</td><td>community</td><td></td></tr>
-<tr><td>27-Oct-20</td><td>Journal Map Figure Design</td><td>Michele Tobias</td><td></td></tr>
-<tr><td>20-Oct-20</td><td>OpenStreetMap Data</td><td>community</td><td></td></tr>
-<tr><td>13-Oct-20</td><td>Contributing Geographic Data Through OpenStreetMap (OSM)</td><td>Gaurav Thapa</td><td></td></tr>
-<tr><td>6-Oct-20</td><td>The Year of the Map: The imortance of Spatial Data in 2020</td><td>Leah Nagel</td><td></td></tr>
-<tr><td>2-Jun-20</td><td>Spatial Sciences Research Cluster</td><td>---</td><td></td></tr>
-<tr><td>26-May-20</td><td>Humanitarian OpenStreetMap Mapathon</td><td>community</td><td></td></tr>
-<tr><td>19-May-20</td><td>Spatial Sciences Research Cluster</td><td>---</td><td></td></tr>
-<tr><td>12-May-20</td><td>Mapbox</td><td>Megan Danielson, mapbox</td><td></td></tr>
-<tr><td>5-May-20</td><td>Spatial Sciences Research Cluster</td><td>---</td><td></td></tr>
-<tr><td>28-Apr-20</td><td>R for Spatial</td><td>Leah Nagel</td><td></td></tr>
-<tr><td>21-Apr-20</td><td>Spatial Sciences Research Cluster</td><td>---</td><td></td></tr>
-<tr><td>14-Apr-20</td><td>Intro to GIS with QGIS</td><td>Michele Tobias</td><td></td></tr>
-<tr><td>7-Apr-20</td><td>Spatial Sciences Research Cluster</td><td>---</td><td></td></tr>
+<tr>
+	<td>11-May-21</td>
+	<td>Art Software for Cartography & Other Visual Research Communication (Studio Discussion)</td>
+	<td>Michele Tobias & the Community</td>
+	<td></td>
+</tr>
+<tr>
+	<td>4-May-21</td>
+	<td>Introduction to Spatial Statistics in R</td>
+	<td>Wesley Brooks</td>
+	<td><a href="https://www.youtube.com/watch?v=dU5RWclB5kI">Video</a></td>
+</tr>
+<tr>
+	<td>27-Apr-21</td>
+	<td>Projected Coordinate Systems in R</td>
+	<td>Michele Tobias</td>
+	<td><a href="https://www.youtube.com/watch?v=0eUMEyxym64">Video</a></td>
+</tr>
+<tr>
+	<td>20-Apr-21</td>
+	<td>Agent-Based Modeling with NetLogo</td>
+	<td>Sarah Grajdura</td>
+	<td><a href="https://www.youtube.com/watch?v=HoS21re1hak">Video</a></td>
+</tr>
+<tr>
+	<td>13-Apr-21</td>
+	<td>End-to-end Deep Learning Workflows using Geospatial Technology</td>
+	<td>David Yu, ESRI</td>
+	<td><a href="">Video</a></td>
+</tr>
+<tr>
+	<td>6-Apr-21</td>
+	<td>Simplified Volcano Hazards Maps: Lessons Learned and Future Directions</td>
+	<td>David Ramsey, U.S. Geological Survey and USAID, Cascades Volcano Observatory</td>
+	<td><a href="">Video</a></td>
+</tr>
+<tr>
+	<td>23-Feb-21</td>
+	<td>Getting started with the new ArcGIS Field Maps</td>
+	<td>Canserina Kurnia & Mark Stewart, ESRI</td>
+	<td><a href="">Video</a></td>
+</tr>
+<tr>
+	<td>16-Feb-21</td>
+	<td>#maptimeDavis Studio: Working with Address Data</td>
+	<td>Community Discussion</td>
+	<td></td>
+</tr>
+<tr>
+	<td>9-Feb-21</td>
+	<td>Geocoding Address Data: Approaches to Personally Identifiable Data</td>
+	<td>Michele Tobias</td>
+	<td><a href="https://www.youtube.com/watch?v=mTXd7FQ5noA">Video</a></td>
+</tr>
+<tr>
+	<td>19-Jan-21</td>
+	<td>#maptimeDavis Studio: Future of #maptimeDavis</td>
+	<td>Community Discussion</td>
+	<td></td>
+</tr>
+<tr>
+	<td>12-Jan-21</td>
+	<td>Earth Engine & R for presentation-quality contextual maps</td>
+	<td>Christian John</td>
+	<td><a href="https://www.youtube.com/watch?v=GKc-hcusGZo">Video</a></td>
+</tr>
+<tr>
+	<td>1-Dec-20</td>
+	<td>Mapping in R</td>
+	<td>community</td>
+	<td></td>
+</tr>
+<tr>
+	<td>24-Nov-20</td>
+	<td>From Spatial Data to Publication Ready Figure: Mapmaking with R</td>
+	<td>Ryan Peek</td>
+	<td><a href="https://www.youtube.com/watch?v=47RWbMM3nwc">Video</a></td>
+</tr>
+<tr>
+	<td>17-Nov-20</td>
+	<td>Machine Learning for Spatial Data</td>
+	<td>community</td>
+	<td></td>
+</tr>
+<tr>
+	<td>10-Nov-20</td>
+	<td>Crop Type Mapping with Deep Learning using Tensor Flow</td>
+	<td>Alex Mandel & Lily Thomas, Development Seed</td>
+	<td><a href="https://www.youtube.com/watch?v=i88Rrwd06gA">Video</a></td>
+</tr>
+<tr>
+	<td>3-Nov-20</td>
+	<td>Map Design & Cartography</td>
+	<td>community</td>
+	<td></td>
+</tr>
+<tr>
+	<td>27-Oct-20</td>
+	<td>Journal Map Figure Design</td>
+	<td>Michele Tobias</td>
+	<td><a href="https://www.youtube.com/watch?v=MB0JMm2Zrds">Video</a></td>
+</tr>
+<tr>
+	<td>20-Oct-20</td>
+	<td>OpenStreetMap Data</td>
+	<td>community</td>
+	<td></td>
+</tr>
+<tr>
+	<td>13-Oct-20</td>
+	<td>Contributing Geographic Data Through OpenStreetMap (OSM)</td>
+	<td>Gaurav Thapa</td>
+	<td></td>
+</tr>
+<tr>
+	<td>6-Oct-20</td>
+	<td>The Year of the Map: The importance of Spatial Data in 2020</td>
+	<td>Leah Nagel</td>
+	<td></td>
+</tr>
+<tr>
+	<td>2-Jun-20</td>
+	<td>Spatial Sciences Research Cluster</td>
+	<td>---</td>
+	<td></td>
+</tr>
+<tr>
+	<td>26-May-20</td>
+	<td>Humanitarian OpenStreetMap Mapathon</td>
+	<td>community</td>
+	<td></td>
+</tr>
+<tr>
+	<td>19-May-20</td>
+	<td>Spatial Sciences Research Cluster</td>
+	<td>---</td>
+	<td></td>
+</tr>
+<tr>
+	<td>12-May-20</td>
+	<td>Mapbox</td>
+	<td>Megan Danielson, mapbox</td>
+	<td></td>
+</tr>
+<tr>
+	<td>5-May-20</td>
+	<td>Spatial Sciences Research Cluster</td>
+	<td>---</td>
+	<td></td>
+</tr>
+<tr>
+	<td>28-Apr-20</td>
+	<td>R for Spatial</td>
+	<td>Leah Nagel</td>
+	<td></td>
+</tr>
+<tr>
+	<td>21-Apr-20</td>
+	<td>Spatial Sciences Research Cluster</td>
+	<td>---</td>
+	<td></td>
+</tr>
+<tr>
+	<td>14-Apr-20</td>
+	<td>Intro to GIS with QGIS</td>
+	<td>Michele Tobias</td>
+	<td></td>
+</tr>
+<tr>
+	<td>7-Apr-20</td>
+	<td>Spatial Sciences Research Cluster</td>
+	<td>---</td>
+	<td></td>
+</tr>
 <tr><td>10-Mar-20</td><td>Participatory Mapping With Field Papers</td><td>Nina Fontana & Michele Tobias</td><td></td></tr>
 <tr><td>3-Mar-20</td><td>Spatial Science Research Cluster</td><td>---</td><td></td></tr>
 <tr><td>25-Feb-20</td><td>Drone imagery processing using Agisoft Metashape: single-workstation and high-performance computing cluster applications</td><td>Mallika Nocco & Derek Young</td><td></td></tr>

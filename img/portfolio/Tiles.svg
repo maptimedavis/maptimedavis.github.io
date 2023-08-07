@@ -15,7 +15,7 @@
    id="svg8"
    inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
    sodipodi:docname="Tiles.svg"
-   inkscape:export-filename="C:\Users\mmtobias\Documents\GitHub\freelancer-theme\img\portfolio\archive.png"
+   inkscape:export-filename="C:\Users\mmtobias\Documents\GitHub\maptimedavis.github.io\img\portfolio\events.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -31,7 +31,7 @@
      inkscape:cx="480.81004"
      inkscape:cy="238.40051"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1237"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -50,13 +50,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     sodipodi:insensitive="true"
-     style="display:none"
+     style="display:inline"
      inkscape:label="events"
      inkscape:groupmode="layer"
      id="layer1">
@@ -87,23 +86,27 @@
        cx="119.0625"
        cy="75.210266"
        r="62.961033" />
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path903"
-       d="m 68.553649,118.02875 c 34.317181,6.80718 59.096441,3.70852 62.049181,-17.26191 C 128.22818,68.228155 97.118862,86.108927 82.189716,64.175531 73.694675,48.725035 91.982271,19.19835 138.97833,50.424612"
-       style="fill:none;stroke:#9e3d3d;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:21.1667, 5.29167;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path926"
-       d="M 142.96022,64.029322 167.15269,46.02966"
-       style="fill:none;stroke:#9e3d3d;stroke-width:7.05556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path928"
-       d="M 162.78821,67.476018 145.34763,42.716262"
-       style="fill:none;stroke:#9e3d3d;stroke-width:7.05556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="rotate(85.680328,120.73734,72.424286)"
+       id="g1309">
+      <path
+         style="fill:none;stroke:#9e3d3d;stroke-width:5.29167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:21.1667, 5.29167;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 68.553649,118.02875 c 34.317181,6.80718 59.096441,3.70852 62.049181,-17.26191 C 128.22818,68.228155 97.118862,86.108927 82.189716,64.175531 73.694675,48.725035 91.982271,19.19835 138.97833,50.424612"
+         id="path903"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="fill:none;stroke:#9e3d3d;stroke-width:7.05556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 142.96022,64.029322 167.15269,46.02966"
+         id="path926"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#9e3d3d;stroke-width:7.05556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 162.78821,67.476018 145.34763,42.716262"
+         id="path928"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
      style="display:none"
@@ -483,7 +486,8 @@
          sodipodi:role="line">mission</tspan></text>
   </g>
   <g
-     style="display:inline"
+     sodipodi:insensitive="true"
+     style="display:none"
      id="g1237"
      inkscape:groupmode="layer"
      inkscape:label="archive">
@@ -782,7 +786,7 @@
      inkscape:groupmode="layer">
     <image
        sodipodi:absref="C:\Users\mmtobias\Documents\GitHub\freelancer-theme\img\portfolio\cabin.png"
-       xlink:href="cabin.png"
+       xlink:href="../../../freelancer-theme/img/portfolio/cabin.png"
        y="-143.31598"
        x="-272.91281"
        width="238.125"
@@ -791,7 +795,7 @@
        id="image892" />
     <image
        sodipodi:absref="C:\Users\mmtobias\Documents\GitHub\freelancer-theme\img\portfolio\game.png"
-       xlink:href="game.png"
+       xlink:href="../../../freelancer-theme/img/portfolio/game.png"
        y="49.241894"
        x="-279.28241"
        width="238.125"
@@ -800,7 +804,7 @@
        id="image910" />
     <image
        sodipodi:absref="C:\Users\mmtobias\Documents\GitHub\freelancer-theme\img\portfolio\submarine.png"
-       xlink:href="submarine.png"
+       xlink:href="../../../freelancer-theme/img/portfolio/submarine.png"
        y="-181.44449"
        x="173.81656"
        width="238.125"

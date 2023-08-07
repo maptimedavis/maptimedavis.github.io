@@ -23,7 +23,7 @@ description:
 <p>Naomi Kalman, owner/consultant, Valley Spatial</p>
 <p>Veronica Herrera, graduate student, Geography Graduate Group</p>
 
-
+<br>
 <p>We thank the past council members for all of their work!</p>
 
 <p>Sadia Gul, graduate student, Energy Graduate Group (2021-2022)</p>
@@ -31,7 +31,7 @@ description:
 <p>Karen Beardsley, staff/faculty, UC Davis Global Affairs (2021-2023)</p>
 <p>Emma Forester, graduate student, Geography Graduate Group (2022-2023)</p>
 
-
+<br>
 <p>We are always looking for volunteers to join our efforts! If you are interested in joining #maptimeDavis Council, please email Michele Tobias - mmtobias@ucdavis.edu
 </p> 
 

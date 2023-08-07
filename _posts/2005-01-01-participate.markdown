@@ -13,11 +13,11 @@ description:
 
 <p>There are many ways to participate in #maptimeDavis. Here are some suggestions:</p>
 
-<ul>
-<li><b>Attend events.</b>  See below for the current #maptimeDavis Workshop Schedule.</li>
-<li><b>Help at a workshop.</b> Making workshops run smoothly is a team effort. We often need folks to help answer questions, relay communications to the presenter, or help participants who get stuck.</li>
-<li><b>Present a workshop.</b> You don't need to be an expert to teach well.</li>
-<li><b>Join #maptimeDavis Council</b>, the group of people who organize each quarter's events.</li>
-</ul>
+
+<p><b>Attend events.</b>  See below for the current #maptimeDavis Workshop Schedule.</p>
+<p><b>Help at a workshop.</b> Making workshops run smoothly is a team effort. We often need folks to help answer questions, relay communications to the presenter, or help participants who get stuck.</p>
+<p><b>Present a workshop.</b> You don't need to be an expert to teach well.</p>
+<p><b>Join #maptimeDavis Council</b>, the group of people who organize each quarter's events.</p>
+
 
 <p>Please send questions to Michele Tobias - mmtobias@ucdavis.edu<p>

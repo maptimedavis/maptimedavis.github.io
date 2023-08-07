@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+date: 2003-01-01
+img: mission.png
+alt: image-alt
+project-date:
+client:
+category:
+description:
+---
+
+#maptimeDavis is a learning community (formally knows as the UC Davis DataLab's Spatial Sciences Research & Learning Cluster) focused on instructor-lead formal workshops teaching a specific skills. These workshops typically (but not always) require participants to bring a laptop computer with software installed pertaining to the topic of the workshop. If a particular software is needed for a workshop, we'll let you know what you need before hand if you register.

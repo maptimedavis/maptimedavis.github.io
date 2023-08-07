@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2023-08-07T12:22:05-07:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">#maptimeDavis</title>
+  
+
+  
+    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Events</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Events" />
+      <published>2006-01-01T00:00:00-08:00</published>
+      <updated>2006-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/events</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;This schedule is current as of 8/4/2023. Expect updates before the beginning of the quarter.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table id=&quot;schedule&quot; class=&quot;center&quot;&gt;
+	&lt;colgroup&gt;
+		&lt;col style=&quot;background-color:lightgray&quot; /&gt;
+		&lt;col style=&quot;background-color:#F4F4F4&quot; /&gt;
+		&lt;col style=&quot;background-color:lightgray&quot; /&gt;
+	&lt;/colgroup&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Date&lt;/th&gt;
+		&lt;th&gt;Topic&lt;/th&gt;
+		&lt;th&gt;Speaker&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;9/1/2023&lt;/td&gt;
+		&lt;td&gt;Test Workshop Title&lt;/td&gt;
+		&lt;td&gt;Ann Awesome-Speaker&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">This schedule is current as of 8/4/2023. Expect updates before the beginning of the quarter.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Participate</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Participate" />
+      <published>2005-01-01T00:00:00-08:00</published>
+      <updated>2005-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/participate</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;How to Participate&lt;/h2&gt;
+
+&lt;p&gt;There are many ways to participate in #maptimeDavis. Here are some suggestions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Attend events.&lt;/b&gt;  See below for the current #maptimeDavis Workshop Schedule.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Help at a workshop.&lt;/b&gt; Making workshops run smoothly is a team effort. We often need folks to help answer questions, relay communications to the presenter, or help participants who get stuck.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Present a workshop.&lt;/b&gt; You don&apos;t need to be an expert to teach well.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Join #maptimeDavis Council&lt;/b&gt;, the group of people who organize each quarter&apos;s events.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please send questions to Michele Tobias - mmtobias@ucdavis.edu&lt;p&gt;
+&lt;/p&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">How to Participate</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Swag</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Swag" />
+      <published>2004-01-01T00:00:00-08:00</published>
+      <updated>2004-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/swag</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;T-SHIRTS &amp;amp; SWAG&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;img/portfolio/BW_Logo_Shirt.png&quot; alt=&quot;Woman wearing a white shirt with a black map time Davis logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;T-shirts and other #maptimeDavis branded items are available at cost (no markup) from &lt;a href=&quot;https://www.redbubble.com/people/micheletobias/shop?artistUserName=micheletobias&amp;amp;asc=u&amp;amp;collections=865154&amp;amp;iaCode=all-departments&amp;amp;sortOrder=relevant&quot;&gt;Redbubble&lt;/a&gt;. Available logos include black, white, gray, and rainbow.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">T-SHIRTS &amp;amp; SWAG</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Mission</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Mission" />
+      <published>2003-01-01T00:00:00-08:00</published>
+      <updated>2003-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/mission</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;#maptimeDavis is a learning community (formally knows as the UC Davis DataLab’s Spatial Sciences Research &amp;amp; Learning Cluster) focused on instructor-lead formal workshops teaching a specific skills. These workshops typically (but not always) require participants to bring a laptop computer with software installed pertaining to the topic of the workshop. If a particular software is needed for a workshop, we’ll let you know what you need before hand if you register.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">#maptimeDavis is a learning community (formally knows as the UC Davis DataLab’s Spatial Sciences Research &amp;amp; Learning Cluster) focused on instructor-lead formal workshops teaching a specific skills. These workshops typically (but not always) require participants to bring a laptop computer with software installed pertaining to the topic of the workshop. If a particular software is needed for a workshop, we’ll let you know what you need before hand if you register.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Governance</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Governance" />
+      <published>2002-01-01T00:00:00-08:00</published>
+      <updated>2002-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/governance</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;#maptimeDavis Council&lt;/h2&gt;
+
+&lt;p&gt;In the summer of 2021, the Spatial Sciences Research &amp;amp; Learning Cluster recruited community members to help advise and produce our #maptimeDavis workshop series.  We assembled a team with a variety of skills and interests including students, staff, and faculty. This year&apos;s #maptimeDavis Council members are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex Mandel, geospatial engineer, Development Seed&lt;/li&gt;
+&lt;li&gt;Kyra Liu, undergraduate student, Environmental Science and Management&lt;/li&gt;
+&lt;li&gt;Liam Bhajan, graduate student, Land Air Water Resources&lt;/li&gt;
+&lt;li&gt;Lupe Franco, graduate student, Geography Graduate Group&lt;/li&gt;
+&lt;li&gt;Matthew Conner, librarian, UC Davis Library&lt;/li&gt;
+&lt;li&gt;Michele Tobias, data scientist, UC Davis DataLab&lt;/li&gt;
+&lt;li&gt;Naomi Kalman, owner/consultant, Valley Spatial&lt;/li&gt;
+&lt;li&gt;Veronica Herrera, graduate student, Geography Graduate Group&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We thank the past council members for all of their work!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sadia Gul, graduate student, Energy Graduate Group (2021-2022)&lt;/li&gt;
+&lt;li&gt;Mina Rezaei, graduate student, Geography Graduate Group (2021-2022)&lt;/li&gt;
+&lt;li&gt;Karen Beardsley, staff/faculty, UC Davis Global Affairs (2021-2023)&lt;/li&gt;
+&lt;li&gt;Emma Forester, graduate student, Geography Graduate Group (2022-2023)&lt;/li&gt;
+
+
+&lt;p&gt;We are always looking for volunteers to join our efforts! If you are interested in joining #maptimeDavis Council, please email Michele Tobias - mmtobias@ucdavis.edu
+&lt;/p&gt; 
+
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">#maptimeDavis Council</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Archive</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Archive" />
+      <published>2001-01-01T00:00:00-08:00</published>
+      <updated>2001-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/archive</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;h2&gt;Finding Past Workshop Materials&lt;/h2&gt;
+
+&lt;p&gt;We do our best to make the materials from past workshops available. Whenever possible, we collect the written materials such as workshop notes, guides, or tutorials, and make them available. Since 2020, we have made a concerted effort to record workshops.&lt;/p&gt;
+
+&lt;p&gt;As you might expect, we don&apos;t have everything. If we are missing something and you know where we can find it, please let us know.&lt;/p&gt;
+
+&lt;h2&gt;Archive&lt;/h2&gt;
+
+&lt;p&gt;A list of where you can find materials from past workshops will be placed here soon.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Finding Past Workshop Materials</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

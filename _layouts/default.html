@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+
+<body id="page-top" class="index">
+  {% include nav.html %}
+  {% include header.html %}
+  {% include join_us_grid.html %}
+  {% include about.html %}
+
+  <!--#This section add a contact form to the home page-->
+  <!--remove comment codes to make the contact form appear-->
+
+  {% comment %} 
+	  {% if site.contact == "static" %}
+	  {% include contact_static.html %}
+	  {% elsif site.contact == "disqus" %}
+	  {% include contact_disqus.html %}
+	  {% else %}
+	  {% include contact.html %}
+	  {% endif %}
+  {% endcomment %}  
+
+  {% include footer.html %}
+  {% include modals.html %}
+  {% include js.html %}
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 3
+date: 2004-01-01
+img: swag.png
+alt: swag
+project-date: 
+client: 
+category: 
+description: 
+---
+
+<h2>T-SHIRTS & SWAG</h2>
+
+<img src="img/portfolio/BW_Logo_Shirt.png" alt="Woman wearing a white shirt with a black map time Davis logo">
+
+<p>T-shirts and other #maptimeDavis branded items are available at cost (no markup) from <a href="https://www.redbubble.com/people/micheletobias/shop?artistUserName=micheletobias&asc=u&collections=865154&iaCode=all-departments&sortOrder=relevant">Redbubble</a>. Available logos include black, white, gray, and rainbow.</p>

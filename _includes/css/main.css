@@ -11,7 +11,8 @@ body {
 #schedule td, th, tr {
     /*border: 1px solid;*/
 	/*border-collapse: collapse;*/
-	padding: 7px;
+	padding: 10px;
+	text-align: center;
 }
 
 #schedule table {

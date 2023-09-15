@@ -1,5 +1,14 @@
-Freelancer Jekyll theme  
-=========================
+How to Edit
+============================================
+
+The structure of this site is a little different than you might expect. What looks like pages on this site are actually popups (modals) rather than stand-alone html pages. These are stored in the `_posts` folder. The date in the file name creates the ordering on the home page. Do not rename the files.
+
+The files contain a header wrapped in `---`. The `img` section is where you change the image. Do not change the date.
+
+Below the header, edit the page using HTML. W3Schools has an excellent [HTML Reference and Tutorial](https://www.w3schools.com/html/default.asp).
+
+
+#Freelancer Jekyll theme information:
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 

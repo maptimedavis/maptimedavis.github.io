@@ -31,7 +31,7 @@ description:
 	<tr>
 		<td>10/6/2023</td>
 		<td>UC Davis CRC California General Plan Database Mapping Tool (registration link coming soon!)</td>
-		<td>Dr. Catherine Brinkley</td>
+		<td>Dr. Catherine Brinkley, UC Davis</td>
 		<td>Zoom</td>
 	</tr>
 	<tr>

@@ -35,10 +35,22 @@ description:
 		<td>Zoom</td>
 	</tr>
 	<tr>
+		<td>10/13/2023</td>
+		<td>GIS Co-working Day</td>
+		<td>everyone!</td>
+		<td>360 Shields Library</td>
+	</tr>
+	<tr>
 		<td>10/20/2023</td>
 		<td>Integrating Survey123 Connect and Dashboards (registration link coming soon!)</td>
 		<td>Heather Witzens, CAL FIRE</td>
 		<td>Zoom</td>
+	</tr>
+	<tr>
+		<td>10/27/2023</td>
+		<td>GIS Co-working Day</td>
+		<td>everyone!</td>
+		<td>360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>11/17/2023</td>

@@ -14,6 +14,8 @@ description:
 
 <p>Please note the location of each workshop. We are trying to add some in-person workshops back into our schedule in addition to Zoom-only sessions. In-person workshops will be held in DataLab's Classroom, 360 Shields Library. Whenever possible, we will make a Zoom option available. We fully expect there to be some growing pains as we work out how best to do this.</p>
 
+<p>Let us know you're planning to attend by filling out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScQdZStVCS5P6AwVAOKcEU5y4aCCscaIpD0WTzg2k1egdxP2w/viewform?usp=sf_link">RSVP Form</a>.</p>
+
 <br>
 
 <table id="schedule" class="center">
@@ -30,37 +32,43 @@ description:
 	</tr>
 	<tr>
 		<td>10/6/2023</td>
-		<td>UC Davis CRC California General Plan Database Mapping Tool (registration link coming soon!)</td>
+		<td>UC Davis CRC California General Plan Database Mapping Tool <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-what-are-california-cities-and-counties-planning/">(Register Here)</a></td>
 		<td>Dr. Catherine Brinkley, UC Davis</td>
 		<td>Zoom</td>
 	</tr>
 	<tr>
 		<td>10/13/2023</td>
-		<td>GIS Co-working Day</td>
+		<td>GIS Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day/">(Register Here)</a></td>
 		<td>everyone!</td>
 		<td>360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>10/20/2023</td>
-		<td>Integrating Survey123 Connect and Dashboards (registration link coming soon!)</td>
+		<td>Integrating Survey123 Connect and Dashboards <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-integrating-survey123-connect-and-dashboards/">(Register Here)</a></td>
 		<td>Heather Witzens, CAL FIRE</td>
 		<td>Zoom</td>
 	</tr>
 	<tr>
 		<td>10/27/2023</td>
-		<td>GIS Co-working Day</td>
+		<td>GIS Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-2/">(Register Here)</a></td>
 		<td>everyone!</td>
 		<td>360 Shields Library</td>
 	</tr>
 	<tr>
+		<td>11/3/2023</td>
+		<td>A nexus of methods for bees in the gentrifying city: Using GIS, urban political ecological theory, and field ecology to uncover connections between changing property values and urban bee diversity. <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-a-nexus-of-methods-for-bees-in-the-gentrifying-city/">(Register Here)</a></td>
+		<td>Austin Martin</td>
+		<td>360 Shields Library (Zoom option)</td>
+	</tr>
+	<tr>
 		<td>11/17/2023</td>
-		<td>Happy Birthday, #maptimeDavis! Job Panel + Cake! (registration link coming soon!)</td>
+		<td>Happy Birthday, #maptimeDavis! Job Panel + Cake! <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-exploring-geospatial-opportunities-a-maptime-panel-party/">(Register Here)</a></td>
 		<td>community</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
 	<tr>
 		<td>12/1/2023</td>
-		<td>GreenInfo Network and the 30x30 Initiative for conserving California (registration link coming soon!)</td>
+		<td>GreenInfo Network and the 30x30 Initiative for conserving California <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-greeninfo-network-and-the-30x30-initiative-for-conserving-california/">(Register Here)</a></td>
 		<td>Dariya Draganova, GreenInfo Network</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>

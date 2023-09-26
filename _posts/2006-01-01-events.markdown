@@ -39,7 +39,7 @@ description:
 	<tr>
 		<td>10/13/2023</td>
 		<td>GIS Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day/">(Register Here)</a></td>
-		<td>everyone!</td>
+		<td>Working Session</td>
 		<td>360 Shields Library</td>
 	</tr>
 	<tr>
@@ -51,7 +51,7 @@ description:
 	<tr>
 		<td>10/27/2023</td>
 		<td>GIS Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-2/">(Register Here)</a></td>
-		<td>everyone!</td>
+		<td>Working Session</td>
 		<td>360 Shields Library</td>
 	</tr>
 	<tr>
@@ -63,7 +63,7 @@ description:
 	<tr>
 		<td>11/17/2023</td>
 		<td>Happy Birthday, #maptimeDavis! Job Panel + Cake! <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-exploring-geospatial-opportunities-a-maptime-panel-party/">(Register Here)</a></td>
-		<td>community</td>
+		<td>Panel Discussion</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
 	<tr>

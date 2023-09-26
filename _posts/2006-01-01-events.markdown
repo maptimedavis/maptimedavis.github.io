@@ -34,7 +34,7 @@ description:
 		<td>10/6/2023</td>
 		<td>UC Davis CRC California General Plan Database Mapping Tool <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-what-are-california-cities-and-counties-planning/">(Register Here)</a></td>
 		<td>Dr. Catherine Brinkley, UC Davis</td>
-		<td>Zoom</td>
+		<td>Zoom (Watch Party in 360 Shields Library)</td>
 	</tr>
 	<tr>
 		<td>10/13/2023</td>
@@ -46,7 +46,7 @@ description:
 		<td>10/20/2023</td>
 		<td>Integrating Survey123 Connect and Dashboards <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-integrating-survey123-connect-and-dashboards/">(Register Here)</a></td>
 		<td>Heather Witzens, CAL FIRE</td>
-		<td>Zoom</td>
+		<td>Zoom (Watch Party in 360 Shields Library)</td>
 	</tr>
 	<tr>
 		<td>10/27/2023</td>

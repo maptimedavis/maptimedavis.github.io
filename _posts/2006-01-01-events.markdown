@@ -34,13 +34,13 @@ description:
 		<td>10/6/2023</td>
 		<td>UC Davis CRC California General Plan Database Mapping Tool <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-what-are-california-cities-and-counties-planning/">(Register Here)</a></td>
 		<td>Dr. Catherine Brinkley, UC Davis</td>
-		<td>360 Shields Library</td>
+		<td>360 Shields Library (Zoom option)</td>
 	</tr>
 	<tr>
 		<td>10/13/2023</td>
 		<td>GIS Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day/">(Register Here)</a></td>
 		<td>Working Session</td>
-		<td>360 Shields Library (Zoom option)</td>
+		<td>360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>10/20/2023</td>

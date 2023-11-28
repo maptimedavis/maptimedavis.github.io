@@ -75,7 +75,7 @@ description:
 		<tr>
 		<td>1/19/2024</td>
 		<td>Intro to Making Maps with Google Earth Pro (registration link coming soon!)</td>
-		<td>Lauren Mabe</td>
+		<td>Lauren Mabe (UC Davis)</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
 		<tr>
@@ -93,7 +93,7 @@ description:
 		<tr>
 		<td>2/9/2024</td>
 		<td>ArcPro and QGIS side by side overview (registration link coming soon!)</td>
-		<td>Naomi Kalman</td>
+		<td>Naomi Kalman (Valley Spatial)</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
 		<tr>
@@ -118,7 +118,7 @@ description:
 		<tr>
 		<td>3/8/2024</td>
 		<td>Photogrammetry Workshop</td>
-		<td>Clancy McConnell</td>
+		<td>Clancy McConnell (UC Davis)</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
 		<tr>

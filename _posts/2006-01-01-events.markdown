@@ -10,7 +10,7 @@ category:
 description: 
 ---
 
-<p>This schedule is current as of 9/15/2023. Expect updates before the beginning of the quarter.</p>
+<p>This schedule is current as of 11/28/2023. Expect updates before the beginning of the quarter.</p>
 
 <p>Please note the location of each workshop. We are trying to add some in-person workshops back into our schedule in addition to Zoom-only sessions. In-person workshops will be held in DataLab's Classroom, 360 Shields Library. Whenever possible, we will make a Zoom option available. We fully expect there to be some growing pains as we work out how best to do this.</p>
 
@@ -71,6 +71,61 @@ description:
 		<td>GreenInfo Network and the 30x30 Initiative for conserving California <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-greeninfo-network-and-the-30x30-initiative-for-conserving-california/">(Register Here)</a></td>
 		<td>Dariya Draganova, GreenInfo Network</td>
 		<td>360 Shields Library (Zoom option)</td>
+	</tr>
+		<tr>
+		<td>1/19/2024</td>
+		<td>Intro to Making Maps with Google Earth Pro (registration link coming soon!)</td>
+		<td>Lauren Mabe</td>
+		<td>360 Shields Library (Zoom option)</td>
+	</tr>
+		<tr>
+		<td>1/26/2024</td>
+		<td>Downloading Satellite Data from Spatiotemporal Asset Catalogs (STAC) using R (registration link coming soon!)</td>
+		<td>Michele Tobias (UC Davis DataLab) & Alex Mandel (Development Seed)</td>
+		<td>360 Shields Library (Zoom option)</td>
+	</tr>
+		<tr>
+		<td>2/2/2024</td>
+		<td>Geospatial Data Co-working Day</td>
+		<td>Working Session</td>
+		<td>360 Shields Library</td>
+	</tr>
+		<tr>
+		<td>2/9/2024</td>
+		<td>ArcPro and QGIS side by side overview (registration link coming soon!)</td>
+		<td>Naomi Kalman</td>
+		<td>360 Shields Library (Zoom option)</td>
+	</tr>
+		<tr>
+		<td>2/16/2024</td>
+		<td>Geospatial Data Co-working Day</td>
+		<td>Working Session</td>
+		<td>360 Shields Library</td>
+	</tr>
+		<tr>
+		<td>2/23/2024</td>
+		<td>OpenStreetMap (registration link coming soon!)</td>
+		<td>Vanessa Knoppke-Wetzel (GreenInfo Network)</td>
+		<td>360 Shields Library (Zoom option)</td>
+	</tr>
+		</tr>
+		<tr>
+		<td>3/1/2024</td>
+		<td>Geospatial Data Co-working Day</td>
+		<td>Working Session</td>
+		<td>360 Shields Library</td>
+	</tr>
+		<tr>
+		<td>3/8/2024</td>
+		<td>Photogrammetry Workshop</td>
+		<td>Clancy McConnell</td>
+		<td>360 Shields Library (Zoom option)</td>
+	</tr>
+		<tr>
+		<td>3/15/2024</td>
+		<td>Geospatial Data Co-working Day</td>
+		<td>Working Session</td>
+		<td>360 Shields Library</td>
 	</tr>
 </table>
 

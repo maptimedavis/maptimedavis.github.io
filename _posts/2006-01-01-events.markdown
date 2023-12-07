@@ -31,97 +31,54 @@ description:
 		<th>Location</th>
 	</tr>
 	<tr>
-		<td>10/6/2023</td>
-		<td>UC Davis CRC California General Plan Database Mapping Tool <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-what-are-california-cities-and-counties-planning/">(Register Here)</a></td>
-		<td>Dr. Catherine Brinkley, UC Davis</td>
-		<td>360 Shields Library (Zoom option)</td>
-	</tr>
-	<tr>
-		<td>10/13/2023</td>
-		<td>GIS Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day/">(Register Here)</a></td>
-		<td>Working Session</td>
-		<td>360 Shields Library</td>
-	</tr>
-	<tr>
-		<td>10/20/2023</td>
-		<td>Integrating Survey123 Connect and Dashboards <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-integrating-survey123-connect-and-dashboards/">(Register Here)</a></td>
-		<td>Heather Witzens, CAL FIRE</td>
-		<td>Zoom (Watch Party in 360 Shields Library)</td>
-	</tr>
-	<tr>
-		<td>10/27/2023</td>
-		<td>GIS Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-2/">(Register Here)</a></td>
-		<td>Working Session</td>
-		<td>360 Shields Library</td>
-	</tr>
-	<tr>
-		<td>11/3/2023</td>
-		<td>A nexus of methods for bees in the gentrifying city: Using GIS, urban political ecological theory, and field ecology to uncover connections between changing property values and urban bee diversity. <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-a-nexus-of-methods-for-bees-in-the-gentrifying-city/">(Register Here)</a></td>
-		<td>Austin Martin</td>
-		<td>360 Shields Library (Zoom option)</td>
-	</tr>
-	<tr>
-		<td>11/17/2023</td>
-		<td>Happy Birthday, #maptimeDavis! Job Panel + Cake! <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-exploring-geospatial-opportunities-a-maptime-panel-party/">(Register Here)</a></td>
-		<td>Panel Discussion</td>
-		<td>360 Shields Library (Zoom option)</td>
-	</tr>
-	<tr>
-		<td>12/1/2023</td>
-		<td>GreenInfo Network and the 30x30 Initiative for conserving California <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-greeninfo-network-and-the-30x30-initiative-for-conserving-california/">(Register Here)</a></td>
-		<td>Dariya Draganova, GreenInfo Network</td>
-		<td>360 Shields Library (Zoom option)</td>
-	</tr>
-		<tr>
 		<td>1/19/2024</td>
 		<td>Intro to Making Maps with Google Earth Pro (registration link coming soon!)</td>
 		<td>Lauren Mabe (UC Davis)</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>1/26/2024</td>
 		<td>Downloading Satellite Data from Spatiotemporal Asset Catalogs (STAC) using R (registration link coming soon!)</td>
 		<td>Michele Tobias (UC Davis DataLab) & Alex Mandel (Development Seed)</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>2/2/2024</td>
 		<td>Geospatial Data Co-working Day</td>
 		<td>Working Session</td>
 		<td>360 Shields Library</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>2/9/2024</td>
 		<td>ArcPro and QGIS side by side overview (registration link coming soon!)</td>
 		<td>Naomi Kalman (Valley Spatial)</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>2/16/2024</td>
 		<td>Geospatial Data Co-working Day</td>
 		<td>Working Session</td>
 		<td>360 Shields Library</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>2/23/2024</td>
 		<td>OpenStreetMap (registration link coming soon!)</td>
 		<td>Vanessa Knoppke-Wetzel (GreenInfo Network)</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
-		</tr>
-		<tr>
+	<tr>
 		<td>3/1/2024</td>
 		<td>Geospatial Data Co-working Day</td>
 		<td>Working Session</td>
 		<td>360 Shields Library</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>3/8/2024</td>
 		<td>Photogrammetry Workshop</td>
 		<td>Clancy McConnell (UC Davis)</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>3/15/2024</td>
 		<td>Geospatial Data Co-working Day</td>
 		<td>Working Session</td>

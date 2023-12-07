@@ -34,6 +34,36 @@ description:
 	<th>Materials</th>
 </tr>
 <tr>
+	<td>12/1/2023</td>
+	<td>GreenInfo Network and the 30x30 Initiative for conserving California <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-greeninfo-network-and-the-30x30-initiative-for-conserving-california/">(Register Here)</a></td>
+	<td>Dariya Draganova, GreenInfo Network</td>
+	<td></td>
+</tr>
+<tr>
+	<td>11/17/2023</td>
+	<td>Happy Birthday, #maptimeDavis! Job Panel + Cake! <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-exploring-geospatial-opportunities-a-maptime-panel-party/">(Register Here)</a></td>
+	<td>Panel Discussion</td>
+	<td></td>
+</tr>
+<tr>
+	<td>11/3/2023</td>
+	<td>A nexus of methods for bees in the gentrifying city: Using GIS, urban political ecological theory, and field ecology to uncover connections between changing property values and urban bee diversity. <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-a-nexus-of-methods-for-bees-in-the-gentrifying-city/">(Register Here)</a></td>
+	<td>Austin Martin</td>
+	<td></td>
+</tr>
+<tr>
+	<td>10/20/2023</td>
+	<td>Integrating Survey123 Connect and Dashboards <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-integrating-survey123-connect-and-dashboards/">(Register Here)</a></td>
+	<td>Heather Witzens, CAL FIRE</td>
+	<td></td>
+</tr>
+<tr>
+	<td>10/6/2023</td>
+	<td>UC Davis CRC California General Plan Database Mapping Tool <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-what-are-california-cities-and-counties-planning/">(Register Here)</a></td>
+	<td>Dr. Catherine Brinkley, UC Davis</td>
+	<td></td>
+</tr>
+<tr>
 	<td>5/23/2023</td>
 	<td>Get Started with Drones in Scientific Research</td>
 	<td>Clancy McConnell</td>

@@ -35,33 +35,33 @@ description:
 </tr>
 <tr>
 	<td>12/1/2023</td>
-	<td>GreenInfo Network and the 30x30 Initiative for conserving California <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-greeninfo-network-and-the-30x30-initiative-for-conserving-california/">(Register Here)</a></td>
+	<td>GreenInfo Network and the 30x30 Initiative for conserving California </td>
 	<td>Dariya Draganova, GreenInfo Network</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=2R8I-8F0J3A">Video</a></td>
 </tr>
 <tr>
 	<td>11/17/2023</td>
-	<td>Happy Birthday, #maptimeDavis! Job Panel + Cake! <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-exploring-geospatial-opportunities-a-maptime-panel-party/">(Register Here)</a></td>
+	<td>Happy Birthday, #maptimeDavis! Job Panel + Cake!</td>
 	<td>Panel Discussion</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=uCMsmUDlKlE">Video</a></td>
 </tr>
 <tr>
 	<td>11/3/2023</td>
-	<td>A nexus of methods for bees in the gentrifying city: Using GIS, urban political ecological theory, and field ecology to uncover connections between changing property values and urban bee diversity. <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-a-nexus-of-methods-for-bees-in-the-gentrifying-city/">(Register Here)</a></td>
+	<td>A nexus of methods for bees in the gentrifying city: Using GIS, urban political ecological theory, and field ecology to uncover connections between changing property values and urban bee diversity. </td>
 	<td>Austin Martin</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=6VeK7VU-EXA">Video</a></td>
 </tr>
 <tr>
 	<td>10/20/2023</td>
-	<td>Integrating Survey123 Connect and Dashboards <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-integrating-survey123-connect-and-dashboards/">(Register Here)</a></td>
+	<td>Integrating Survey123 Connect and Dashboards </td>
 	<td>Heather Witzens, CAL FIRE</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=zIJuARX7rW0">Video</a></td>
 </tr>
 <tr>
 	<td>10/6/2023</td>
-	<td>UC Davis CRC California General Plan Database Mapping Tool <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-what-are-california-cities-and-counties-planning/">(Register Here)</a></td>
+	<td>UC Davis CRC California General Plan Database Mapping Tool </td>
 	<td>Dr. Catherine Brinkley, UC Davis</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=DmpcakFhMRM">Video</a></td>
 </tr>
 <tr>
 	<td>5/23/2023</td>

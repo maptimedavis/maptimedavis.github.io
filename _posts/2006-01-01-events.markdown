@@ -55,6 +55,12 @@ description:
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>
 	<tr>
+		<td>2/13/2023 (Tuesday)</td>
+		<td>Developing Your Data Science Portfolio(registration link coming soon!)</td>
+		<td>Michele Tobias (UC Davis DataLab)</td>
+		<td>Online</td>
+	</tr>
+	<tr>
 		<td>2/16/2024</td>
 		<td>Geospatial Data Co-working Day</td>
 		<td>Working Session</td>
@@ -68,13 +74,13 @@ description:
 	</tr>
 	<tr>
 		<td>3/1/2024</td>
-		<td>Geospatial Data Co-working Day</td>
-		<td>Working Session</td>
-		<td>360 Shields Library</td>
+		<td>Practicing Critical GIS in the Era of Big Data and AI</td>
+		<td>Charles Knoble</td>
+		<td>360 Shields Library (Zoom option)</td>
 	</tr>
 	<tr>
 		<td>3/8/2024</td>
-		<td>Photogrammetry Workshop</td>
+		<td>Photogrammetry & Working with Drone Data</td>
 		<td>Clancy McConnell (UC Davis)</td>
 		<td>360 Shields Library (Zoom option)</td>
 	</tr>

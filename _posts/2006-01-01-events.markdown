@@ -38,12 +38,12 @@ description:
 	<tr>
 		<td>2/2/2024</td>
 		<td>Geospatial Data Co-working Day</td>
-		<td>Working Session</td>
+		<td>Working Session <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-3/">RSVP Here</a></td>
 		<td>PSEL Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
 		<td>2/9/2024</td>
-		<td>ArcPro and QGIS side by side overview (<a href="">RSVP Here</a>)</td>
+		<td>ArcPro and QGIS side by side overview (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-arcpro-and-qgis-side-by-side-overview/">RSVP Here</a>)</td>
 		<td>Naomi Kalman (Valley Spatial)</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
@@ -51,29 +51,29 @@ description:
 		<td>2/13/2023 (Tuesday)</td>
 		<td>Developing Your Data Science Portfolio(registration link coming soon!)</td>
 		<td>Michele Tobias (UC Davis DataLab)</td>
-		<td>Online</td>
+		<td>Details Coming Soon!</td>
 	</tr>
 	<tr>
 		<td>2/16/2024</td>
 		<td>Geospatial Data Co-working Day</td>
-		<td>Working Session</td>
+		<td>Working Session <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-4/">RSVP Here</a></td>
 		<td>PSEL Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
 		<td>2/23/2024</td>
-		<td>OpenStreetMap (<a href="">RSVP Here</a>)</td>
+		<td>OpenStreetMap (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-openstreetmap/">RSVP Here</a>)</td>
 		<td>Vanessa Knoppke-Wetzel (GreenInfo Network)</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
 		<td>3/1/2024</td>
-		<td>Practicing Critical GIS in the Era of Big Data and AI (<a href="">RSVP Here</a>)</td>
+		<td>Practicing Critical GIS in the Era of Big Data and AI (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-practicing-critical-gis-in-the-era-of-big-data-and-ai/">RSVP Here</a>)</td>
 		<td>Charles Knoble</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
 		<td>3/8/2024</td>
-		<td>Photogrammetry & Working with Drone Data (<a href="">RSVP Here</a>)</td>
+		<td>Photogrammetry & Working with Drone Data (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-photogrammetry-working-with-drone-data/">RSVP Here</a>)</td>
 		<td>Clancy McConnell (UC Davis)</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>

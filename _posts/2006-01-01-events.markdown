@@ -37,8 +37,8 @@ description:
 	</tr>
 	<tr>
 		<td>2/2/2024</td>
-		<td>Geospatial Data Co-working Day</td>
-		<td>Working Session <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-3/">RSVP Here</a></td>
+		<td>Geospatial Data Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-3/">RSVP Here</a></td>
+		<td>Working Session </td>
 		<td>PSEL Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
@@ -55,8 +55,8 @@ description:
 	</tr>
 	<tr>
 		<td>2/16/2024</td>
-		<td>Geospatial Data Co-working Day</td>
-		<td>Working Session <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-4/">RSVP Here</a></td>
+		<td>Geospatial Data Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-4/">RSVP Here</a></td>
+		<td>Working Session</td>
 		<td>PSEL Seminar Room (room 1025)</td>
 	</tr>
 	<tr>

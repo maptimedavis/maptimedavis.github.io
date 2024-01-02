@@ -30,28 +30,22 @@ description:
 		<th>Location</th>
 	</tr>
 	<tr>
-		<td>1/19/2024</td>
-		<td>Intro to Making Maps with Google Earth Pro (registration link coming soon!)</td>
-		<td>Lauren Mabe (UC Davis)</td>
-		<td>360 Shields Library (Zoom option)</td>
-	</tr>
-	<tr>
 		<td>1/26/2024</td>
-		<td>Downloading Satellite Data from Spatiotemporal Asset Catalogs (STAC) using R (registration link coming soon!)</td>
+		<td>Downloading Satellite Data from Spatiotemporal Asset Catalogs (STAC) using R (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-downloading-satellite-data-from-spatiotemporal-asset-catalogs-stac-using-r/">RSVP Here</a>)</td>
 		<td>Michele Tobias (UC Davis DataLab) & Alex Mandel (Development Seed)</td>
-		<td>360 Shields Library (Zoom option)</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
 		<td>2/2/2024</td>
 		<td>Geospatial Data Co-working Day</td>
 		<td>Working Session</td>
-		<td>360 Shields Library</td>
+		<td>PSEL Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
 		<td>2/9/2024</td>
-		<td>ArcPro and QGIS side by side overview (registration link coming soon!)</td>
+		<td>ArcPro and QGIS side by side overview (<a href="">RSVP Here</a>)</td>
 		<td>Naomi Kalman (Valley Spatial)</td>
-		<td>360 Shields Library (Zoom option)</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
 		<td>2/13/2023 (Tuesday)</td>
@@ -63,31 +57,25 @@ description:
 		<td>2/16/2024</td>
 		<td>Geospatial Data Co-working Day</td>
 		<td>Working Session</td>
-		<td>360 Shields Library</td>
+		<td>PSEL Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
 		<td>2/23/2024</td>
-		<td>OpenStreetMap (registration link coming soon!)</td>
+		<td>OpenStreetMap (<a href="">RSVP Here</a>)</td>
 		<td>Vanessa Knoppke-Wetzel (GreenInfo Network)</td>
-		<td>360 Shields Library (Zoom option)</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
 		<td>3/1/2024</td>
-		<td>Practicing Critical GIS in the Era of Big Data and AI</td>
+		<td>Practicing Critical GIS in the Era of Big Data and AI (<a href="">RSVP Here</a>)</td>
 		<td>Charles Knoble</td>
-		<td>360 Shields Library (Zoom option)</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
 		<td>3/8/2024</td>
-		<td>Photogrammetry & Working with Drone Data</td>
+		<td>Photogrammetry & Working with Drone Data (<a href="">RSVP Here</a>)</td>
 		<td>Clancy McConnell (UC Davis)</td>
-		<td>360 Shields Library (Zoom option)</td>
-	</tr>
-	<tr>
-		<td>3/15/2024</td>
-		<td>Geospatial Data Co-working Day</td>
-		<td>Working Session</td>
-		<td>360 Shields Library</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 </table>
 

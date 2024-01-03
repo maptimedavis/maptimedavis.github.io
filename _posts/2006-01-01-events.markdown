@@ -10,7 +10,7 @@ category:
 description: 
 ---
 
-<p>This schedule is current as of 12/22/2023. Expect updates before the beginning of the quarter.</p>
+<p>This schedule is current as of 1/3/2023. Expect updates before the beginning of the quarter.</p>
 
 <p>Workshops take place on <b>Fridays from 10:00-12:00</b>, unless otherwise indicated. Please note the location of each workshop and that our <b>MEETING LOCATION HAS CHANGED</b>. In-person workshops will be held in <b>PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</b>. Whenever possible, we will make a Zoom option available. We fully expect there to be some growing pains as we work out how best to do this.</p>
 

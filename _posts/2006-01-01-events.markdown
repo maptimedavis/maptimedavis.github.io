@@ -12,7 +12,11 @@ description:
 
 <p>This schedule is current as of 1/3/2023. Expect updates before the beginning of the quarter.</p>
 
-<p>Workshops take place on <b>Fridays from 10:00-12:00</b>, unless otherwise indicated. Please note the location of each workshop and that our <b>MEETING LOCATION HAS CHANGED</b>. In-person workshops will be held in <b>PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</b>. Whenever possible, we will make a Zoom option available. We fully expect there to be some growing pains as we work out how best to do this.</p>
+<p>Workshops take place on <b>Fridays from 10:00-12:00</b>, unless otherwise indicated. Please note the location of each workshop and that our <b>MEETING LOCATION HAS CHANGED</b>. In-person workshops will be held in <b><a href="http://campusmap.ucdavis.edu/?b=115">PSEL (Physical Sciences & Engineering Library)</a> Seminar Room (room 1025)</b>. Whenever possible, we will make a Zoom option available. We fully expect there to be some growing pains as we work out how best to do this.</p>
+
+<p>Where is the <a href="http://campusmap.ucdavis.edu/?b=115">PSEL (Physical Sciences & Engineering Library)</a> Seminar Room (room 1025) inside the building? From the front doors, walk straight forward, past the long bank of conference tables, and you'll see the room on your left.</p>
+
+<img src="/img/PSEL_Seminar_Room.jpg" alt="Physical Sciences & Engineering Library Seminar Room. Blue chairs at rows of long tables face a podium and digital screens. A white board is on the wall next to the chairs.>
 
 
 <br>

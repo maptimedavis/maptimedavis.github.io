@@ -53,9 +53,9 @@ description:
 	</tr>
 	<tr>
 		<td>2/13/2023 (Tuesday)</td>
-		<td>Developing Your Data Science Portfolio (registration link coming soon!)</td>
+		<td>Developing Your Data Science Portfolio (<a href="https://datalab.ucdavis.edu/eventscalendar/developing-your-data-science-portfolio-2/">RSVP Here</a>)</td>
 		<td>Michele Tobias (UC Davis DataLab)</td>
-		<td>Details Coming Soon!</td>
+		<td>Zoom (part of <a href="https://uc-love-data-week.github.io/">UC Love Data Week</a>)</td>
 	</tr>
 	<tr>
 		<td>2/16/2024</td>

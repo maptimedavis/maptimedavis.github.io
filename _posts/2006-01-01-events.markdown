@@ -65,7 +65,7 @@ description:
 	</tr>
 	<tr>
 		<td>2/23/2024</td>
-		<td>OpenStreetMap (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-openstreetmap/">RSVP Here</a>)</td>
+		<td>OpenStreetMap (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-openstreetmap/">RSVP Here</a>) <a href="https://docs.google.com/presentation/d/1VP5atFAWcENYMKZVA5aJ26AD5kduWI4IG7EePWZtZsQ/edit#slide=id.g2bb935472a1_0_301">Talk Slides</a></td>
 		<td>Vanessa Knoppke-Wetzel (GreenInfo Network)</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
@@ -77,8 +77,8 @@ description:
 	</tr>
 	<tr>
 		<td>3/8/2024</td>
-		<td>Photogrammetry & Working with Aerial Imagery (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-photogrammetry-working-with-drone-data/">RSVP Here</a>)</td>
-		<td>Michele Tobias (UC Davis)</td>
+		<td>Photogrammetry & Working with Aerial Imagery (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-photogrammetry-working-with-drone-data/">RSVP Here</a>) (<a href="https://github.com/MicheleTobias/workshop-photogrammetry">Workshop Reader</a>)</td>
+		<td>Michele Tobias & Liam Bhajan (UC Davis)</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 </table>

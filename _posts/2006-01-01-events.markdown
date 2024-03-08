@@ -10,7 +10,7 @@ category:
 description: 
 ---
 
-<p>This schedule is current as of 1/3/2023. Expect updates before the beginning of the quarter.</p>
+<p>This schedule is current as of 3/8/2024. Expect updates before the beginning of the quarter.</p>
 
 <p>Workshops take place on <b>Fridays from 10:00-12:00</b>, unless otherwise indicated. Please note the location of each workshop and that our <b>MEETING LOCATION HAS CHANGED</b>. In-person workshops will be held in <b><a href="http://campusmap.ucdavis.edu/?b=115">PSEL (Physical Sciences & Engineering Library)</a> Seminar Room (room 1025)</b>. Whenever possible, we will make a Zoom option available. We fully expect there to be some growing pains as we work out how best to do this.</p>
 
@@ -28,59 +28,68 @@ description:
 		<col style="background-color:lightgray">
 	</colgroup>
 	<tr>
-		<th>Date</th>
-		<th>Topic</th>
-		<th>Speaker</th>
-		<th>Location</th>
+		<th>4/5/2024</th>
+		<th>AAG Conference Practice Talks</th>
+		<th>The Community</th>
+		<th>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</th>
 	</tr>
 	<tr>
-		<td>1/26/2024</td>
-		<td>Downloading Satellite Data from Spatiotemporal Asset Catalogs (STAC) using R (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-downloading-satellite-data-from-spatiotemporal-asset-catalogs-stac-using-r/">RSVP Here</a>)</td>
-		<td>Michele Tobias (UC Davis DataLab) & Alex Mandel (Development Seed)</td>
+		<td>4/12/2024</td>
+		<td>Intro to Mapping with Google Earth (registration link coming soon!)</td>
+		<td>Lauren Mabe (UC Davis)</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
-		<td>2/2/2024</td>
-		<td>Geospatial Data Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-3/">RSVP Here</a></td>
-		<td>Working Session </td>
-		<td>PSEL Seminar Room (room 1025)</td>
+		<td>4/19/2024</td>
+		<td>Intro to GIS with QGIS (registration link coming soon!)</td>
+		<td>Veronica Herrera (UC Davis)</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
-		<td>2/9/2024</td>
-		<td>ArcPro and QGIS side by side overview (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-arcpro-and-qgis-side-by-side-overview/">RSVP Here</a>)</td>
+		<td>4/26/2024</td>
+		<td>Intro to ArcPro (registration link coming soon!)</td>
 		<td>Naomi Kalman (Valley Spatial)</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
-		<td>2/13/2023 (Tuesday)</td>
-		<td>Developing Your Data Science Portfolio (<a href="https://datalab.ucdavis.edu/eventscalendar/developing-your-data-science-portfolio-2/">RSVP Here</a>)</td>
-		<td>Michele Tobias (UC Davis DataLab)</td>
-		<td>Zoom (part of <a href="https://uc-love-data-week.github.io/">UC Love Data Week</a>)</td>
-	</tr>
-	<tr>
-		<td>2/16/2024</td>
-		<td>Geospatial Data Co-working Day <a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-gis-co-working-day-4/">RSVP Here</a></td>
-		<td>Working Session</td>
-		<td>PSEL Seminar Room (room 1025)</td>
-	</tr>
-	<tr>
-		<td>2/23/2024</td>
-		<td>OpenStreetMap (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-openstreetmap/">RSVP Here</a>) <a href="https://docs.google.com/presentation/d/1VP5atFAWcENYMKZVA5aJ26AD5kduWI4IG7EePWZtZsQ/edit#slide=id.g2bb935472a1_0_301">Talk Slides</a></td>
-		<td>Vanessa Knoppke-Wetzel (GreenInfo Network)</td>
+		<td>5/3/2024</td>
+		<td>Spatial SQL (registration link coming soon!)</td>
+		<td>Michele Tobias (UC Davis)</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
-		<td>3/1/2024</td>
-		<td>Practicing Critical GIS in the Era of Big Data and AI (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-practicing-critical-gis-in-the-era-of-big-data-and-ai/">RSVP Here</a>)</td>
-		<td>Charles Knoble</td>
+		<td>5/10/2024</td>
+		<td>GIS Co-Working Day (registration link coming soon!)</td>
+		<td>The Community</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
-		<td>3/8/2024</td>
-		<td>Photogrammetry & Working with Aerial Imagery (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-photogrammetry-working-with-drone-data/">RSVP Here</a>) (<a href="https://github.com/MicheleTobias/workshop-photogrammetry">Workshop Reader</a>)</td>
-		<td>Michele Tobias & Liam Bhajan (UC Davis)</td>
+		<td>5/17/2024</td>
+		<td>Exploring the National Zoning Atlas (registration link coming soon!)</td>
+		<td>Clancy McConnell</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
+	<tr>
+		<td>5/24/2024 Afternoon!</td>
+		<td>Geobeverages Happy Hour (registration link coming soon!)</td>
+		<td>The Community</td>
+		<td>Location TBD - a venue in Davis with a variety of beverages and snacks or food agreeable for hanging out</td>
+	</tr>
+	<tr>
+		<td>5/31/2024</td>
+		<td>GIS Co-Working Day (registration link coming soon!)</td>
+		<td>The Community</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
+	</tr>
+
+
+
+	
+	
+	
+	
+	
+	
 </table>
 
 <!-- Empty Row Template:
@@ -88,6 +97,6 @@ description:
 		<td>date</td>
 		<td>talk title (registration link coming soon!)</td>
 		<td>speaker name</td>
-		<td>location</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 -->

@@ -34,6 +34,42 @@ description:
 	<th>Materials</th>
 </tr>
 <tr>
+	<td>3/8/2024</td>
+	<td>Photogrammetry & Working with Aerial Imagery </td>
+	<td>Michele Tobias & Liam Bhajan (UC Davis)</td>
+	<td>(<a href="https://github.com/MicheleTobias/workshop-photogrammetry">Workshop Materials</a>)</td>
+</tr>
+<tr>
+	<td>3/1/2024</td>
+	<td>Practicing Critical GIS in the Era of Big Data and AI</td>
+	<td>Charles Knoble</td>
+	<td></td>
+</tr>
+<tr>
+	<td>2/23/2024</td>
+	<td>OpenStreetMap</td>
+	<td>Vanessa Knoppke-Wetzel (GreenInfo Network)</td>
+	<td><a href="https://docs.google.com/presentation/d/1VP5atFAWcENYMKZVA5aJ26AD5kduWI4IG7EePWZtZsQ/edit#slide=id.g2bb935472a1_0_301">Talk Slides</a></td>
+</tr>
+<tr>
+	<td>2/13/2023 (Tuesday)</td>
+	<td>Developing Your Data Science Portfolio</td>
+	<td>Michele Tobias (UC Davis DataLab)</td>
+	<td><a href="https://ucdavisdatalab.github.io/workshop_portfolios/">Workshop Materials</a></td>
+</tr>
+<tr>
+	<td>2/9/2024</td>
+	<td>ArcPro and QGIS side by side overview</td>
+	<td>Naomi Kalman (Valley Spatial)</td>
+	<td><a href = "https://docs.google.com/document/d/11eGMYWUHeHTyNHW63nAyNwvvjRHNzb1V-GT56EzCSow">Workshop Materials</a></td>
+</tr>
+<tr>
+	<td>1/26/2024</td>
+	<td>Downloading Satellite Data from Spatiotemporal Asset Catalogs (STAC) using R )</td>
+	<td>Michele Tobias (UC Davis DataLab) & Alex Mandel (Development Seed)</td>
+	<td><a href = "https://github.com/MicheleTobias/workshop-stac">Workshop Materials</a></td>
+</tr>
+<tr>
 	<td>12/1/2023</td>
 	<td>GreenInfo Network and the 30x30 Initiative for conserving California </td>
 	<td>Dariya Draganova, GreenInfo Network</td>

@@ -28,10 +28,16 @@ description:
 		<col style="background-color:lightgray">
 	</colgroup>
 	<tr>
-		<th>4/5/2024</th>
-		<th>AAG Conference Practice Talks</th>
-		<th>The Community</th>
-		<th>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</th>
+		<th>Date</th>
+		<th>Topic</th>
+		<th>Speaker</th>
+		<th>Location</th>
+	</tr>
+	<tr>
+		<td>4/5/2024</td>
+		<td>AAG Conference Practice Talks</td>
+		<td>The Community</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
 	</tr>
 	<tr>
 		<td>4/12/2024</td>
@@ -61,7 +67,7 @@ description:
 		<td>5/10/2024</td>
 		<td>GIS Co-Working Day (registration link coming soon!)</td>
 		<td>The Community</td>
-		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
+		<td>PSEL Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
 		<td>5/17/2024</td>
@@ -79,7 +85,7 @@ description:
 		<td>5/31/2024</td>
 		<td>GIS Co-Working Day (registration link coming soon!)</td>
 		<td>The Community</td>
-		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
+		<td>PSEL Seminar Room (room 1025)</td>
 	</tr>
 
 

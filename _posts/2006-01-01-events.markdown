@@ -56,7 +56,7 @@ description:
 		<td>4/26/2024</td>
 		<td>Intro to ArcPro (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-intro-to-arcpro/">Register Here</a>)</td>
 		<td>Naomi Kalman (Valley Spatial)</td>
-		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation; <a href="https://app.box.com/s/qk0uk93ghefgk3llxtlm46hujdjpve1e">Workshop Materials</a></td>
 	</tr>
 	<tr>
 		<td>5/3/2024</td>

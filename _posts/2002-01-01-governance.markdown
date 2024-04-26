@@ -14,6 +14,8 @@ description:
 <p>In the summer of 2021, the Spatial Sciences Research & Learning Cluster recruited community members to help advise and produce our #maptimeDavis workshop series.  We assembled a team with a variety of skills and interests including students, staff, and faculty. This year's #maptimeDavis Council members are:</p>
 
 
+>Note: Applications for 2024-2025 School Year are now [Open](https://forms.gle/4MPR7jdaURt6r9f68). Deadline is May 3, 2024
+
 <p>Alex Mandel, geospatial engineer, Development Seed</p>
 <p>Kyra Liu, undergraduate student, Environmental Science and Management</p>
 <p>Liam Bhajan, graduate student, Land Air Water Resources</p>

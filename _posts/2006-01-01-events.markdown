@@ -60,7 +60,8 @@ description:
 	</tr>
 	<tr>
 		<td>5/3/2024</td>
-		<td>Spatial SQL (<a href="https://datalab.ucdavis.edu/eventscalendar">Register Here</a>)</td>
+		<td>Spatial SQL (<a 
+		href="https://datalab.ucdavis.edu/eventscalendar/workshop-spatial-sql-2/">Register Here</a>)</td>
 		<td>Michele Tobias (UC Davis)</td>
 		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation; <a href="https://github.com/ucdavisdatalab/Spatial_SQL">Workshop Materials</a></td>
 	</tr>

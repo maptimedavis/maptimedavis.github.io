@@ -81,7 +81,7 @@ description:
 		<td>5/24/2024 Afternoon!</td>
 		<td>Geobeverages Happy Hour (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-geobeverages-meet-up/">Register Here</a>)</td>
 		<td>The Community</td>
-		<td>Location TBD - a venue in Davis with a variety of beverages and snacks or food agreeable for hanging out</td>
+		<td>Location: Delta of Venus - a venue in Davis with a variety of beverages and snacks or food agreeable for hanging out</td>
 	</tr>
 	<tr>
 		<td>5/31/2024</td>

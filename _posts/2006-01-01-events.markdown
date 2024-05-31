@@ -87,7 +87,7 @@ description:
 		<td>5/31/2024</td>
 		<td>Spatial R: Migrating from Raster to Terra (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-d-rug-spatial-r-migrating-from-raster-to-terra/">Register Here</a>)</td>
 		<td>Elise Hellwig (UC Davis)</td>
-		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation</td>
+		<td>PSEL Seminar Room (room 1025); Zoom option emailed with registration confirmation; <a href="https://github.com/d-rug/raster_to_terra#practice">Workshop Materials</a></td>
 	</tr>
 	
 

@@ -16,7 +16,7 @@ description:
 <p>Matthew Conner, Librarian, UC Davis Library</p>
 <p>Lauren Mabe, Graduate Student, UC Davis Geography Graduate Group
 <p>Alex Mandel, Geospatial Engineer, Development Seed</p>
-<p>Naomi Kalman,  GIS Programmer, UC Davis Campus Planning and Environmental Services</p>
+<p>Naomi Kalman,  GIS Programmer, UC Davis Campus Planning and Environmental Stewardship</p>
 <p>Michele Tobias, Data Scientist, UC Davis DataLab</p>
 
 

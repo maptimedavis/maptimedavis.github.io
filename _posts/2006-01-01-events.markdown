@@ -38,6 +38,7 @@ description:
 		<td>Is my Research Mappable? Data & Methods For Adding Spatial Data to Your Work (registration link coming soon!)</td>
 		<td>Michele Tobias, UC Davis DataLab</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
 	<tr>
 		<td>10/11/2024</td>
 		<td>Welcome to #maptimeDavis + Work Session (registration link coming soon!)</td>
@@ -79,11 +80,7 @@ description:
 		<td>Geobeverages (registration link coming soon!)</td>
 		<td>Community Event</td>
 		<td>This is a relaxed AFTERNOON event at local purveyors of food and beverages: Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA from 4:00-6:00 pm</td>
-	</tr>	
-	
-	
-	
-	
+	</tr>		
 </table>
 
 <!-- Empty Row Template:

@@ -16,7 +16,7 @@ description:
 
 <p>Where is the <a href="http://campusmap.ucdavis.edu/?b=115">The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library)</a> Seminar Room (room 1025) inside the building? From the front doors, walk straight forward, past the long bank of conference tables, and you'll see the room on your left.</p>
 
-<img src="../img/PSEL_Seminar_Room.jpg" style="width: 75%;" alt="Physical and Data Sciences Building Seminar Room. Blue chairs at rows of long tables face a podium and digital screens. A white board is on the wall next to the chairs.">
+<img src="../img/GoogleEarth_A_2024-04-12.jpg" style="width: 75%;" alt="Taken from the back of the room at Physical and Data Sciences Building Seminar Room where students sit in blue chairs at rows of long tables facing a podium and digital screens where an instructor points at a globe on one of the two screens. ">
 
 
 <br>

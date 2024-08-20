@@ -21,6 +21,8 @@ description:
 
 <br>
 
+<h2>Schedule</h2>
+
 <table id="schedule" class="center">
 	<colgroup>
 		<col style="background-color:lightgray">

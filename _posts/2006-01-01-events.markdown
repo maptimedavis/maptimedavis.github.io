@@ -64,7 +64,7 @@ description:
 	</tr>
 	<tr>
 		<td>11/8/2024</td>
-		td>Work Session (registration link coming soon!)</td>
+		<td>Work Session (registration link coming soon!)</td>
 		<td>Community Event</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>

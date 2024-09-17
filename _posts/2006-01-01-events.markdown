@@ -38,12 +38,12 @@ description:
 	<tr>
 		<td>9/19/2024</td>
 		<td>Geobeverages/UCD GIS User Social</td>
-		<td></td>
+		<td>Community Event</td>
 		<td>This is a relaxed EVENING social event at local purveyors of food and beverages: Bull N' Mouth at 217 E St, Davis, at 5:00 pm</td>
 	</tr>
 	<tr>
 		<td>10/4/2024</td>
-		<td>Is my Research Mappable? Data & Methods For Adding Spatial Data to Your Work (registration link coming soon!)</td>
+		<td>Intro to Spatial Data Formats (registration link coming soon!)</td>
 		<td>Michele Tobias, UC Davis DataLab</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>

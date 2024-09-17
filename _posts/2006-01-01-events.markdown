@@ -36,6 +36,12 @@ description:
 		<th>Location</th>
 	</tr>
 	<tr>
+		<td>9/19/2024</td>
+		<td>Geobeverages/UCD GIS User Social</td>
+		<td></td>
+		<td>This is a relaxed EVENING social event at local purveyors of food and beverages: Bull N' Mouth at 217 E St, Davis, at 5:00 pm</td>
+	</tr>
+	<tr>
 		<td>10/4/2024</td>
 		<td>Is my Research Mappable? Data & Methods For Adding Spatial Data to Your Work (registration link coming soon!)</td>
 		<td>Michele Tobias, UC Davis DataLab</td>
@@ -81,7 +87,7 @@ description:
 		<td>11/22/2024</td>
 		<td>Geobeverages (registration link coming soon!)</td>
 		<td>Community Event</td>
-		<td>This is a relaxed AFTERNOON event at local purveyors of food and beverages: Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA from 4:00-6:00 pm</td>
+		<td>This is a relaxed AFTERNOON social event at local purveyors of food and beverages: Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA from 4:00-6:00 pm</td>
 	</tr>		
 </table>
 

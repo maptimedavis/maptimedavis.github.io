@@ -37,7 +37,7 @@ description:
 	</tr>
 	<tr>
 		<td>9/19/2024</td>
-		<td>Geobeverages/UCD GIS User Social - Please < a href="https://www.eventbrite.com/e/ucd-gis-user-social-tickets-1020980940477?">RSVP</a></td>
+		<td>Geobeverages/UCD GIS User Social - Please <a href="https://www.eventbrite.com/e/ucd-gis-user-social-tickets-1020980940477?">RSVP</a></td>
 		<td>Community Event</td>
 		<td>This is a relaxed EVENING social event at local purveyors of food and beverages: Bull N' Mouth at 217 E St, Davis, at 5:00 pm</td>
 	</tr>

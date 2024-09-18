@@ -35,40 +35,39 @@ description:
 </tr>
 <tr>
 	<td>5/31/2024</td>
-	<td>Spatial R: Migrating from Raster to Terra (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-d-rug-spatial-r-migrating-from-raster-to-terra/">Register Here</a>)</td>
+	<td>Spatial R: Migrating from Raster to Terra</td>
 	<td>Elise Hellwig (UC Davis)</td>
-	<td><a href="https://github.com/d-rug/raster_to_terra#practice">Workshop Materials</a></td>
+	<td><a href="https://www.youtube.com/watch?v=NqeLj_vdjTs">Video</a>, <a href="https://github.com/d-rug/raster_to_terra#practice">Workshop Materials</a></td>
 </tr>
 <tr>
 	<td>5/17/2024</td>
-	<td>Exploring the National Zoning Atlas (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-exploring-the-national-zoning-atlas/">Register Here</a>)</td>
+	<td>Exploring the National Zoning Atlas</td>
 	<td>Clancy McConnell (UC Davis)</td>
-	<td></td>
+	<td><a href="https://www.youtube.com/watch?v=hF-pwJymwzU">Video</a></td>
 </tr>
 <tr>
 	<td>5/3/2024</td>
-	<td>Spatial SQL (<a 
-	href="https://datalab.ucdavis.edu/eventscalendar/workshop-spatial-sql-2/">Register Here</a>)</td>
+	<td>Spatial SQL</td>
 	<td>Michele Tobias (UC Davis)</td>
-	<td><a href="https://ucdavisdatalab.github.io/Spatial_SQL/">Workshop Materials</a></td>
+	<td><a href="https://www.youtube.com/watch?v=4nLlBpnxdj0">Video</a>, <a href="https://ucdavisdatalab.github.io/Spatial_SQL/">Workshop Materials</a></td>
 </tr>
 <tr>
 	<td>4/26/2024</td>
-	<td>Intro to ArcPro (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-intro-to-arcpro/">Register Here</a>)</td>
+	<td>Intro to ArcPro</td>
 	<td>Naomi Kalman (Valley Spatial)</td>
-	<td><a href="https://app.box.com/s/qk0uk93ghefgk3llxtlm46hujdjpve1e">Workshop Materials</a></td>
+	<td><a href="https://www.youtube.com/watch?v=4e1W59u005Y">Video</a>, <a href="https://app.box.com/s/qk0uk93ghefgk3llxtlm46hujdjpve1e">Workshop Materials</a></td>
 </tr>
 <tr>
 	<td>4/19/2024</td>
-	<td>Intro to GIS with QGIS (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-intro-to-gis-with-qgis/">Register Here</a>)</td>
+	<td>Intro to GIS with QGIS</td>
 	<td>Veronica Herrera (UC Davis)</td>
 	<td><a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a></td>
 </tr>
 <tr>
 	<td>4/12/2024</td>
-	<td>Intro to Mapping with Google Earth (<a href="https://datalab.ucdavis.edu/eventscalendar/maptimedavis-intro-to-making-maps-with-google-earth-pro/">Register Here</a>)</td>
+	<td>Intro to Mapping with Google Earth</td>
 	<td>Lauren Mabe (UC Davis)</td>
-	<td><a href="https://docs.google.com/document/d/19FHFj9URK7KowthiQ1vNYKSEQsHvnycGlicePCNkgI0">Workshop Materials</a>; <a href="https://docs.google.com/presentation/d/14QF7TRpkPIwG2y7-qL1s30hm6SGlh6wYCyfOEycr9F0">Slides</a>; <a href="https://www.google.com/earth/about/versions/#earth-pro">Download Google Earth Pro</a></td>
+	<td><a href="https://www.youtube.com/watch?v=G3n4ZFM4nVo">Video</a>, <a href="https://docs.google.com/document/d/19FHFj9URK7KowthiQ1vNYKSEQsHvnycGlicePCNkgI0">Workshop Materials</a>; <a href="https://docs.google.com/presentation/d/14QF7TRpkPIwG2y7-qL1s30hm6SGlh6wYCyfOEycr9F0">Slides</a>; <a href="https://www.google.com/earth/about/versions/#earth-pro">Download Google Earth Pro</a></td>
 </tr>
 <tr>
 	<td>3/8/2024</td>

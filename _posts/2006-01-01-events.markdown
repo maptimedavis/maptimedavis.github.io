@@ -43,49 +43,49 @@ description:
 	</tr>
 	<tr>
 		<td>10/4/2024</td>
-		<td>Intro to Spatial Data Formats (registration link coming soon!)</td>
+		<td>Intro to Spatial Data Formats (<a href="https://datalab.ucdavis.edu/eventscalendar/is-my-research-mappable-data-methods-for-adding-spatial-data-to-your-work-maptimedavis/">RSVP Here</a>)</td>
 		<td>Michele Tobias, UC Davis DataLab</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
 		<td>10/11/2024</td>
-		<td>Welcome to #maptimeDavis + Work Session (registration link coming soon!)</td>
+		<td>Welcome to #maptimeDavis + Work Session (<a href="https://datalab.ucdavis.edu/eventscalendar/welcome-to-maptimedavis-work-session-maptimedavis/">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>	
 	<tr>
 		<td>10/18/2024</td>
-		<td>Intro to Google Earth (registration link coming soon!)</td>
+		<td>Intro to Making Maps with Google Earth Pro (<a href="https://datalab.ucdavis.edu/eventscalendar/intro-to-making-maps-with-google-earth-pro-maptimedavis/">RSVP Here</a>)</td>
 		<td>Lauren Mabe, Geography Graduate Group</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
 		<td>10/25/2024</td>
-		<td>Work Session (registration link coming soon!)</td>
+		<td>Work Session (<a href="https://datalab.ucdavis.edu/eventscalendar/work-session-maptimedavis/">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>	
 	<tr>
 		<td>11/1/2024</td>
-		<td>Lightning Talks (registration link coming soon!)</td>
+		<td>Lightning Talks (<a href="https://datalab.ucdavis.edu/eventscalendar/lightning-talks-maptimedavis/">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
 		<td>11/8/2024</td>
-		<td>Work Session (registration link coming soon!)</td>
+		<td>Work Session (<a href="https://datalab.ucdavis.edu/eventscalendar/work-session-maptimedavis-2/">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
 		<td>11/15/2024</td>
-		<td>Contributing to OpenStreetMap (registration link coming soon!)</td>
+		<td>Contributing to OpenStreetMap (<a href="https://datalab.ucdavis.edu/eventscalendar/contributing-to-openstreetmap-maptimedavis/">RSVP Here</a>)</td>
 		<td>Naomi Kalman</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>	
 	<tr>
 		<td>11/22/2024</td>
-		<td>Geobeverages (registration link coming soon!)</td>
+		<td>Geobeverages (<a href="https://datalab.ucdavis.edu/eventscalendar/geobeverages-meet-up-maptimedavis/">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>This is a relaxed AFTERNOON social event at local purveyors of food and beverages: Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA from 4:00-6:00 pm</td>
 	</tr>		

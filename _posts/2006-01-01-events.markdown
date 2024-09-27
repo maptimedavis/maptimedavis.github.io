@@ -50,7 +50,7 @@ description:
 		<tr>
 		<td>10/5-6/2024 11:00-4:00</td>
 		<td>NASA Space Apps Challenge - Community Mapping (<a href="https://datalab.ucdavis.edu/eventscalendar/nasa-space-apps-challenge-community-mapping-maptimedavis/">RSVP Here</a>)</td>
-		<td>Organizers: Liam Bharjan & Lupe Franco, Geography Graduate Group</td>
+		<td>Organizers: Liam Bhajan & Lupe Franco, Geography Graduate Group</td>
 		<td>DataLab Classroom - room 360 Shields</td>
 	</tr>	
 	<tr>
@@ -74,7 +74,7 @@ description:
 	<tr>
 		<td>11/1/2024</td>
 		<td>Lightning Talks (<a href="https://datalab.ucdavis.edu/eventscalendar/lightning-talks-maptimedavis/">RSVP Here</a>)</td>
-		<td>Community Event</td>
+		<td>Organizer: Lauren Mabe, Geography Graduate Group</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>

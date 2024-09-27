@@ -50,7 +50,7 @@ description:
 		<tr>
 		<td>10/5-6/2024 11:00-4:00</td>
 		<td>NASA Space Apps Challenge - Community Mapping (<a href="https://datalab.ucdavis.edu/eventscalendar/nasa-space-apps-challenge-community-mapping-maptimedavis/">RSVP Here</a>)</td>
-		<td>Organizers: Liam Bharjan & Lupe Franco</td>
+		<td>Organizers: Liam Bharjan & Lupe Franco, Geography Graduate Group</td>
 		<td>DataLab Classroom - room 360 Shields</td>
 	</tr>	
 	<tr>
@@ -86,7 +86,7 @@ description:
 	<tr>
 		<td>11/15/2024</td>
 		<td>Contributing to OpenStreetMap (<a href="https://datalab.ucdavis.edu/eventscalendar/contributing-to-openstreetmap-maptimedavis/">RSVP Here</a>)</td>
-		<td>Naomi Kalman</td>
+		<td>Naomi Kalman, Campus Planning and Environmental Stewardship</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>	
 	<tr>

@@ -45,7 +45,7 @@ description:
 		<td>10/4/2024</td>
 		<td>Intro to Spatial Data Formats (<a href="https://datalab.ucdavis.edu/eventscalendar/is-my-research-mappable-data-methods-for-adding-spatial-data-to-your-work-maptimedavis/">RSVP Here</a>)</td>
 		<td>Michele Tobias, UC Davis DataLab</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://ucdavisdatalab.github.io/workshop_spatial_data_formats/">Written Materials</a></td>
 	</tr>
 		<tr>
 		<td>10/5-6/2024 11:00-4:00</td>

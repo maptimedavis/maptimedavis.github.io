@@ -63,7 +63,7 @@ description:
 		<td>10/18/2024</td>
 		<td>Intro to Making Maps with Google Earth Pro (<a href="https://datalab.ucdavis.edu/eventscalendar/intro-to-making-maps-with-google-earth-pro-maptimedavis/">RSVP Here</a>)</td>
 		<td>Lauren Mabe, Geography Graduate Group</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://www.google.com/earth/about/versions/&nbsp">Download Google Earth Pro</a></td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://www.google.com/earth/about/versions/&nbsp">Download Google Earth Pro</a>; <a href="https://docs.google.com/presentation/d/14QF7TRpkPIwG2y7-qL1s30hm6SGlh6wYCyfOEycr9F0/edit?usp=sharing">Written Materials</a></td>
 	</tr>
 	<tr>
 		<td>10/25/2024</td>

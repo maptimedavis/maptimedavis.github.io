@@ -106,12 +106,54 @@ description:
 	</tr>
 -->
 
+<br>
 
 <h2>Descriptions</h2>
 
+
+<h3>Lightning Talks</h3>
+<p><b>Date:</b> November 1, 2024 10:00-12:00</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Description:</b> A lightning talk is a short presentation meant to spark discussion and collaboration across UC Davis geospatial community. Each speaker will have maximum 5 minutes to share what they’ve been working on. Does it need to be a finished project? NO! Works in progress are encouraged! You can think of this as research show-and-tell; a time to share your progress, get new ideas, or learn more about research happening on campus! Who can present? Anyone who is working on (or thinking about) a project involving spatial data – undergraduates, graduate students, postdocs, staff, faculty, and community members are all welcome to share. Present Your Research:  Please use this form to sign up to present by Friday, Oct. 25. Presentations are due by Oct. 30th. If you have any questions/comments/concerns, please reach out to Lauren Mabe at lmabe@ucdavis.edu.</p>
+<p><b>Speaker:</b> The Community!</p>
+<p><b>Prerequisites:</b> None.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
+<br>
+<hr>
+<br>
+
+
+
+
+
 <h3>title</h3>
+<p><b>Date:</b> 10:00-12:00</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b> </p>
 <p><b>Concepts Covered:</b> </p>
 <p><b>Speaker:</b> </p>
 <p>speaker bio</p>
+<p><b>Prerequisites:</b> </p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
+<br>
+<hr>
+<br>
+
+
+
+
+
+
+
+<h3>title</h3>
+<p><b>Date:</b> 10:00-12:00</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Description:</b> </p>
+<p><b>Concepts Covered:</b> </p>
+<p><b>Speaker:</b> </p>
+<p>speaker bio</p>
+<p><b>Prerequisites:</b> </p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
+<br>
+<hr>
+<br>

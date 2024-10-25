@@ -105,3 +105,13 @@ description:
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 -->
+
+
+<h2>Descriptions</h2>
+
+<h3>title</h3>
+<p><b>Description:</b> </p>
+<p><b>Concepts Covered:</b> </p>
+<p><b>Speaker:</b> </p>
+<p>speaker bio</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>

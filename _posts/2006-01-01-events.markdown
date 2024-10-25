@@ -140,10 +140,46 @@ description:
 <br>
 
 
+<h3>Contributing to Open Street Map</h3>
+<p><b>Date:</b> November 5, 2024 10:00-12:00</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Description:</b> Open Street Map is a free and an open, user-contributed global dataset of infrastructure. It is similar to Google Maps except anyone can contribute to, interact with, and download the data! Learn more about this incredible resource and get started as a contributor in this beginner-friendly workshop. </p> 
+
+<p>Workshop objectives:</p>
+<ul>
+<li>Open and interact with OSM.</li>
+<li>Create an editor account and add a feature.</li>
+<li>Learn about HOTOSM (Humanitarian mapping) and how to find and edit tasks.</li>
+<li>Learn how to do a query of the OSM data in QGIS and save the results to a geopackage or shapefile.</li>
+<ul>
+
+<p><b>Concepts Covered:</b> Creating Spatial Data, Open Data, User-Contributed Data, Data Querying</p>
+<p><b>Speaker:</b> Naomi Kalman</p>
+<p>Naomi Kalman the GIS Specialist for UC Davis Campus Planning and Environmental Stewardship, supporting the operations, maintenance and administration of the university that is her alma mater.</p>
+<p><b>Prerequisites:</b> None.</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
+<br>
+<hr>
+<br>
+
+
+<h3>Geobeverages</h3>
+<p><b>Date:</b> November 22, 2024 4:00-6:00 pm</p>
+<p><b>Location:</b>Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA</p>
+<p><b>Description:</b> Join our geospatial community for a relaxed discussion at Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA from 4:00-6:00 pm! All are welcome! This cluster of businesses has a variety of food and drink options. Look for folks wearing map-related gear.</p>
+<p><b>Concepts Covered:</b> </p>
+<p><b>Speaker:</b> </p>
+<p>speaker bio</p>
+<p><b>Prerequisites:</b> None! Just come hang out and chat!</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
+<br>
+<hr>
+<br>
 
 
 
 
+<!-- Descriptions Template:
 
 <h3>title</h3>
 <p><b>Date:</b> 10:00-12:00</p>
@@ -157,3 +193,5 @@ description:
 <br>
 <hr>
 <br>
+
+-->

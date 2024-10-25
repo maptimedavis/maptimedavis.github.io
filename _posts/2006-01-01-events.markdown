@@ -14,7 +14,7 @@ description:
 
 <p>Workshops take place on <b>Fridays from 10:00-12:00</b>, unless otherwise indicated. Please note the location of each workshop. In-person workshops will typically be held in <b><a href="http://campusmap.ucdavis.edu/?b=115">The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library),</a> Seminar Room (room 1025)</b>. Most of our workshops for Fall 2024 will be fully in-person with no zoom option. We anticipate making videos of instructional workshops available on our <a href="https://www.youtube.com/@maptimedavis95616">YouTube Channel</a> after the end of the quarter for those who are unable to attend in person.</p>
 
-<p>Where is the <a href="http://campusmap.ucdavis.edu/?b=115">The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library)</a> Seminar Room (room 1025) inside the building? From the front doors, walk straight forward, past the long bank of conference tables, and you'll see the room on your left.</p>
+<p>Where is the <a href="http://campusmap.ucdavis.edu/?b=115">The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library)</a> Seminar Room (room 1025) inside the building? From the front doors, walk straight forward, past the long bank of conference tables, and you'll see the room on your left.</p>
 
 <img src="../img/GoogleEarth_A_2024-04-12.jpg" style="width: 75%;" alt="Taken from the back of the room at Physical and Data Sciences Building Seminar Room where students sit in blue chairs at rows of long tables facing a podium and digital screens where an instructor points at a globe on one of the two screens. ">
 
@@ -120,7 +120,7 @@ description:
 
 <h3>Lightning Talks</h3>
 <p><b>Date:</b> November 1, 2024 10:00-12:00</p>
-<p><b>Location:</b>The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b> A lightning talk is a short presentation meant to spark discussion and collaboration across UC Davis geospatial community. Each speaker will have maximum 5 minutes to share what they’ve been working on. Does it need to be a finished project? NO! Works in progress are encouraged! You can think of this as research show-and-tell; a time to share your progress, get new ideas, or learn more about research happening on campus! Who can present? Anyone who is working on (or thinking about) a project involving spatial data – undergraduates, graduate students, postdocs, staff, faculty, and community members are all welcome to share. Present Your Research:  Please use this form to sign up to present by Friday, Oct. 25. Presentations are due by Oct. 30th. If you have any questions/comments/concerns, please reach out to Lauren Mabe at lmabe@ucdavis.edu.</p>
 <p><b>Speaker:</b> The Community!</p>
 <p><b>Prerequisites:</b> None.</p>
@@ -135,7 +135,7 @@ description:
 
 <h3>Work Session</h3>
 <p><b>Date:</b> November 8, 2024 10:00-12:00</p>
-<p><b>Location:</b>The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description: People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer question.</b> </p>
 <p><b>Prerequisites:</b> Just bring something to work on.</p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
@@ -146,7 +146,7 @@ description:
 
 <h3>Contributing to Open Street Map</h3>
 <p><b>Date:</b> November 5, 2024 10:00-12:00</p>
-<p><b>Location:</b>The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b> Open Street Map is a free and an open, user-contributed global dataset of infrastructure. It is similar to Google Maps except anyone can contribute to, interact with, and download the data! Learn more about this incredible resource and get started as a contributor in this beginner-friendly workshop. </p> 
 
 <p><b>Workshop objectives:</b></p>
@@ -185,7 +185,7 @@ description:
 
 <h3>title</h3>
 <p><b>Date:</b> 10:00-12:00</p>
-<p><b>Location:</b>The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b> </p>
 <p><b>Concepts Covered:</b> </p>
 <p><b>Speaker:</b> </p>

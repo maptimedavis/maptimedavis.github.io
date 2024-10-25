@@ -145,13 +145,11 @@ description:
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known asPSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b> Open Street Map is a free and an open, user-contributed global dataset of infrastructure. It is similar to Google Maps except anyone can contribute to, interact with, and download the data! Learn more about this incredible resource and get started as a contributor in this beginner-friendly workshop. </p> 
 
-<p>Workshop objectives:</p>
-<ul>
-<li>Open and interact with OSM.</li>
-<li>Create an editor account and add a feature.</li>
-<li>Learn about HOTOSM (Humanitarian mapping) and how to find and edit tasks.</li>
-<li>Learn how to do a query of the OSM data in QGIS and save the results to a geopackage or shapefile.</li>
-<ul>
+<p><b>Workshop objectives:</b></p>
+<p>Open and interact with OSM.</p>
+<p>Create an editor account and add a feature.</p>
+<p>Learn about HOTOSM (Humanitarian mapping) and how to find and edit tasks.</p>
+<p>Learn how to do a query of the OSM data in QGIS and save the results to a geopackage or shapefile.</p>
 
 <p><b>Concepts Covered:</b> Creating Spatial Data, Open Data, User-Contributed Data, Data Querying</p>
 <p><b>Speaker:</b> Naomi Kalman</p>

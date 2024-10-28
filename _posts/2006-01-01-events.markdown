@@ -176,8 +176,8 @@ description:
 <p><b>Description: More details coming soon! </b> </p>
 <p><b>Concepts Covered: Data Creation, Humanitarian Open Street Map</b> </p>
 <p><b>Coordinator: Liam Bajan</b> </p>
-<p>Speaker bio coming soon!</p>
-<p><b>Prerequisites: Attending the Contributing to Open Street Map on 11/5 is recomended (see above), but not required. Participants should bring a laptop. An external mouse (not your built-in track pad) is recommended.</b> </p>
+<p>Coordinator bio coming soon!</p>
+<p><b>Prerequisites:</b> Attending the Contributing to Open Street Map on 11/5 is recomended (see above), but not required. Participants should bring a laptop. An external mouse (not your built-in track pad) is recommended. </p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
 <br>
 <hr>

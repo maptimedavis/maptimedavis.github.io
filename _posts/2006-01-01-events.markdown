@@ -92,6 +92,12 @@ description:
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>	
 	<tr>
+		<td>11/22/2024</td>
+		<td>Open Street Map Map-a-Thon (registration link coming soon!)</td>
+		<td>Coordinator: Liam Bajan</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
 		<td>11/22/2024 4:00-6:00</td>
 		<td>Geobeverages (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Event</td>
@@ -164,6 +170,19 @@ description:
 <hr>
 <br>
 
+<h3>Open Street Map Map-a-Thon</h3>
+<p><b>Date:</b> 11/22/2024 10:00-12:00</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Description: More details coming soon! </b> </p>
+<p><b>Concepts Covered: Data Creation, Humanitarian Open Street Map</b> </p>
+<p><b>Coordinator: Liam Bajan</b> </p>
+<p>Speaker bio coming soon!</p>
+<p><b>Prerequisites: Attending the Contributing to Open Street Map on 11/5 is recomended (see above), but not required. Participants should bring a laptop. An external mouse (not your built-in track pad) is recommended.</b> </p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
+<br>
+<hr>
+<br>
+
 
 <h3>Geobeverages</h3>
 <p><b>Date:</b> November 22, 2024 4:00-6:00 pm</p>
@@ -177,6 +196,8 @@ description:
 <br>
 <hr>
 <br>
+
+
 
 
 

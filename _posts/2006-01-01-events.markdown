@@ -188,9 +188,6 @@ description:
 <p><b>Date:</b> November 22, 2024 4:00-6:00 pm</p>
 <p><b>Location:</b>Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA</p>
 <p><b>Description:</b> Join our geospatial community for a relaxed discussion at Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA from 4:00-6:00 pm! All are welcome! This cluster of businesses has a variety of food and drink options. Look for folks wearing map-related gear.</p>
-<p><b>Concepts Covered:</b> </p>
-<p><b>Speaker:</b> </p>
-<p>speaker bio</p>
 <p><b>Prerequisites:</b> None! Just come hang out and chat!</p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
 <br>

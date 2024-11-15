@@ -89,7 +89,7 @@ description:
 		<td>11/15/2024</td>
 		<td>Contributing to OpenStreetMap (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Naomi Kalman, Campus Planning and Environmental Stewardship</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://docs.google.com/presentation/d/1ME7bmPTp6roxaIazqRyjB6EvAmLl2wxXaeawhoqNCzk">Workshop Slides</a></td>
 	</tr>	
 	<tr>
 		<td>11/22/2024</td>

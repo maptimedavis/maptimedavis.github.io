@@ -149,10 +149,10 @@ description:
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
-		<td>3/7/2024</td>
+		<td>3/7/2024 4:00-6:00</td>
 		<td>GeoSocial (registration link coming soon!)</td>
 		<td>Community Event</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>This is a relaxed AFTERNOON social event at local purveyors of food and beverages from 4:00-6:00 pm</td>
 	</tr>
 
 </table>

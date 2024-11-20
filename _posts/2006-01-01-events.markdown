@@ -102,7 +102,59 @@ description:
 		<td>Geobeverages (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>This is a relaxed AFTERNOON social event at local purveyors of food and beverages: Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA from 4:00-6:00 pm</td>
-	</tr>		
+	</tr>
+	
+	
+	
+	<tr>
+		<td>1/17/2024</td>
+		<td>Intro to QGIS (registration link coming soon!)</td>
+		<td>Lauren Mabe</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>1/24/2024</td>
+		<td>Work Session (registration link coming soon!)</td>
+		<td>Community Event</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>1/31/2024</td>
+		<td>UCD Map Room & Air Photo Collection (registration link coming soon!)</td>
+		<td>David Michalski</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>2/7/2024</td>
+		<td>Work Session (registration link coming soon!)</td>
+		<td>Community Event</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>2/14/2024</td>
+		<td>Finding Spatial Data (registration link coming soon!)</td>
+		<td>Community Discussion</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>2/21/2024</td>
+		<td>Work Session (registration link coming soon!)</td>
+		<td>Community Event</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>	
+	<tr>
+		<td>2/28/2024</td>
+		<td>Working with GPS Data (registration link coming soon!)</td>
+		<td>Community Discussion</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>3/7/2024</td>
+		<td>GeoSocial (registration link coming soon!)</td>
+		<td>Community Event</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+
 </table>
 
 <!-- Empty Row Template:
@@ -176,8 +228,7 @@ description:
 <p><b>Description: More details coming soon! </b> </p>
 <p><b>Concepts Covered: Data Creation, Humanitarian Open Street Map</b> </p>
 <p><b>Coordinator: Liam Bajan</b> </p>
-<p>Coordinator bio coming soon!</p>
-<p><b>Prerequisites:</b> Attending the Contributing to Open Street Map on 11/5 is recomended (see above), but not required. Participants should bring a laptop. An external mouse (not your built-in track pad) is recommended. </p>
+<p><b>Prerequisites:</b> Attending the Contributing to Open Street Map on 11/5 is recommended (see above), but not required. Participants should bring a laptop. An external mouse (not your built-in track pad) is recommended. </p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
 <br>
 <hr>

@@ -106,9 +106,9 @@ description:
 	
 	<tr>
 		<td><b>Winter Quarter 2025</b></td>
-		<td> --- </td>
-		<td> --- </td>
-		<td> --- </td>
+		<td> <b>---</b> </td>
+		<td> <b>---</b> </td>
+		<td> <b>---</b> </td>
 	</tr>
 	
 	

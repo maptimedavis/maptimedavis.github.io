@@ -93,7 +93,7 @@ description:
 	</tr>	
 	<tr>
 		<td>11/22/2024</td>
-		<td>Open Street Map Map-a-Thon (registration link coming soon!)</td>
+		<td>Open Street Map Map-a-Thon <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></td>
 		<td>Coordinator: Liam Bajan</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>

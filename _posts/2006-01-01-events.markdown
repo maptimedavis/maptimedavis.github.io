@@ -105,10 +105,10 @@ description:
 	</tr>
 	
 	<tr>
-		<td></td>
 		<td><b>Winter Quarter 2025</b></td>
-		<td></td>
-		<td></td>
+		<td> --- </td>
+		<td> --- </td>
+		<td> --- </td>
 	</tr>
 	
 	

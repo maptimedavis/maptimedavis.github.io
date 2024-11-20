@@ -104,6 +104,12 @@ description:
 		<td>This is a relaxed AFTERNOON social event at local purveyors of food and beverages: Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA from 4:00-6:00 pm</td>
 	</tr>
 	
+	<tr>
+		<td></td>
+		<td><b>Winter Quarter 2025</b></td>
+		<td></td>
+		<td></td>
+	</tr>
 	
 	
 	<tr>

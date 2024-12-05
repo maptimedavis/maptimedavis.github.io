@@ -14,7 +14,7 @@ description:
 <p>There are many ways to participate in #maptimeDavis. Here are some suggestions:</p>
 
 
-<p><b>Attend events.</b>  See below for the current #maptimeDavis Workshop Schedule.</p>
+<p><b>Attend events.</b>  See the Events page for the current #maptimeDavis Workshop Schedule.</p>
 <p><b>Help at a workshop.</b> Making workshops run smoothly is a team effort. We often need folks to help answer questions, relay communications to the presenter, or help participants who get stuck.</p>
 <p><b>Present a workshop.</b> You don't need to be an expert to teach well.</p>
 <p><b>Join #maptimeDavis Council</b>, the group of people who organize each quarter's events.</p>

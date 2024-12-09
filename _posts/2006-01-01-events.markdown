@@ -183,7 +183,7 @@ description:
 
 <p><b>Description:</b> UC Davis has an extensive print map and aerial photography collection. We focus on collecting maps representing the American west and our local region, but we have materials from all over the world. Currently, access to the Map Room is by-appointment-only and #maptimeDavis has an appointment to explore the Map Room on this day. In this session, Librarian David Michalski will show us how to find materials, how to remove maps from their drawers safely, and be available to answer questions about the materials. We'll also have lots of time to just explore the collection and look at maps. Photography of the materials is welcome, but we'll ask you to leave any food and beverages near the entrance to protect the materials.</p>
 
-By the end of this session, participants will know how to use the UC Davis Library Catalog to find maps and aerial photographs, how to access individual items, and best practices for working with the physical collection in the Map Room.</p>
+<p>By the end of this session, participants will know how to use the UC Davis Library Catalog to find maps and aerial photographs, how to access individual items, and best practices for working with the physical collection in the Map Room.</p>
 
 <p><b>Concepts Covered:</b> Print Maps; Aerial Photographs</p>
 

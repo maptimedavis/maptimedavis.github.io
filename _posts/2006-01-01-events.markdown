@@ -177,7 +177,9 @@ description:
 
 <h3>UCD Map Room & Air Photo Collection</h3>
 
-<p><b>Date:</b> 1/31/2024 @ 10:00-12:00 Shields Library Map Room - lower level (basement) of Shields Library</p>
+<p><b>Date:</b> 1/31/2024 @ 10:00-12:00 </p>
+
+<p><b>Location:</b>Shields Library Map Room - lower level (basement) of Shields Library</p>
 
 <p><b>Description:</b> UC Davis has an extensive print map and aerial photography collection. We focus on collecting maps representing the American west and our local region, but we have materials from all over the world. Currently, access to the Map Room is by-appointment-only and #maptimeDavis has an appointment to explore the Map Room on this day. In this session, Librarian David Michalski will show us how to find materials, how to remove maps from their drawers safely, and be available to answer questions about the materials. We'll also have lots of time to just explore the collection and look at maps. Photography of the materials is welcome, but we'll ask you to leave any food and beverages near the entrance to protect the materials.</p>
 

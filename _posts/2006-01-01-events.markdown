@@ -135,7 +135,7 @@ description:
 
 <p>Lauren is a PhD Candidate in the Geography Graduate Group and previously worked as a cartographer for Garmin Intl. Her research focuses on sustainable organic waste management systems in California. She uses many geospatial tools in her work and is passionate about good maps in research!</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href=”https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link”>RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> No prior experience with QGIS or other GIS software is needed, though attendees should be comfortable learning new computer applications, working with the basics of spreadsheets, and managing, organizing, and moving computer files on their operating system.</p>
 
@@ -152,9 +152,9 @@ description:
 
 
 
-<h3>Work Session (#maptimeDavis)</h3>
+<h3>Work Session</h3>
 
-<p><b>Date: 1/24/2024 @ 10:00-12:00</p>
+<p><b>Date:</b> 1/24/2024 @ 10:00-12:00</p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
@@ -162,7 +162,7 @@ description:
 
 <p><b>Speaker:</b> Community Event</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href=”https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link”>RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> None</p>
 
@@ -189,7 +189,7 @@ By the end of this session, participants will know how to use the UC Davis Libra
 
 <p>David Michalski is the Arts, Humanities, and Social Sciences Librarian. He has a master’s degree in library and information science from SUNY Queens, and a Ph.D. in cultural studies from UC Davis.</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href=”https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link”>RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> No prior experience is required.</p>
 
@@ -212,7 +212,7 @@ By the end of this session, participants will know how to use the UC Davis Libra
 
 <p><b>Speaker:</b> Community Event</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href=”https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link”>RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> None</p>
 
@@ -237,7 +237,7 @@ By the end of this session, participants will know how to use the UC Davis Libra
 
 <p><b>Speaker:</b> Community Discussion</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href=”https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link”>RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> No prior experience is required.</p>
 
@@ -259,7 +259,7 @@ By the end of this session, participants will know how to use the UC Davis Libra
 
 <p><b>Speaker:</b> Community Event</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href=”https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link”>RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> None</p>
 
@@ -283,7 +283,7 @@ By the end of this session, participants will know how to use the UC Davis Libra
 
 <p><b>Speaker:</b> Community Discussion</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href=”https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link”>RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> No prior experience is required.</p>
 
@@ -305,7 +305,7 @@ By the end of this session, participants will know how to use the UC Davis Libra
 
 <p><b>Speaker:</b> Community Event</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href=”https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link”>RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> None. Bring friends and colleagues if you’d like.</p>
 

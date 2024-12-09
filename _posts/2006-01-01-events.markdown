@@ -120,14 +120,14 @@ description:
 <p><b>Description:</b> This introductory-level workshop will focus upon the fundamental concepts and skills needed to explore and analyze data using Geographic Information Systems (GIS) software with examples using the QGIS platform.</p>
 
 <p>By the end of this workshop, you will be able to:</p>
-<ul>
-<li>Define GIS and geospatial concepts and terminology.</li>
-<li>Know the difference between vector and raster data types</li>
-<li>Properly connect and add data to a QGIS project</li>
-<li>Know where to find the attributes of your data in QGIS</li>
-<li>Perform basic selections and queries in QGIS</li>
-<li>Symbolize data by attributes</li>
-<li>Assemble a basic map for export</li> </ul>
+
+<p>Define GIS and geospatial concepts and terminology.</p>
+<p>Know the difference between vector and raster data types</p>
+<p>Properly connect and add data to a QGIS project</p>
+<p>Know where to find the attributes of your data in QGIS</p>
+<p>Perform basic selections and queries in QGIS</p>
+<p>Symbolize data by attributes</p>
+<p>Assemble a basic map for export</p>
 
 <p><b>Concepts Covered:</b> Graphical User Interface GIS; Vector Data; Raster Data; Data Visualization; QGIS</p>
 

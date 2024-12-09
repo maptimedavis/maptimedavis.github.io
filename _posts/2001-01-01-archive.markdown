@@ -37,61 +37,61 @@ description:
 	<td>11/22/2024 4:00-6:00</td>
 	<td>Geobeverages (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 	<td>Community Event</td>
-	<td>This is a relaxed AFTERNOON social event at local purveyors of food and beverages: Outpost Burger + Parkside Sports Bar & Grill located at 330 G St. in downtown Davis, CA from 4:00-6:00 pm</td>
+	<td></td>
 </tr>
 <tr>
 	<td>11/22/2024</td>
 	<td>Open Street Map Map-a-Thon <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></td>
 	<td>Coordinator: Liam Bajan</td>
-	<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	<td></td>
 </tr>
 <tr>
 	<td>11/15/2024</td>
 	<td>Contributing to OpenStreetMap (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 	<td>Naomi Kalman, Campus Planning and Environmental Stewardship</td>
-	<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://docs.google.com/presentation/d/1ME7bmPTp6roxaIazqRyjB6EvAmLl2wxXaeawhoqNCzk">Workshop Slides</a></td>
+	<td><a href="https://docs.google.com/presentation/d/1ME7bmPTp6roxaIazqRyjB6EvAmLl2wxXaeawhoqNCzk">Workshop Slides</a></td>
 </tr>	
 <tr>
 	<td>11/8/2024</td>
 	<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 	<td>Community Event</td>
-	<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	<td></td>
 </tr>
 <tr>
 	<td>11/1/2024</td>
 	<td>Lightning Talks (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 	<td>Organizer: Lauren Mabe, Geography Graduate Group</td>
-	<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	<td></td>
 </tr>
 <tr>
 	<td>10/25/2024</td>
 	<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 	<td>Community Event</td>
-	<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	<td></td>
 </tr>
 <tr>
 	<td>10/18/2024</td>
 	<td>Intro to Making Maps with Google Earth Pro (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 	<td>Lauren Mabe, Geography Graduate Group</td>
-	<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://www.google.com/earth/about/versions/&nbsp">Download Google Earth Pro</a>; <a href="https://docs.google.com/presentation/d/14QF7TRpkPIwG2y7-qL1s30hm6SGlh6wYCyfOEycr9F0/edit?usp=sharing">Written Materials</a></td>
+	<td><a href="https://www.google.com/earth/about/versions/&nbsp">Download Google Earth Pro</a>; <a href="https://docs.google.com/presentation/d/14QF7TRpkPIwG2y7-qL1s30hm6SGlh6wYCyfOEycr9F0/edit?usp=sharing">Written Materials</a></td>
 </tr>
 <tr>
 	<td>10/5-6/2024 11:00-4:00</td>
 	<td>NASA Space Apps Challenge - Community Mapping (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 	<td>Organizers: Liam Bhajan & Lupe Franco, Geography Graduate Group</td>
-	<td>DataLab Classroom - room 360 Shields</td>
+	<td></td>
 </tr>
 <tr>
 	<td>10/4/2024</td>
 	<td>Intro to Spatial Data Formats (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP Here</a>)</td>
 	<td>Michele Tobias, UC Davis DataLab</td>
-	<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://ucdavisdatalab.github.io/workshop_spatial_data_formats/">Written Materials</a></td>
+	<td><a href="https://ucdavisdatalab.github.io/workshop_spatial_data_formats/">Written Materials</a></td>
 </tr>
 <tr>
 		<td>9/19/2024</td>
 		<td>Geobeverages/UCD GIS User Social - Please <a href="https://www.eventbrite.com/e/ucd-gis-user-social-tickets-1020980940477?">RSVP</a></td>
 		<td>Community Event</td>
-		<td>This is a relaxed EVENING social event at local purveyors of food and beverages: Bull N' Mouth at 217 E St, Davis, at 5:00 pm</td>
+		<td></td>
 </tr>
 <tr>
 	<td>5/31/2024</td>

@@ -54,7 +54,7 @@ description:
 		<td>1/31/2024</td>
 		<td>UCD Map Room & Air Photo Collection (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a></td>
 		<td>David Michalski</td>
-		<td>Shields Library Map Room - lower level of Shields Library</td>
+		<td><b>Shields Library Map Room</b> - lower level of Shields Library</td>
 	</tr>
 	<tr>
 		<td>2/7/2024</td>
@@ -84,7 +84,7 @@ description:
 		<td>3/7/2024 4:00-6:00</td>
 		<td>GeoSocial (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a></td>
 		<td>Community Event</td>
-		<td>This is a relaxed AFTERNOON social event Piza & Pints in Downtown Davis from 4:00-6:00 pm</td>
+		<td>This is a relaxed AFTERNOON social event Pizza & Pints in Downtown Davis from 4:00-6:00 pm</td>
 	</tr>
 
 </table>

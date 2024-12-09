@@ -202,7 +202,7 @@ By the end of this session, participants will know how to use the UC Davis Libra
 <br>
 
 
-<h3>Work Session (#maptimeDavis)</h>
+<h3>Work Session</h3>
 
 <p><b>Date:</b> 2/7/2024 @ 10:00-12:00 </p>
 
@@ -249,7 +249,7 @@ By the end of this session, participants will know how to use the UC Davis Libra
 
 
 
-<h3>Work Session (#maptimeDavis)</h3>
+<h3>Work Session</h3>
 
 <p><b>Date:</b> 2/21/2024 @ 10:00-12:00 </p>
 

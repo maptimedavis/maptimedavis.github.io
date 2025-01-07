@@ -10,7 +10,7 @@ category:
 description: 
 ---
 
-<p>This schedule is current as of 12/9/2024.</p>
+<p>This schedule is current as of 1/7/2025.</p>
 
 <p>Workshops take place on <b>Fridays from 10:00-12:00</b>, unless otherwise indicated. Please note the location of each workshop. In-person workshops will typically be held in <b><a href="http://campusmap.ucdavis.edu/?b=115">The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library),</a> Seminar Room (room 1025)</b>. Most of our workshops will be fully in-person with no zoom option. We anticipate making videos of instructional workshops available on our <a href="https://www.youtube.com/@maptimedavis95616">YouTube Channel</a> after the end of the quarter for those who are unable to attend in person.</p>
 
@@ -39,49 +39,49 @@ description:
 	</tr>
 	
 	<tr>
-		<td>1/17/2024</td>
+		<td>1/17/2025</td>
 		<td>Intro to QGIS (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Lauren Mabe</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
-		<td>1/24/2024</td>
+		<td>1/24/2025</td>
 		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
-		<td>1/31/2024</td>
+		<td>1/31/2025</td>
 		<td>UCD Map Room & Air Photo Collection (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>David Michalski</td>
 		<td><b>Shields Library Map Room</b> - lower level of Shields Library</td>
 	</tr>
 	<tr>
-		<td>2/7/2024</td>
+		<td>2/7/2025</td>
 		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
-		<td>2/14/2024</td>
+		<td>2/14/2025</td>
 		<td>Finding Spatial Data (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Discussion</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
-		<td>2/21/2024</td>
+		<td>2/21/2025</td>
 		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>	
 	<tr>
-		<td>2/28/2024</td>
+		<td>2/28/2025</td>
 		<td>Working with GPS Data (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Discussion</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	<tr>
-		<td>3/7/2024 4:00-6:00</td>
+		<td>3/7/2025 4:00-6:00</td>
 		<td>GeoSocial (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>This is a relaxed AFTERNOON social event Pizza & Pints in Downtown Davis from 4:00-6:00 pm</td>
@@ -113,7 +113,7 @@ description:
 
 <h3>Introduction to GIS with QGIS</h3>
 
-<p><b>Date:</b> 1/17/2024 @ 10:00-12:00 
+<p><b>Date:</b> 1/17/2025 @ 10:00-12:00 
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
@@ -154,7 +154,7 @@ description:
 
 <h3>Work Session</h3>
 
-<p><b>Date:</b> 1/24/2024 @ 10:00-12:00</p>
+<p><b>Date:</b> 1/24/2025 @ 10:00-12:00</p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
@@ -177,7 +177,7 @@ description:
 
 <h3>UCD Map Room & Air Photo Collection</h3>
 
-<p><b>Date:</b> 1/31/2024 @ 10:00-12:00 </p>
+<p><b>Date:</b> 1/31/2025 @ 10:00-12:00 </p>
 
 <p><b>Location:</b>Shields Library Map Room - lower level (basement) of Shields Library</p>
 
@@ -206,7 +206,7 @@ description:
 
 <h3>Work Session</h3>
 
-<p><b>Date:</b> 2/7/2024 @ 10:00-12:00 </p>
+<p><b>Date:</b> 2/7/2025 @ 10:00-12:00 </p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
@@ -227,7 +227,7 @@ description:
 
 <h3>Finding Spatial Data</h3>
 
-<p><b>Date:</b> 2/14/2024 @ 10:00-12:00 </p>
+<p><b>Date:</b> 2/14/2025 @ 10:00-12:00 </p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
@@ -253,7 +253,7 @@ description:
 
 <h3>Work Session</h3>
 
-<p><b>Date:</b> 2/21/2024 @ 10:00-12:00 </p>
+<p><b>Date:</b> 2/21/2025 @ 10:00-12:00 </p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
@@ -273,7 +273,7 @@ description:
 
 <h3>Working with GPS Data</h3>
 
-<p><b>Date:</b> 2/28/2024 @ 10:00-12:00 </p>
+<p><b>Date:</b> 2/28/2025 @ 10:00-12:00 </p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
@@ -299,7 +299,7 @@ description:
 
 <h3>Social</h3>
 
-<p><b>Date:</b> 3/7/2024 @ 4:00-6:00 pm </p>
+<p><b>Date:</b> 3/7/2025 @ 4:00-6:00 pm </p>
 
 <p><b>Location:</b> Pizza & Pints in downtown Davis</p>
 

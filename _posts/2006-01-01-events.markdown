@@ -141,7 +141,7 @@ description:
 
 <p><b>Software:</b> You should download and install QGIS (the latest long term release or newer) on your computer. QGIS is avaialble for free from qgis.org for Mac, Windows, and Linux operating systems.</p>
 
-<p>The data we'll use in this workshop is available in this Box Folder Online.</p>
+<p>The data we'll use in this workshop is available in this <a href="https://ucdavis.box.com/s/cnlz6ejmje4qgf7z80h7ygbwydc65kkm">Box Folder Online</a>.</p>
 
 
 

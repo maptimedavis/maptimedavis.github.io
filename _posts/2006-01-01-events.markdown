@@ -42,7 +42,7 @@ description:
 		<td>1/17/2025</td>
 		<td>Intro to QGIS (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Lauren Mabe</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)  <a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a></td>
 	</tr>
 	<tr>
 		<td>1/24/2025</td>

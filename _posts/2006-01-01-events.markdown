@@ -66,7 +66,7 @@ description:
 		<td>2/14/2025</td>
 		<td>Finding Spatial Data (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Discussion</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://docs.google.com/presentation/d/1KpOt3HhsNciOozxgh6Dkavbaezd3LUXJw71ru7vvrWQ">Workshop Materials</a></td>
 	</tr>
 	<tr>
 		<td>2/21/2025</td>

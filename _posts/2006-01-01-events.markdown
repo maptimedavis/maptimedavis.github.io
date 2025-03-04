@@ -84,10 +84,10 @@ description:
 		<td>3/7/2025 4:00-6:00</td>
 		<td>GeoSocial (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>Community Event</td>
-		<td>This is a relaxed AFTERNOON social event Pizza & Pints in Downtown Davis from 4:00-6:00 pm</td>
+		<td>This is a relaxed AFTERNOON social event at <a href="https://maps.app.goo.gl/yVRf1fWE7CCr3Tfg6">Pizza & Pints</a> in Downtown Davis from 4:00-6:00 pm</td>
 	</tr>
 	
-	<tr> <td colspan="4">SPRING QUARTER</td></tr>
+	<tr> <td colspan="4"><b>SPRING QUARTER</b></td></tr>
 	
 	<tr>
 		<td>4/11/2025</td>
@@ -140,9 +140,9 @@ description:
 	
 		<tr>
 		<td>5/30/2025</td>
-		<td>Social (RSVP link coming soon)</td>
+		<td>GeoSocial (RSVP link coming soon)</td>
 		<td>Community</td>
-		<td>4:00-6:00 at a <a href="https://maps.app.goo.gl/CzWeM5nB9QTLniDA7">Guads Tacos & Beer</a> at 231 3rd St, Davis, CA</td>
+		<td>This is a relaxed AFTERNOON social event from 4:00-6:00 at a <a href="https://maps.app.goo.gl/CzWeM5nB9QTLniDA7">Guads Tacos & Beer</a> at 231 3rd St, Davis, CA</td>
 	</tr>
 
 </table>

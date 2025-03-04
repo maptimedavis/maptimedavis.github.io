@@ -11,6 +11,8 @@ description:
 ---
 <h2>How to Participate</h2>
 
+<img src="../img/GPS_Demonstration.jpg" style="width: 75%;" alt="Seven people stand in a semicircle on a patch of grass surrounded by trees. One person is handing a yellow Trimble GPS unit to another.">
+
 <p>There are many ways to participate in #maptimeDavis. Here are some suggestions:</p>
 
 

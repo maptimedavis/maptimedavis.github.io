@@ -91,56 +91,56 @@ description:
 	
 	<tr>
 		<td>4/11/2025</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Community</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	
 		<tr>
 		<td>4/18/2025</td>
-		<td>Hand Drawn Maps (RSVP link coming soon)</td>
+		<td>Hand Drawn Maps (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Michele Tobias, DataLab</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	
 	<tr>
 		<td>4/25/2025</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Community</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	
 	<tr>
 		<td>5/2/2025</td>
-		<td>Next Steps with QGIS (RSVP link coming soon)</td>
+		<td>Next Steps with QGIS (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Lauren Mabe, Geography Graduate Group</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	
 	<tr>
 		<td>5/9/2025</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Community</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	
 		<tr>
 		<td>5/16/2025</td>
-		<td>Ligntning Talks (RSVP link coming soon)</td>
+		<td>Ligntning Talks (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Organizer: Lauren Mabe</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	
 		<tr>
 		<td>5/23/2025</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Community</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>
 	
 		<tr>
 		<td>5/30/2025</td>
-		<td>GeoSocial (RSVP link coming soon)</td>
+		<td>GeoSocial (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Community</td>
 		<td>This is a relaxed AFTERNOON social event from 4:00-6:00 at a <a href="https://maps.app.goo.gl/CzWeM5nB9QTLniDA7">Guads Tacos & Beer</a> at 231 3rd St, Davis, CA</td>
 	</tr>

@@ -86,6 +86,64 @@ description:
 		<td>Community Event</td>
 		<td>This is a relaxed AFTERNOON social event Pizza & Pints in Downtown Davis from 4:00-6:00 pm</td>
 	</tr>
+	
+	<tr colspan="4">SPRING QUARTER</tr>
+	
+	<tr>
+		<td>4/11/2025</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	
+		<tr>
+		<td>4/18/2025</td>
+		<td>Hand Drawn Maps (RSVP link coming soon)</td>
+		<td>Michele Tobias, DataLab</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	
+	<tr>
+		<td>4/25/2025</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	
+	<tr>
+		<td>5/2/2025</td>
+		<td>Next Steps with QGIS (RSVP link coming soon)</td>
+		<td>Lauren Mabe, Geography Graduate Group</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	
+	<tr>
+		<td>5/9/2025</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	
+		<tr>
+		<td>5/16/2025</td>
+		<td>Ligntning Talks (RSVP link coming soon)</td>
+		<td>Organizer: Lauren Mabe</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	
+		<tr>
+		<td>5/23/2025</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	
+		<tr>
+		<td>5/30/2025</td>
+		<td>Social (RSVP link coming soon)</td>
+		<td>Community</td>
+		<td>4:00-6:00 at a <a href="https://maps.app.goo.gl/CzWeM5nB9QTLniDA7">Guads Tacos & Beer</a> at 231 3rd St, Davis, CA</td>
+	</tr>
 
 </table>
 

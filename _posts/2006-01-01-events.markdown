@@ -87,7 +87,7 @@ description:
 		<td>This is a relaxed AFTERNOON social event Pizza & Pints in Downtown Davis from 4:00-6:00 pm</td>
 	</tr>
 	
-	<tr> <td> colspan="4">SPRING QUARTER</td></tr>
+	<tr> <td colspan="4">SPRING QUARTER</td></tr>
 	
 	<tr>
 		<td>4/11/2025</td>

@@ -116,52 +116,90 @@ description:
 <br>
 
 
+<h3>Work Session</h3>
 
-
-<h3>Introduction to GIS with QGIS</h3>
-
-<p><b>Date:</b> 1/17/2025 @ 10:00-12:00 
+<p><b>Date:</b> 4/11/2025 @ 10:00-12:00</p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
-<p><b>Description:</b> This introductory-level workshop will focus upon the fundamental concepts and skills needed to explore and analyze data using Geographic Information Systems (GIS) software with examples using the QGIS platform.</p>
+<p><b>Description:</b> People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
 
-<p>By the end of this workshop, you will be able to:</p>
+<p><b>Speaker:</b> Community Event</p>
 
-<p>Define GIS and geospatial concepts and terminology.</p>
-<p>Know the difference between vector and raster data types</p>
-<p>Properly connect and add data to a QGIS project</p>
-<p>Know where to find the attributes of your data in QGIS</p>
-<p>Perform basic selections and queries in QGIS</p>
-<p>Symbolize data by attributes</p>
-<p>Assemble a basic map for export</p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP Form</a></p>
 
-<p><b>Concepts Covered:</b> Graphical User Interface GIS; Vector Data; Raster Data; Data Visualization; QGIS</p>
+<p><b>Prerequisites:</b> None</p>
 
-<p><b>Speaker:</b> Lauren Mabe</p>
+<br>
+<hr>
+<br>
 
+<h3>Hand Drawn Maps</h3>
+<p><b>Date:</b>4/18/2025 10:00-12:00</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Description:</b> In this workshop, we’ll explore drawing maps by hand rather than using digital tools. This skill is useful for helping you as a designer deeply understand an area, but it is also a method of self-expression. The fact that it can be fun should also not be minimized. </p>
+<p>"After completing this chapter, learners should be able to:</p>
+<ul>
+<li>Explain why drawing maps by hand is beneficial and when to use this format over digital methods</li>
+<li>Implement a workflow for drawing maps by hand</li>
+<li>Design cartographic elements for their maps</li>
+<li>Find and use reference materials</li>
+<ul>
+<p><b>Concepts Covered:</b> Cartography, analog maps </p>
+<p><b>Speaker:</b> Michele Tobias, DataLab </p>
+<p>Michele Tobias is a geospatial data scientist with a background in geospatial methods for ecology. Michele earned her PhD from UC Davis in Geography where she studied California’s sandy beach ecosystem with traditional phytosociological methods and innovative remote sensing tools and was a postdoc at the UC Davis Information Center for the Environment. In her current position as a geospatial data scientist at UC Davis DataLab, she applies geospatial tools to new avenues of research across disciplines.</p>
+<p><b>Prerequisites:</b> Participants need no previous experience to participate </p>
+<p>The following materials are recommended to fully participate in this workshop:</p>
+<ul>
+<li>Paper (at least 2 sheets)</li>
+<li>Pencils</li>
+<li>A sharpener if you’re using a wood pencil</li>
+<li>Eraser (bigger than the one that comes on the back of your pencil)</li>
+<li>Pens</li>
+<li>Colored pencils, marker, or crayons (optional)</li>
+<li>A device with internet access to look up reference materials</li>
+</ul>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a></p>
+<br>
+<hr>
+<br>
+
+<h3>Work Session</h3>
+
+<p><b>Date:</b> 4/25/2025 @ 10:00-12:00</p>
+
+<p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
+
+<p><b>Description:</b> People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+
+<p><b>Speaker:</b> Community Event</p>
+
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP Form</a></p>
+
+<p><b>Prerequisites:</b> None</p>
+
+<br>
+<hr>
+<br>
+
+<h3>Next Steps with QGIS</h3>
+<p><b>Date:</b>5/2/2025 10:00-12:00</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Description:</b> In this workshop, we'll build on the concepts we learned in the workshop "Intro to GIS with QGIS".  This workshop will cover additional analysis tools and methods for spatial data in QGIS that provide the base skills needed for further geospatial research. </p>
+<p>Learn additional tools and methods for spatial analysis in QGIS including spatial joins, clips, buffers, and merges. </p>
+<p><b>Concepts Covered:</b> QGIS, Desktop GIS, Spatial Analysis </p>
+<p><b>Speaker:</b> Lauren Mabe, Geography Graduate Group </p>
 <p>Lauren is a PhD Candidate in the Geography Graduate Group and previously worked as a cartographer for Garmin Intl. Her research focuses on sustainable organic waste management systems in California. She uses many geospatial tools in her work and is passionate about good maps in research!</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> No prior experience with QGIS or other GIS software is needed, though attendees should be comfortable learning new computer applications, working with the basics of spreadsheets, and managing, organizing, and moving computer files on their operating system.</p>
-
-<p><b>Software:</b> You should download and install QGIS (the latest long term release or newer) on your computer. QGIS is avaialble for free from qgis.org for Mac, Windows, and Linux operating systems.</p>
-
-<p>The data we'll use in this workshop is available in this <a href="https://ucdavis.box.com/s/cnlz6ejmje4qgf7z80h7ygbwydc65kkm">Box Folder Online</a>.</p>
-
-
-
-
+<p><b>Prerequisites:</b> Attendees should be comfortable with loading vector and raster data into QGIS.  To prepare, attendees can work through the "Intro to GIS with QGIS" workshop materials at https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/ </p>
+<p><b>Software:</b> Download and install QGIS on your laptop. QGIS is free, open source, and runs on all major computer operating systems. https://qgis.org/</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a></p>
 <br>
 <hr>
 <br>
 
-
-
 <h3>Work Session</h3>
 
-<p><b>Date:</b> 1/24/2025 @ 10:00-12:00</p>
+<p><b>Date:</b> 5/9/2025 @ 10:00-12:00</p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
@@ -169,51 +207,29 @@ description:
 
 <p><b>Speaker:</b> Community Event</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> None</p>
 
-
-
-
 <br>
 <hr>
 <br>
 
-
-
-<h3>UCD Map Room & Air Photo Collection</h3>
-
-<p><b>Date:</b> 1/31/2025 @ 10:00-12:00 </p>
-
-<p><b>Location:</b>Shields Library Map Room - lower level (basement) of Shields Library</p>
-
-<p><b>Description:</b> UC Davis has an extensive print map and aerial photography collection. We focus on collecting maps representing the American west and our local region, but we have materials from all over the world. Currently, access to the Map Room is by-appointment-only and #maptimeDavis has an appointment to explore the Map Room on this day. In this session, Librarian David Michalski will show us how to find materials, how to remove maps from their drawers safely, and be available to answer questions about the materials. We'll also have lots of time to just explore the collection and look at maps. Photography of the materials is welcome, but we'll ask you to leave any food and beverages near the entrance to protect the materials.</p>
-
-<p>By the end of this session, participants will know how to use the UC Davis Library Catalog to find maps and aerial photographs, how to access individual items, and best practices for working with the physical collection in the Map Room.</p>
-
-<p><b>Concepts Covered:</b> Print Maps; Aerial Photographs</p>
-
-<p><b>Speaker:</b> David Michalski</p>
-
-<p>David Michalski is the Arts, Humanities, and Social Sciences Librarian. He has a master’s degree in library and information science from SUNY Queens, and a Ph.D. in cultural studies from UC Davis.</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> No prior experience is required.</p>
-
-<p><b>Software:</b> None. A device that can access the internet, such as a phone or laptop, will come in handy.</p>
-
-
-
+<h3>Lightning Talks</h3>
+<p><b>Date:</b>5/16/2025 10:00-12:00</p>
+<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Description:</b> Share your work in a short presentation at this show and tell session! Lightning talks are short (<5 min) presentations meant to spark discussion and create community. maptimeDavis is a welcoming community and a great place to share and get feedback on your work in a supporting environment. Works in progress and maps are encouraged! </p>
+<p>Participants who present will have an opportunity to practice public speaking in a low-pressure environment. Audience members will learn about spatial work happening in the Davis community.</p>
+<p><b>Oranizer:</b> Lauren Mabe </p>
+<p><b>Prerequisites:</b> Participants need no previous experience to participate </p>
+<p><b>No software is required for this session. Presenters have the option of preparing a few presentation slides in advance</b></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a></p>
 <br>
 <hr>
 <br>
-
-
 <h3>Work Session</h3>
 
-<p><b>Date:</b> 2/7/2025 @ 10:00-12:00 </p>
+<p><b>Date:</b> 5/23/2025 @ 10:00-12:00</p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
@@ -221,102 +237,22 @@ description:
 
 <p><b>Speaker:</b> Community Event</p>
 
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> None</p>
-
-
-<br>
-<hr>
-<br>
-
-
-
-<h3>Finding Spatial Data</h3>
-
-<p><b>Date:</b> 2/14/2025 @ 10:00-12:00 </p>
-
-<p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
-
-<p><b>Description:</b> In this session, we'll discuss how people approach finding spatial data to identify which methods work for certain kinds of data. Participants should be prepared to discuss their own process and to ask questions. This will be more of a discussion than an instructor-lead workshop. We'll work as a group to document and share what we discover together.</p>
-
-<p>Participants will learn different approaches to finding already existing spatial data, commonly used data repositories, and share methods that have worked for them.</p>
-
-<p><b>Concepts Covered:</b> Data Sources; Government Data; Data Repositories; Data Formats</p>
-
-<p><b>Speaker:</b> Community Discussion</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> No prior experience is required.</p>
-
-<p><b>Software:</b> None. A device that can access the internet, such as a phone or laptop, will come in handy.</p>
-
-<br>
-<hr>
-<br>
-
-
-
-<h3>Work Session</h3>
-
-<p><b>Date:</b> 2/21/2025 @ 10:00-12:00 </p>
-
-<p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
-
-<p><b>Description:</b> People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
-
-<p><b>Speaker:</b> Community Event</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
+<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP Form</a></p>
 
 <p><b>Prerequisites:</b> None</p>
 
 <br>
 <hr>
 <br>
-
-
-
-<h3>Working with GPS Data</h3>
-
-<p><b>Date:</b> 2/28/2025 @ 10:00-12:00 </p>
-
-<p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
-
-<p><b>Description:</b> In this session, we'll discuss how people approach working with and collecting GPS data. Participants should be prepared to discuss their own process and to ask questions. This will be more of a discussion than an instructor-lead workshop. We'll work as a group to document and share what we discover together.</p>
-
-<p>Participants will learn different approaches to working with GPS data and share methods that have worked for them.</p>
-
-<p><b>Concepts Covered:</b> GPS; Data Format Conversion</p>
-
-<p><b>Speaker:</b> Community Discussion</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> No prior experience is required.</p>
-
-<p><b>Software:</b> None. A device that can access the internet, such as a phone or laptop, will come in handy.</p>
-
-<br>
-<hr>
-<br>
-
-
 
 <h3>Social</h3>
-
-<p><b>Date:</b> 3/7/2025 @ 4:00-6:00 pm </p>
-
-<p><b>Location:</b> Pizza & Pints in downtown Davis</p>
-
-<p><b>Description:</b> Join our geospatial community for a relaxed discussion at Pizza & Pints in downtown Davis, CA from 4:00-6:00 pm! All are welcome! Look for folks wearing map-related gear.</p>
-
-<p><b>Speaker:</b> Community Event</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> None. Bring friends and colleagues if you’d like.</p>
+<p><b>Date:</b>5/30/2025 4:00-6:00</p>
+<p><b>Location:</b>Guads Tacos & Beer</p>
+<p><b>Description:</b> This is a relaxed AFTERNOON social event from 4:00-6:00 at a Guads Tacos & Beer at 231 3rd St, Davis, CA </p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a></p>
+<br>
+<hr>
+<br>
 
 
 
@@ -333,7 +269,7 @@ description:
 <p><b>Speaker:</b> </p>
 <p>speaker bio</p>
 <p><b>Prerequisites:</b> </p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgvyKPWkjxZXebydqZwD_v_XXOrVC3ERcCnIPex3skY5kJpg/viewform?usp=sf_link">RSVP</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a></p>
 <br>
 <hr>
 <br>

@@ -39,57 +39,6 @@ description:
 	</tr>
 	
 	<tr>
-		<td>1/17/2025</td>
-		<td>Intro to QGIS (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
-		<td>Lauren Mabe</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)  <a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a></td>
-	</tr>
-	<tr>
-		<td>1/24/2025</td>
-		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
-		<td>Community Event</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-	<tr>
-		<td>1/31/2025</td>
-		<td>UCD Map Room & Air Photo Collection (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
-		<td>David Michalski</td>
-		<td><b>Shields Library Map Room</b> - lower level of Shields Library</td>
-	</tr>
-	<tr>
-		<td>2/7/2025</td>
-		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
-		<td>Community Event</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-	<tr>
-		<td>2/14/2025</td>
-		<td>Finding Spatial Data (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
-		<td>Community Discussion</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://docs.google.com/presentation/d/1KpOt3HhsNciOozxgh6Dkavbaezd3LUXJw71ru7vvrWQ">Workshop Materials</a></td>
-	</tr>
-	<tr>
-		<td>2/21/2025</td>
-		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
-		<td>Community Event</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>	
-	<tr>
-		<td>2/28/2025</td>
-		<td>Working with GPS Data (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
-		<td>Community Discussion</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-	<tr>
-		<td>3/7/2025 4:00-6:00</td>
-		<td>GeoSocial (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
-		<td>Community Event</td>
-		<td>This is a relaxed AFTERNOON social event at <a href="https://maps.app.goo.gl/yVRf1fWE7CCr3Tfg6">Pizza & Pints</a> in Downtown Davis from 4:00-6:00 pm</td>
-	</tr>
-	
-	<tr> <td colspan="4"><b>SPRING QUARTER</b></td></tr>
-	
-	<tr>
 		<td>4/11/2025</td>
 		<td>Work Session (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Community</td>

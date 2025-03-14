@@ -36,6 +36,18 @@ description:
 	<th>Materials</th>
 </tr>
 <tr>
+	<td>2/14/2025</td>
+	<td>Finding Spatial Data</td>
+	<td>Community Discussion</td>
+	<td><a href="https://docs.google.com/presentation/d/1KpOt3HhsNciOozxgh6Dkavbaezd3LUXJw71ru7vvrWQ">Workshop Materials</a></td>
+</tr>
+<tr>
+	<td>1/17/2025</td>
+	<td>Intro to QGIS</td>
+	<td>Lauren Mabe</td>
+	<td><a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a></td>
+</tr>
+<tr>
 	<td>11/15/2024</td>
 	<td>Contributing to OpenStreetMap</td>
 	<td>Naomi Kalman, Campus Planning and Environmental Stewardship</td>

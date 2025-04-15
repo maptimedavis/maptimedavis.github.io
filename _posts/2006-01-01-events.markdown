@@ -49,7 +49,7 @@ description:
 		<td>4/18/2025</td>
 		<td>Hand Drawn Maps (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Michele Tobias, DataLab</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://ucdavisdatalab.github.io/workshop_hand_drawn_maps/"> Workshop Materials</a></td>
 	</tr>
 	
 	<tr>

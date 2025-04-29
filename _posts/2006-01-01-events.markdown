@@ -66,7 +66,7 @@ description:
 		<td>5/2/2025</td>
 		<td>Next Steps with QGIS (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
 		<td>Lauren Mabe, Geography Graduate Group</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025); <a href="https://drive.google.com/file/d/1JviOWp_8x_SXv46nJCVlef1s9t9jqcUw/view?usp=sharing">Workshop Materials</a></td>
 	</tr>
 	
 	<tr>

@@ -11,8 +11,6 @@ description:
 ---
 <h2>#maptimeDavis Council</h2>
 
-<h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSf41nzfOlLReyRWc5_EFPEphz_wYNQuzmHQh7bsv4bLSxSBCA/viewform?usp=sharing">Apply to join #maptimeDavis Council!</a> Applications are due by May 23, 2025</h3>
-
 <p>In the summer of 2021, the Spatial Sciences Research & Learning Cluster recruited community members to help advise and produce our #maptimeDavis workshop series.  We assembled a team with a variety of skills and interests including students, staff, and faculty. This year's #maptimeDavis Council members are:</p>
 
 <p><b>Matthew Conner</b>, Librarian, UC Davis Library (since 2021)</p>

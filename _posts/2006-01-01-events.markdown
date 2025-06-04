@@ -31,6 +31,7 @@ description:
 		<col style="background-color:#F4F4F4">
 		<col style="background-color:lightgray">
 	</colgroup>
+
 	<tr>
 		<th>Date</th>
 		<th>Topic</th>
@@ -38,7 +39,62 @@ description:
 		<th>Location</th>
 	</tr>
 	
-	
+	<tr>
+		<td>7/11/2025</td>
+		<td>Community Work Session</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+
+	<tr>
+		<td>7/18/2025</td>
+		<td>Community Work Session</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+
+	<tr>
+		<td>7/25/2025</td>
+		<td>Community Work Session</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+
+	<tr>
+		<td>8/1/2025</td>
+		<td>Community Work Session</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+
+	<tr>
+		<td>8/8/2025</td>
+		<td>Community Work Session</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+
+	<tr>
+		<td>8/15/2025</td>
+		<td>Community Work Session</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+
+	<tr>
+		<td>8/22/2025</td>
+		<td>Community Work Session</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+
+	<tr>
+		<td>8/29/2025</td>
+		<td>Community Work Session</td>
+		<td>Community</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>	
+
 
 	
 
@@ -64,154 +120,13 @@ description:
 <br>
 
 
-<h3>Work Session</h3>
+<h3>Community Work Sessions</h3>
 
-<p><b>Date:</b> 4/11/2025 @ 10:00-12:00</p>
-
-<p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
-
-<p><b>Description:</b> People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
-
-<p><b>Speaker:</b> Community Event</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> None</p>
-
-<br>
-<hr>
-<br>
-
-<h3>Hand Drawn Maps</h3>
-<p><b>Date:</b>4/18/2025 10:00-12:00</p>
-<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description:</b> In this workshop, we’ll explore drawing maps by hand rather than using digital tools. This skill is useful for helping you as a designer deeply understand an area, but it is also a method of self-expression. The fact that it can be fun should also not be minimized. </p>
-<p>"After completing this chapter, learners should be able to:</p>
-<ul>
-<li>Explain why drawing maps by hand is beneficial and when to use this format over digital methods</li>
-<li>Implement a workflow for drawing maps by hand</li>
-<li>Design cartographic elements for their maps</li>
-<li>Find and use reference materials</li>
-<ul>
-<p><b>Concepts Covered:</b> Cartography, analog maps </p>
-<p><b>Speaker:</b> Michele Tobias, DataLab </p>
-<p>Michele Tobias is a geospatial data scientist with a background in geospatial methods for ecology. Michele earned her PhD from UC Davis in Geography where she studied California’s sandy beach ecosystem with traditional phytosociological methods and innovative remote sensing tools and was a postdoc at the UC Davis Information Center for the Environment. In her current position as a geospatial data scientist at UC Davis DataLab, she applies geospatial tools to new avenues of research across disciplines.</p>
-<p><b>Prerequisites:</b> Participants need no previous experience to participate </p>
-<p>The following materials are recommended to fully participate in this workshop:</p>
-<ul>
-<li>Paper (at least 2 sheets)</li>
-<li>Pencils</li>
-<li>A sharpener if you’re using a wood pencil</li>
-<li>Eraser (bigger than the one that comes on the back of your pencil)</li>
-<li>Pens</li>
-<li>Colored pencils, marker, or crayons (optional)</li>
-<li>A device with internet access to look up reference materials</li>
-</ul>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a></p>
-<br>
-<hr>
-<br>
-
-<h3>Work Session</h3>
-
-<p><b>Date:</b> 4/25/2025 @ 10:00-12:00</p>
+<p><b>Date:</b> 7/11/2015 - 8/29/2025, Fridays @ 10:00-12:00</p>
 
 <p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
 
-<p><b>Description:</b> People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
-
-<p><b>Speaker:</b> Community Event</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> None</p>
-
-<br>
-<hr>
-<br>
-
-<h3>Next Steps with QGIS</h3>
-<p><b>Date:</b>5/2/2025 10:00-12:00</p>
-<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description:</b> In this workshop, we'll build on the concepts we learned in the workshop "Intro to GIS with QGIS".  This workshop will cover additional analysis tools and methods for spatial data in QGIS that provide the base skills needed for further geospatial research. </p>
-<p>Learn additional tools and methods for spatial analysis in QGIS including spatial joins, clips, buffers, and merges. </p>
-<p><b>Concepts Covered:</b> QGIS, Desktop GIS, Spatial Analysis </p>
-<p><b>Speaker:</b> Lauren Mabe, Geography Graduate Group </p>
-<p>Lauren is a PhD Candidate in the Geography Graduate Group and previously worked as a cartographer for Garmin Intl. Her research focuses on sustainable organic waste management systems in California. She uses many geospatial tools in her work and is passionate about good maps in research!</p>
-<p><b>Prerequisites:</b> Attendees should be comfortable with loading vector and raster data into QGIS.  To prepare, attendees can work through the "Intro to GIS with QGIS" workshop materials at https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/ </p>
-<p><b>Software:</b> Download and install QGIS on your laptop. QGIS is free, open source, and runs on all major computer operating systems. https://qgis.org/</p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a></p>
-<br>
-<hr>
-<br>
-
-<h3>Work Session</h3>
-
-<p><b>Date:</b> 5/9/2025 @ 10:00-12:00</p>
-
-<p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
-
-<p><b>Description:</b> People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
-
-<p><b>Speaker:</b> Community Event</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> None</p>
-
-<br>
-<hr>
-<br>
-
-<h3>Lightning Talks</h3>
-<p><b>Date:</b>5/16/2025 10:00-12:00</p>
-<p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description:</b> Share your work in a short presentation at this show and tell session! Lightning talks are short (<5 min) presentations meant to spark discussion and create community. maptimeDavis is a welcoming community and a great place to share and get feedback on your work in a supporting environment. Works in progress and maps are encouraged! </p>
-<p>Participants who present will have an opportunity to practice public speaking in a low-pressure environment. Audience members will learn about spatial work happening in the Davis community.</p>
-<p><b>Oranizer:</b> Lauren Mabe </p>
-<p><b>Prerequisites:</b> Participants need no previous experience to participate </p>
-<p><b>No software is required for this session. Presenters have the option of preparing a few presentation slides in advance</b></p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a></p>
-<br>
-<hr>
-<br>
-<h3>Work Session</h3>
-
-<p><b>Date:</b> 5/23/2025 @ 10:00-12:00</p>
-
-<p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
-
-<p><b>Description:</b> People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
-
-<p><b>Speaker:</b> Community Event</p>
-
-<p><b>RSVP:</b> Let us know you’re planning to attend with our <a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP Form</a></p>
-
-<p><b>Prerequisites:</b> None</p>
-
-<br>
-<hr>
-<br>
-
-<h3>Social</h3>
-<p><b>Date:</b>5/30/2025 4:00-6:00</p>
-<p><b>Location:</b>Guads Tacos & Beer</p>
-<p><b>Description:</b> This is a relaxed AFTERNOON social event from 4:00-6:00 at a Guads Tacos & Beer at 231 3rd St, Davis, CA </p>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a></p>
-<br>
-<hr>
-<br>
-
-<h3>Intro to Geospatial Data Analysis with Python</h3>
-<p><b>Date:</b> 3:00-4:00</p>
-<p><b>Location:</b>Physical and Data Sciences Building (formerly PSEL) <b>Conference Room</b> (room 1019) or <a href="https://ucdavis.zoom.us/j/97374665873">online</a></p>
-<p><b>Description:</b> Learn how to get started using Python for working with spatial data in this joint workshop hosted by the Davis Python Users Group and maptimeDavis.</p>
-<p><b>Speaker:</b> Horacio Contreras</p>
-<p>Horacio Contreras is a graduate student in the Biological Systems Engineering Graduate Program. </p>
-<p><b>Prerequisites:</b> Familiarity with the Python programming language is recommended but not required.</p>
-<br>
-<hr>
-<br>
+<p><b>Description:</b> People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
 
 
 

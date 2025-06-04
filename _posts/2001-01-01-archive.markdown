@@ -35,6 +35,21 @@ description:
 	<th>Speaker</th>
 	<th>Materials</th>
 </tr>
+
+
+<tr>
+	<td>5/2/2025</td>
+	<td>Next Steps with QGIS (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
+	<td>Lauren Mabe, Geography Graduate Group</td>
+	<td><a href="https://drive.google.com/file/d/1JviOWp_8x_SXv46nJCVlef1s9t9jqcUw/view?usp=sharing">Workshop Materials</a></td>
+</tr>
+	
+<tr>
+	<td>4/18/2025</td>
+	<td>Hand Drawn Maps (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
+	<td>Michele Tobias, DataLab</td>
+	<td><a href="https://ucdavisdatalab.github.io/workshop_hand_drawn_maps/"> Workshop Materials</a>; <a href="https://www.youtube.com/watch?v=mIAojwKUais&pp=0gcJCX4JAYcqIYzv">Video</a></td>
+</tr>
 <tr>
 	<td>2/14/2025</td>
 	<td>Finding Spatial Data</td>

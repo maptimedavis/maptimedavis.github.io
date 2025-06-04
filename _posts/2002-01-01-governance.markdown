@@ -19,6 +19,7 @@ description:
 <p><b>Naomi Kalman</b>,  GIS Programmer, UC Davis Campus and Environmental Planning (since 2021)</p>
 <p><b>Lauren Mabe</b>, Graduate Student, UC Davis Geography Graduate Group (since 2024)
 <p><b>Alex Mandel</b>, Geospatial Engineer, Development Seed (since 2017, founding member)</p>
+<p><b>Holden Tal</b>, Undergraduate Student, UC Davis Sustainable Environmental Design (since 2025)
 <p><b>Michele Tobias</b>, Data Scientist, UC Davis DataLab (since 2017, founding member)</p>
 
 

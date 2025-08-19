@@ -10,4 +10,8 @@ category:
 description:
 ---
 
-#maptimeDavis is a learning community (formally knows as the UC Davis DataLab's Spatial Sciences Research & Learning Cluster) focused on instructor-lead formal workshops teaching a specific skills. These workshops typically (but not always) require participants to bring a laptop computer with software installed pertaining to the topic of the workshop. If a particular software is needed for a workshop, we'll let you know what you need before hand if you register.
+Since it began in 2017, #maptimeDavis's mission is to provide a welcoming community for people with an interest in spatial data to learn together. We value learners of all skill levels and software experience.
+
+In a practical sense, the goal of #maptimeDavis is to connect spatial data practitioners to colleagues doing similar work so that while people may be the only person in their lab, graduate program, or office doing spatial work, they are not alone on campus or in the community.
+
+#maptimeDavis is a learning community focused on instructor-lead formal workshops teaching a specific skills. These workshops typically (but not always) require participants to bring a laptop computer with software installed pertaining to the topic of the workshop. If a particular software is needed for a workshop, we'll let you know what you need before hand if you register.

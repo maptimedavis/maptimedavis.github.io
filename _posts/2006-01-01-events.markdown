@@ -93,10 +93,64 @@ description:
 		<td>Community Work Session</td>
 		<td>Community</td>
 		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td colspan="4">Tentative <b>FALL 2025 SCHEDULE</b> as of 8/19</td>
+	</tr>
+	<tr>
+		<td>10/3/2025</td>
+		<td>Google Earth online (<a href="https://www.eventbrite.com/e/maptimedavis-google-earth-online-tickets-1607402497139?aff=oddtdtcreator">RSVP Here</a>)</td>
+		<td>Lauren Mabe</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
 	</tr>	
-
-
-	
+	<tr>
+		<td>10/3/2025 4:00-6:00</td>
+		<td>Social @ Froggy's! (registration coming soon!)</td>
+		<td>Community Event</td>
+		<td>Froggy's at 726 2nd St, Davis, CA </td>
+	</tr>
+	<tr>
+		<td>10/10/2025</td>
+		<td>Community Work Session (registration coming soon!)</td>
+		<td>Community Event</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>10/17/2025</td>
+		<td>GIS & Asset Management (registration coming soon!)</td>
+		<td>Federico Albarracin</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>10/24/2025</td>
+		<td>Community Work Session (registration coming soon!)</td>
+		<td>Community Event</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>10/31/2025</td>
+		<td>Hand Drawn Maps - Halloween Edition (registration coming soon!)</td>
+		<td>Michele Tobias</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>11/7/2025</td>
+		<td>Community Work Session (registration coming soon!)</td>
+		<td>Community Event</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>11/14/2025</td>
+		<td>Into to GIS in R (registration coming soon!)</td>
+		<td>Elise Hellwig</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
+	<tr>
+		<td>11/21/2025</td>
+		<td>Community Work Session (registration coming soon!)</td>
+		<td>Community Event</td>
+		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+	</tr>
 
 </table>
 

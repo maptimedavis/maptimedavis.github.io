@@ -188,90 +188,121 @@ description:
 <p><b>Date:</b>10/3/2025</p>
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b></p>
-<p><b>Concepts Covered:</b></p>
+<p></p>
+<p><b>Concepts Covered:</b>Cartography, Spatial Data, Google Earth</p>
 <p><b>Speaker:</b>Lauren Mabe, Geography Graduate Group</p>
 <p>Lauren is a PhD Candidate in the Geography Graduate Group and previously worked as a cartographer for Garmin Intl. Her research focuses on sustainable organic waste management systems in California. She uses many geospatial tools in her work and is passionate about good maps in research!</p>
-<p><b>Prerequisites:</b></p>
+<p><b>Prerequisites:</b>There are no prerequisites for this workshop.</p>
+<p>Bring a laptop that can access the internet. Free wifi will be available to campus affiliates and guests alike.</p>
 <p><a href='https://www.eventbrite.com/e/maptimedavis-google-earth-online-tickets-1607402497139?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 <h3>Social @ Froggy's!</h3>
 <p><b>Date:</b>10/3/2025</p>
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b>Join members of the maptimeDavis community for a relaxed social at Froggy's in downtown Davis!</p>
-<p><b>Concepts Covered:</b></p>
+<p></p>
+<p><b>Concepts Covered:</b>Networking, Socializing</p>
 <p><b>Speaker:</b>Community</p>
 <p></p>
-<p><b>Prerequisites:</b></p>
+<p><b>Prerequisites:</b>An interest in becoming a part of the mapping community in Davis</p>
+<p>None.</p>
 <p><a href=''>RSVP</a></p>
 <br>
-<h3>work session</h3>
+<h3>Community Work Session</h3>
 <p><b>Date:</b>10/10/2025</p>
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description:</b></p>
-<p><b>Concepts Covered:</b></p>
+<p><b>Description:</b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
+<p></p>
+<p><b>Concepts Covered:</b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
 <p><b>Speaker:</b>Community</p>
 <p></p>
-<p><b>Prerequisites:</b></p>
+<p><b>Prerequisites:</b>None.</p>
+<p>Bring what you need.</p>
 <p><a href=''>RSVP</a></p>
 <br>
 <h3>GIS and Asset Management</h3>
 <p><b>Date:</b>10/17/2025</p>
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b></p>
+<p></p>
 <p><b>Concepts Covered:</b></p>
 <p><b>Speaker:</b>Federico Albarracin</p>
 <p></p>
 <p><b>Prerequisites:</b></p>
+<p></p>
 <p><a href=''>RSVP</a></p>
 <br>
-<h3>work session</h3>
+<h3>Community Work Session</h3>
 <p><b>Date:</b>10/24/2025</p>
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description:</b></p>
-<p><b>Concepts Covered:</b></p>
+<p><b>Description:</b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
+<p></p>
+<p><b>Concepts Covered:</b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
 <p><b>Speaker:</b>Community</p>
 <p></p>
-<p><b>Prerequisites:</b></p>
+<p><b>Prerequisites:</b>None.</p>
+<p>Bring what you need.</p>
 <p><a href=''>RSVP</a></p>
 <br>
 <h3>Hand Drawn Maps</h3>
 <p><b>Date:</b>10/31/2025</p>
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b>In this workshop, we’ll explore drawing maps by hand rather than using digital tools. This skill is useful for helping you as a designer deeply understand an area, but it is also a method of self-expression. The fact that it can be fun should also not be minimized.</p>
+<p>After completing this chapter, learners should be able to:
+
+Explain why drawing maps by hand is beneficial and when to use this format over digital methods
+Implement a workflow for drawing maps by hand
+Design cartographic elements for their maps
+Find and use reference materials</p>
 <p><b>Concepts Covered:</b>Cartography, analog maps</p>
 <p><b>Speaker:</b>Michele Tobias, DataLab</p>
 <p>Michele Tobias is a geospatial data scientist with a background in geospatial methods for ecology. Michele earned her PhD from UC Davis in Geography where she studied California’s sandy beach ecosystem with traditional phytosociological methods and innovative remote sensing tools and was a postdoc at the UC Davis Information Center for the Environment. In her current position as a geospatial data scientist at UC Davis DataLab, she applies geospatial tools to new avenues of research across disciplines.</p>
 <p><b>Prerequisites:</b>Participants need no previous experience to participate</p>
+<p>The following materials are recommended to fully participate in this workshop:
+
+Paper (at least 2 sheets)
+Pencils
+A sharpener if you’re using a wood pencil
+Eraser (bigger than the one that comes on the back of your pencil)
+Pens
+Colored pencils, marker, or crayons (optional)
+A device with internet access to look up reference materials</p>
 <p><a href=''>RSVP</a></p>
 <br>
-<h3>work session</h3>
+<h3>Community Work Session</h3>
 <p><b>Date:</b>11/7/2025</p>
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description:</b></p>
-<p><b>Concepts Covered:</b></p>
+<p><b>Description:</b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
+<p></p>
+<p><b>Concepts Covered:</b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
 <p><b>Speaker:</b>Community</p>
 <p></p>
-<p><b>Prerequisites:</b></p>
+<p><b>Prerequisites:</b>None.</p>
+<p>Bring what you need.</p>
 <p><a href=''>RSVP</a></p>
 <br>
 <h3>Intro to GIS in R</h3>
 <p><b>Date:</b>11/14/2025</p>
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
 <p><b>Description:</b>Intro to GIS in R is a workshop designed to get you started doing Geographic Information Science (GIS) in R. It is, roughly speaking, the R version of <a href=" https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Next Steps in QGIS</a>. We will cover setting up R for GIS, getting data in and out of R, data transformation, filtering, and geoprocessing tools, as well as some basic mapping.</p>
-<p><b>Concepts Covered:</b></p>
+<p></p>
+<p><b>Concepts Covered:</b>R, R Studio, Spatial Data</p>
 <p><b>Speaker:</b></p>
 <p>Elise Hellwig is a Research Data Scientist at the UC Davis DataLab. She has her masters in Agricultural Ecology and has worked on a wide variety of projects from database management, to environmental justice mapping, to text analysis.</p>
 <p><b>Prerequisites:</b>This workshop assumes you have some experience with R. If you are new to R or would like to brush up on your skills, the <a href="https://ucdavisdatalab.github.io/workshop_r_basics/">DataLab R Basics Reader</a> is a great place to start. It also assumes you are familiar with GIS concepts like vectors, rasters, coordinate reference systems etc, which is covered in <a href=" https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Next Steps in QGIS</a>.</p>
+<p>Bring a laptop with <a href="https://ftp.osuosl.org/pub/cran/">R</a> and <a href="https://posit.co/downloads/">R Studio</a> installed. These are free and open source. R is a programming language and R Studio is a tool made by Posit that makes writing R code easier.</p>
 <p><a href=''>RSVP</a></p>
 <br>
-<h3>work session</h3>
+<h3>Community Work Session</h3>
 <p><b>Date:</b>11/21/2025</p>
 <p><b>Location:</b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description:</b></p>
-<p><b>Concepts Covered:</b></p>
+<p><b>Description:</b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
+<p></p>
+<p><b>Concepts Covered:</b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
 <p><b>Speaker:</b>Community</p>
 <p></p>
-<p><b>Prerequisites:</b></p>
+<p><b>Prerequisites:</b>None.</p>
+<p>Bring what you need.</p>
 <p><a href=''>RSVP</a></p>
 <br>
 

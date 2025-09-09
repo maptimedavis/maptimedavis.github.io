@@ -10,11 +10,9 @@ category:
 description: 
 ---
 
-<p>This schedule is current as of 1/7/2025.</p>
+<p>This schedule is current as of 9/9/2025.</p>
 
-<p>Workshops take place on <b>Fridays from 10:00-12:00</b>, unless otherwise indicated. Please note the location of each workshop. In-person workshops will typically be held in <b><a href="http://campusmap.ucdavis.edu/?b=115">The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library),</a> Seminar Room (room 1025)</b>. Most of our workshops will be fully in-person with no zoom option. We anticipate making videos of instructional workshops available on our <a href="https://www.youtube.com/@maptimedavis95616">YouTube Channel</a> after the end of the quarter for those who are unable to attend in person.</p>
-
-<p>Where is the <a href="http://campusmap.ucdavis.edu/?b=115">The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library)</a> Seminar Room (room 1025) inside the building? From the front doors, walk straight forward, past the long bank of conference tables, and you'll see the room on your left.</p>
+<p>Workshops take place on <b>Fridays from 10:00-12:00</b>, unless otherwise indicated. Please note the location of each workshop. In-person workshops will typically be held in <b><a href="https://datalab.ucdavis.edu/location/">The DataLab Classroom,</a> room 360 Shields Library</b>. Most of our workshops will be fully in-person with no zoom option. We anticipate making videos of instructional workshops available on our <a href="https://www.youtube.com/@maptimedavis95616">YouTube Channel</a> after the end of the quarter for those who are unable to attend in person.</p>
 
 <img src="../img/GoogleEarth_A_2024-04-12.jpg" style="width: 75%;" alt="Taken from the back of the room at Physical and Data Sciences Building Seminar Room where students sit in blue chairs at rows of long tables facing a podium and digital screens where an instructor points at a globe on one of the two screens. ">
 
@@ -40,68 +38,13 @@ description:
 	</tr>
 	
 	<tr>
-		<td>7/11/2025</td>
-		<td>Community Work Session</td>
-		<td>Community</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-
-	<tr>
-		<td>7/18/2025</td>
-		<td>Community Work Session</td>
-		<td>Community</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-
-	<tr>
-		<td>7/25/2025</td>
-		<td>Community Work Session</td>
-		<td>Community</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-
-	<tr>
-		<td>8/1/2025</td>
-		<td>Community Work Session</td>
-		<td>Community</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-
-	<tr>
-		<td>8/8/2025</td>
-		<td>Community Work Session</td>
-		<td>Community</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-
-	<tr>
-		<td>8/15/2025</td>
-		<td>Community Work Session</td>
-		<td>Community</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-
-	<tr>
-		<td>8/22/2025</td>
-		<td>Community Work Session</td>
-		<td>Community</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-
-	<tr>
-		<td>8/29/2025</td>
-		<td>Community Work Session</td>
-		<td>Community</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
-	</tr>
-	<tr>
 		<td colspan="4">Tentative <b>FALL 2025 SCHEDULE</b> as of 8/19</td>
 	</tr>
 	<tr>
 		<td>10/3/2025</td>
 		<td>Google Earth online (<a href="https://www.eventbrite.com/e/maptimedavis-google-earth-online-tickets-1607402497139?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Lauren Mabe</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>	
 	<tr>
 		<td>10/3/2025 4:00-6:00</td>
@@ -113,43 +56,43 @@ description:
 		<td>10/10/2025</td>
 		<td>Community Work Session (registration coming soon!)</td>
 		<td>Community Event</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>10/17/2025</td>
 		<td>GIS & Asset Management (registration coming soon!)</td>
 		<td>Federico Albarracin</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>10/24/2025</td>
 		<td>Community Work Session (registration coming soon!)</td>
 		<td>Community Event</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>10/31/2025</td>
 		<td>Hand Drawn Maps - Halloween Edition (registration coming soon!)</td>
 		<td>Michele Tobias</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>11/7/2025</td>
 		<td>Community Work Session (registration coming soon!)</td>
 		<td>Community Event</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>11/14/2025</td>
 		<td>Into to GIS in R (registration coming soon!)</td>
 		<td>Elise Hellwig</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>11/21/2025</td>
 		<td>Community Work Session (registration coming soon!)</td>
 		<td>Community Event</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 
 </table>
@@ -159,7 +102,7 @@ description:
 		<td>date</td>
 		<td>talk title (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
 		<td>speaker name</td>
-		<td>Physical and Data Sciences Building (formerly PSEL) Seminar Room (room 1025)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 -->
 
@@ -174,20 +117,10 @@ description:
 <br>
 
 
-<h3>Community Work Sessions</h3>
-
-<p><b>Date:</b> 7/11/2015 - 8/29/2025, Fridays @ 10:00-12:00</p>
-
-<p><b>Location:</b> Physical and Data Sciences Building (formerly Physical Sciences & Engineering Library/PSEL), Seminar Room 1025</p>
-
-<p><b>Description:</b> People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
-
-<h2>Draft Fall Workshop Descriptions</h2>
-
 <h3>Google Earth - Online</h3>
 <p><b>Date: </b>10/3/2025</p>
 <p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description: </b></p>
+<p><b>Description: </b>In this workshop, participants will learn basic mapmaking and cartography using Google Earth Online. The purpose of this workshop is to create simple "Study Area" maps that can be used in papers, presentations, etc without the large learning curve associated with more advanced geospatial software. The workshop will cover simple spatial data creation, the basic principles of cartography, as well as demo story maps, tours, and other Google-specific features. The workshop is designed for users with no GIS experience, however advanced GIS users may find it useful as another possible visualization tool!</p>
 <p></p>
 <p><b>Concepts Covered: </b>Cartography, Spatial Data, Google Earth</p>
 <p><b>Speaker: </b>Lauren Mabe, Geography Graduate Group</p>
@@ -255,16 +188,19 @@ Explain why drawing maps by hand is beneficial and when to use this format over 
 <p><b>Speaker: </b>Michele Tobias, DataLab</p>
 <p>Michele Tobias is a geospatial data scientist with a background in geospatial methods for ecology. Michele earned her PhD from UC Davis in Geography where she studied California’s sandy beach ecosystem with traditional phytosociological methods and innovative remote sensing tools and was a postdoc at the UC Davis Information Center for the Environment. In her current position as a geospatial data scientist at UC Davis DataLab, she applies geospatial tools to new avenues of research across disciplines.</p>
 <p><b>Prerequisites: </b>Participants need no previous experience to participate</p>
-<p><b>Software Required: </b>The following materials are recommended to fully participate in this workshop:
+<p><b>Software Required: </b>The following materials are recommended to fully participate in this workshop:</p>
 
-Paper (at least 2 sheets)
-Pencils
-A sharpener if you’re using a wood pencil
-Eraser (bigger than the one that comes on the back of your pencil)
-Pens
-Colored pencils, marker, or crayons (optional)
-A device with internet access to look up reference materials</p>
-<p><a href=''>RSVP</a></p>
+<ul>
+<li>Paper (at least 2 sheets)</li>
+<li>Pencils</li>
+<li>A sharpener if you’re using a wood pencil</li>
+<li>Eraser (bigger than the one that comes on the back of your pencil)</li>
+<li>Pens</li>
+<li>Colored pencils, marker, or crayons (optional)</li>
+<li>A device with internet access to look up reference materials</li>
+</ul>
+
+<p><a href='https://www.eventbrite.com/e/maptimedavis-hand-drawn-maps-tickets-1681419754749?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 <h3>Community Work Session</h3>
 <p><b>Date: </b>11/7/2025</p>
@@ -288,7 +224,7 @@ A device with internet access to look up reference materials</p>
 <p>Elise Hellwig is a Research Data Scientist at the UC Davis DataLab. She has her masters in Agricultural Ecology and has worked on a wide variety of projects from database management, to environmental justice mapping, to text analysis.</p>
 <p><b>Prerequisites: </b>This workshop assumes you have some experience with R. If you are new to R or would like to brush up on your skills, the <a href="https://ucdavisdatalab.github.io/workshop_r_basics/">DataLab R Basics Reader</a> is a great place to start. It also assumes you are familiar with GIS concepts like vectors, rasters, coordinate reference systems etc, which is covered in <a href=" https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Next Steps in QGIS</a>.</p>
 <p><b>Software Required: </b>Bring a laptop with <a href="https://ftp.osuosl.org/pub/cran/">R</a> and <a href="https://posit.co/downloads/">R Studio</a> installed. These are free and open source. R is a programming language and R Studio is a tool made by Posit that makes writing R code easier.</p>
-<p><a href=''>RSVP</a></p>
+<p><a href='https://www.eventbrite.com/e/maptimedavis-intro-to-gis-in-r-tickets-1681424408669?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 <h3>Community Work Session</h3>
 <p><b>Date: </b>11/21/2025</p>

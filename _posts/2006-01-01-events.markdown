@@ -72,7 +72,7 @@ description:
 	</tr>
 	<tr>
 		<td>10/31/2025</td>
-		<td>Hand Drawn Maps - Halloween Edition (registration coming soon!)</td>
+		<td>Hand Drawn Maps - Halloween Edition (<a href="https://www.eventbrite.com/e/maptimedavis-hand-drawn-maps-tickets-1681419754749?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Michele Tobias</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
@@ -84,7 +84,7 @@ description:
 	</tr>
 	<tr>
 		<td>11/14/2025</td>
-		<td>Into to GIS in R (registration coming soon!)</td>
+		<td>Into to GIS in R (<a href="https://www.eventbrite.com/e/maptimedavis-intro-to-gis-in-r-tickets-1681424408669?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Elise Hellwig</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>

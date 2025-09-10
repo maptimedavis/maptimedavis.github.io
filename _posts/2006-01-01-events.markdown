@@ -164,9 +164,8 @@ Kevin Matthew Kong - GIS Student Intern</p>
 <p>Federico Albarracin is a GIS Specialist with UC Davis Facilities Management. He earned his bachelor’s degree in Landscape Architecture from UC Davis in 2020 and soon after joined the Facilities Management GIS division as a full-time employee. In his current role, Federico supports a wide range of projects including mapping underground utilities, updating building information, and surveying hardscape and building footprints to ensure campus data is accurate and up to date.</p>
 <p><b>Prerequisites: </b></p>
 <p><b>Software Required: </b>Participants should bring a laptop. Please practice accessing your free Esri ArcGIS Online account prior to the workshop. No software installation is required. UC Davis students, faculty and staff can access AGOL for free.
-Visit http://ago.ucdavis.edu to access AGOL. In the upper right corner, click the button to sign in, then click the blue button for Kerberos login and enter your Kerberos credentials. 
-More information is available at the UC Davis Service Hub:
-https://servicehub.ucdavis.edu/servicehub?id=content_details&sys_id=594c99661bd4c0103f4286ae6e4bcb3c</p>
+UC Davis affiliates can visit <a href="http://ago.ucdavis.edu">http://ago.ucdavis.edu</a> to access AGOL. In the upper right corner, click the button to sign in, then click the blue button for Kerberos login and enter your Kerberos credentials. 
+More information is available at the <a href="https://servicehub.ucdavis.edu/servicehub?id=content_details&sys_id=594c99661bd4c0103f4286ae6e4bcb3c">UC Davis Service Hub</a>.</p>
 <p><a href='https://www.eventbrite.com/e/maptimedavis-gis-in-facilities-management-tickets-1685323591229?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 <h3>Community Work Session</h3>

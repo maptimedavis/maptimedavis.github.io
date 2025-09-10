@@ -48,25 +48,25 @@ description:
 	</tr>	
 	<tr>
 		<td>10/3/2025 4:00-6:00</td>
-		<td>Social @ Froggy's! (registration coming soon!)</td>
+		<td>Social @ Froggy's! (<a href="https://www.eventbrite.com/e/maptimedavis-social-froggies-tickets-1685362788469?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>Froggy's at 726 2nd St, Davis, CA </td>
 	</tr>
 	<tr>
 		<td>10/10/2025</td>
-		<td>Community Work Session (registration coming soon!)</td>
+		<td>Community Work Session (<a href="https://www.eventbrite.com/e/maptimedavis-community-working-sessions-tickets-1685375356059?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>10/17/2025</td>
-		<td>GIS & Asset Management (registration coming soon!)</td>
+		<td>GIS & Asset Management (<a href="https://www.eventbrite.com/e/maptimedavis-gis-in-facilities-management-tickets-1685323591229?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Federico Albarracin</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>10/24/2025</td>
-		<td>Community Work Session (registration coming soon!)</td>
+		<td>Community Work Session (<a href="https://www.eventbrite.com/e/maptimedavis-community-working-sessions-tickets-1685375356059?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
@@ -78,7 +78,7 @@ description:
 	</tr>
 	<tr>
 		<td>11/7/2025</td>
-		<td>Community Work Session (registration coming soon!)</td>
+		<td>Community Work Session (<a href="https://www.eventbrite.com/e/maptimedavis-community-working-sessions-tickets-1685375356059?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
@@ -90,7 +90,7 @@ description:
 	</tr>
 	<tr>
 		<td>11/21/2025</td>
-		<td>Community Work Session (registration coming soon!)</td>
+		<td>Community Work Session (<a href="https://www.eventbrite.com/e/maptimedavis-community-working-sessions-tickets-1685375356059?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
@@ -119,7 +119,7 @@ description:
 
 <h3>Google Earth - Online</h3>
 <p><b>Date: </b>10/3/2025</p>
-<p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
 <p><b>Description: </b>In this workshop, participants will learn basic mapmaking and cartography using Google Earth Online. The purpose of this workshop is to create simple "Study Area" maps that can be used in papers, presentations, etc without the large learning curve associated with more advanced geospatial software. The workshop will cover simple spatial data creation, the basic principles of cartography, as well as demo story maps, tours, and other Google-specific features. The workshop is designed for users with no GIS experience, however advanced GIS users may find it useful as another possible visualization tool!</p>
 <p></p>
 <p><b>Concepts Covered: </b>Cartography, Spatial Data, Google Earth</p>
@@ -131,7 +131,7 @@ description:
 <br>
 <h3>Social @ Froggy's!</h3>
 <p><b>Date: </b>10/3/2025</p>
-<p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
 <p><b>Description: </b>Join members of the maptimeDavis community for a relaxed social at Froggy's in downtown Davis!</p>
 <p></p>
 <p><b>Concepts Covered: </b>Networking, Socializing</p>
@@ -139,47 +139,51 @@ description:
 <p></p>
 <p><b>Prerequisites: </b>An interest in becoming a part of the mapping community in Davis</p>
 <p><b>Software Required: </b>None.</p>
-<p><a href=''>RSVP</a></p>
+<p><a href='https://www.eventbrite.com/e/maptimedavis-social-froggies-tickets-1685362788469?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 <h3>Community Work Session</h3>
 <p><b>Date: </b>10/10/2025</p>
-<p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
 <p></p>
 <p><b>Concepts Covered: </b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
 <p><b>Speaker: </b>Community</p>
 <p></p>
 <p><b>Prerequisites: </b>None.</p>
 <p><b>Software Required: </b>Bring what you need.</p>
-<p><a href=''>RSVP</a></p>
+<p><a href='https://www.eventbrite.com/e/maptimedavis-community-working-sessions-tickets-1685375356059?aff=oddtdtcreator'>RSVP</a></p>
 <br>
-<h3>GIS and Asset Management</h3>
+<h3>GIS in Facilities Management</h3>
 <p><b>Date: </b>10/17/2025</p>
-<p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description: </b></p>
-<p></p>
-<p><b>Concepts Covered: </b></p>
-<p><b>Speaker: </b>Federico Albarracin</p>
-<p></p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>This workshop provides an inside look at how UC Davis Facilities Management leverages GIS to maintain and update campus utility maps and databases. Participants will learn the step-by-step processes used by the GIS division, including file conversion workflows and the integration of AutoCAD data into ArcGIS Online. The session will also cover how GIS tools are used to support daily operations and long-term planning across campus</p>
+<p>By the end of this workshop, participants will be able to: Understand how GIS supports underground utility mapping. Prepare and format data in AutoCAD for GIS integration. Build and configure a Field Maps application.Collect data in a custom hosted layer on ArcGIS Online.</p>
+<p><b>Concepts Covered: </b>AutoCAD Map 3D, FacilitiesMap, Field Maps, Hosted Layers, and Student Intern Opportunities.</p>
+<p><b>Speaker: </b>Federico Albarracin – GIS Specialist
+Kevin Matthew Kong - GIS Student Intern</p>
+<p>Federico Albarracin is a GIS Specialist with UC Davis Facilities Management. He earned his bachelor’s degree in Landscape Architecture from UC Davis in 2020 and soon after joined the Facilities Management GIS division as a full-time employee. In his current role, Federico supports a wide range of projects including mapping underground utilities, updating building information, and surveying hardscape and building footprints to ensure campus data is accurate and up to date.</p>
 <p><b>Prerequisites: </b></p>
-<p><b>Software Required: </b></p>
-<p><a href=''>RSVP</a></p>
+<p><b>Software Required: </b>Participants should bring a laptop. Please practice accessing your free Esri ArcGIS Online account prior to the workshop. No software installation is required. UC Davis students, faculty and staff can access AGOL for free.
+Visit http://ago.ucdavis.edu to access AGOL. In the upper right corner, click the button to sign in, then click the blue button for Kerberos login and enter your Kerberos credentials. 
+More information is available at the UC Davis Service Hub:
+https://servicehub.ucdavis.edu/servicehub?id=content_details&sys_id=594c99661bd4c0103f4286ae6e4bcb3c</p>
+<p><a href='https://www.eventbrite.com/e/maptimedavis-gis-in-facilities-management-tickets-1685323591229?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 <h3>Community Work Session</h3>
 <p><b>Date: </b>10/24/2025</p>
-<p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
 <p></p>
 <p><b>Concepts Covered: </b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
 <p><b>Speaker: </b>Community</p>
 <p></p>
 <p><b>Prerequisites: </b>None.</p>
 <p><b>Software Required: </b>Bring what you need.</p>
-<p><a href=''>RSVP</a></p>
+<p><a href='https://www.eventbrite.com/e/maptimedavis-community-working-sessions-tickets-1685375356059?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 <h3>Hand Drawn Maps</h3>
 <p><b>Date: </b>10/31/2025</p>
-<p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
 <p><b>Description: </b>In this workshop, we’ll explore drawing maps by hand rather than using digital tools. This skill is useful for helping you as a designer deeply understand an area, but it is also a method of self-expression. The fact that it can be fun should also not be minimized.</p>
 <p>After completing this workshop, learners should be able to:
 
@@ -190,33 +194,30 @@ Explain why drawing maps by hand is beneficial and when to use this format over 
 <p><b>Prerequisites: </b>Participants need no previous experience to participate</p>
 <p><b>Software Required: </b>The following materials are recommended to fully participate in this workshop:</p>
 
-<ul>
-<li>Paper (at least 2 sheets)</li>
-<li>Pencils</li>
-<li>A sharpener if you’re using a wood pencil</li>
-<li>Eraser (bigger than the one that comes on the back of your pencil)</li>
-<li>Pens</li>
-<li>Colored pencils, marker, or crayons (optional)</li>
-<li>A device with internet access to look up reference materials</li>
-</ul>
-
+<p>Paper (at least 2 sheets)</p>
+<p>Pencils</p>
+<p>A sharpener if you’re using a wood pencil</p>
+<p>Eraser (bigger than the one that comes on the back of your pencil)</p>
+<p>Pens</p>
+<p>Colored pencils, marker, or crayons (optional)</p>
+<p>A device with internet access to look up reference materials</p>
 <p><a href='https://www.eventbrite.com/e/maptimedavis-hand-drawn-maps-tickets-1681419754749?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 <h3>Community Work Session</h3>
 <p><b>Date: </b>11/7/2025</p>
-<p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
 <p></p>
 <p><b>Concepts Covered: </b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
 <p><b>Speaker: </b>Community</p>
 <p></p>
 <p><b>Prerequisites: </b>None.</p>
 <p><b>Software Required: </b>Bring what you need.</p>
-<p><a href=''>RSVP</a></p>
+<p><a href='https://www.eventbrite.com/e/maptimedavis-community-working-sessions-tickets-1685375356059?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 <h3>Intro to GIS in R</h3>
 <p><b>Date: </b>11/14/2025</p>
-<p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
 <p><b>Description: </b>Intro to GIS in R is a workshop designed to get you started doing Geographic Information Science (GIS) in R. It is, roughly speaking, the R version of <a href=" https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Next Steps in QGIS</a>. We will cover setting up R for GIS, getting data in and out of R, data transformation, filtering, and geoprocessing tools, as well as some basic mapping.</p>
 <p></p>
 <p><b>Concepts Covered: </b>R, R Studio, Spatial Data</p>
@@ -228,15 +229,15 @@ Explain why drawing maps by hand is beneficial and when to use this format over 
 <br>
 <h3>Community Work Session</h3>
 <p><b>Date: </b>11/21/2025</p>
-<p><b>Location: </b>The Physical and Data Sciences Building, previously known as PSEL (Physical Sciences & Engineering Library) Seminar Room (room 1025)</p>
-<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions. Over the summer, we'll be organizing topic-focused sub-groups for people to learn specific skills in small groups, but folks are always welcome to come work on their own projects.</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
 <p></p>
 <p><b>Concepts Covered: </b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
 <p><b>Speaker: </b>Community</p>
 <p></p>
 <p><b>Prerequisites: </b>None.</p>
 <p><b>Software Required: </b>Bring what you need.</p>
-<p><a href=''>RSVP</a></p>
+<p><a href='https://www.eventbrite.com/e/maptimedavis-community-working-sessions-tickets-1685375356059?aff=oddtdtcreator'>RSVP</a></p>
 <br>
 
 

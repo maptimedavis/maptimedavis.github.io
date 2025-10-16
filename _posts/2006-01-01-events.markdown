@@ -10,8 +10,6 @@ category:
 description: 
 ---
 
-<p>This schedule is current as of 9/9/2025.</p>
-
 <p>Workshops take place on <b>Fridays from 10:00-12:00</b>, unless otherwise indicated. Please note the location of each workshop. In-person workshops will typically be held in <b><a href="https://datalab.ucdavis.edu/location/">The DataLab Classroom,</a> room 360 Shields Library</b>. Most of our workshops will be fully in-person with no zoom option. We anticipate making videos of instructional workshops available on our <a href="https://www.youtube.com/@maptimedavis95616">YouTube Channel</a> after the end of the quarter for those who are unable to attend in person.</p>
 
 <img src="../img/GoogleEarth_A_2024-04-12.jpg" style="width: 75%;" alt="Taken from the back of the room at Physical and Data Sciences Building Seminar Room where students sit in blue chairs at rows of long tables facing a podium and digital screens where an instructor points at a globe on one of the two screens. ">
@@ -37,9 +35,6 @@ description:
 		<th>Location</th>
 	</tr>
 	
-	<tr>
-		<td colspan="4">Tentative <b>FALL 2025 SCHEDULE</b> as of 8/19</td>
-	</tr>
 	<tr>
 		<td>10/3/2025</td>
 		<td>Google Earth online (<a href="https://www.eventbrite.com/e/maptimedavis-google-earth-online-tickets-1607402497139?aff=oddtdtcreator">RSVP Here</a>)</td>

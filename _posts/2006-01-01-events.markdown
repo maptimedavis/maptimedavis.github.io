@@ -62,7 +62,7 @@ description:
 		<td>10/17/2025</td>
 		<td>GIS & Facilities Management (<a href="https://www.eventbrite.com/e/maptimedavis-gis-in-facilities-management-tickets-1685323591229?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Federico Albarracin</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
+		<td>DataLab Classroom - room 360 Shields Library; <a href="https://ucdavis.app.box.com/s/0lv160hb8fs6z55anb4vd1uuddci9p3e">Workshop Materials</a></td>
 	</tr>
 	<tr>
 		<td>10/24/2025</td>

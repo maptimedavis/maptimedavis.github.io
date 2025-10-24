@@ -69,7 +69,7 @@ description:
 		<td>10/31/2025</td>
 		<td>Hand Drawn Maps - Halloween Edition (<a href="https://www.eventbrite.com/e/maptimedavis-hand-drawn-maps-tickets-1681419754749?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Michele Tobias</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
+		<td>DataLab Classroom - room 360 Shields Library; <a href="https://ucdavis.box.com/s/lzbg5p5qx8fejqzmk885z3mqriwpi1uo">Workshop Reference Maps</a>; <a href="https://ucdavisdatalab.github.io/workshop_hand_drawn_maps/">Written Materials</a></td>
 	</tr>
 	<tr>
 		<td>11/7/2025</td>

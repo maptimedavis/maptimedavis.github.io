@@ -81,7 +81,7 @@ description:
 		<td>11/14/2025</td>
 		<td>Into to GIS in R (<a href="https://www.eventbrite.com/e/maptimedavis-intro-to-gis-in-r-tickets-1681424408669?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Elise Hellwig</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
+		<td>DataLab Classroom - room 360 Shields Library; <a href="https://github.com/d-rug/intro_gis_in_r">Workshop Materials</a></td>
 	</tr>
 	<tr>
 		<td>11/21/2025</td>

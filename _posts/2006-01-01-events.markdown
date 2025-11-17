@@ -89,13 +89,74 @@ description:
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
+	<tr>
+		<td colspan="4">Tentative <b>WINTER 2026 SCHEDULE</b> as of 11/17</td>
+	</tr>
+	
+	<tr>
+		<td>1/6/2026</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community Event</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>1/23/2026</td>
+		<td>Intro to QGIS (RSVP link coming soon)</td>
+		<td>Lauren Mabe</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>1/30/2026</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community Event</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	
+	<tr>
+		<td>2/6/2026</td>
+		<td>Lightning Talks (RSVP link coming soon)</td>
+		<td>Coordinated by Lauren Map</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>2/13/2026</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community Event</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>2/20/2026</td>
+		<td>Maps in R (RSVP link coming soon)</td>
+		<td>Michele Tobias</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>2/27/2026</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community Event</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>3/6/2026</td>
+		<td>Career Day (RSVP link coming soon)</td>
+		<td>Coordinated by Naomi Kalman</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	
 
 </table>
+
+<!--
+	<tr>
+		<td colspan="4">Tentative <b>FALL 2025 SCHEDULE</b> as of 8/19</td>
+	</tr>
+
+-->
 
 <!-- Empty Row Template:
 	<tr>
 		<td>date</td>
-		<td>talk title (<a href="https://docs.google.com/forms/d/e/1FAIpQLSdESTvOJUdQvhvNqTaiGgI_-jDW13R-6AEHL8vt6tyAwp--Og/viewform?usp=sf_link">RSVP Here</a>)</td>
+		<td>talk title (RSVP link coming soon)</td>
 		<td>speaker name</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>

@@ -142,6 +142,12 @@ description:
 		<td>Coordinated by Naomi Kalman</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
+		<tr>
+		<td>3/6/2026 12:00-1:00</td>
+		<td>Lunch Social</td>
+		<td>Community Event</td>
+		<td>Location TBA (probably The Gunrock on campus)</td>
+	</tr>
 	
 
 </table>

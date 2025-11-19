@@ -87,7 +87,7 @@ description:
 		<td>11/21/2025</td>
 		<td>UC GIS Week Mapathon/Community Work Session (<a href="https://www.eventbrite.com/e/maptimedavis-community-working-sessions-tickets-1685375356059?aff=oddtdtcreator">RSVP Here</a>)</td>
 		<td>Community Event</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
+		<td>DataLab Classroom - room 360 Shields Library; <a href=https://community-ucgis.hub.arcgis.com/pages/mapathon>Map-a-Thon Instructions</a></td>
 	</tr>
 	<tr>
 		<td colspan="4">Tentative <b>WINTER 2026 SCHEDULE</b> as of 11/17</td>

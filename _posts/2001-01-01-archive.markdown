@@ -38,15 +38,39 @@ description:
 
 
 <tr>
+	<td>10/3/2025</td>
+	<td>Google Earth online</td>
+	<td>Lauren Mabe</td>
+	<td></td>
+</tr>
+<tr>
+	<td>10/17/2025</td>
+	<td>GIS & Facilities Management </td>
+	<td>Federico Albarracin</td>
+	<td><a href="https://ucdavis.app.box.com/s/0lv160hb8fs6z55anb4vd1uuddci9p3e">Workshop Materials</a></td>
+</tr>
+<tr>
+	<td>10/31/2025</td>
+	<td>Hand Drawn Maps - Halloween Edition</td>
+	<td>Michele Tobias</td>
+	<td><a href="https://ucdavis.box.com/s/lzbg5p5qx8fejqzmk885z3mqriwpi1uo">Workshop Reference Maps</a>; <a href="https://ucdavisdatalab.github.io/workshop_hand_drawn_maps/">Written Materials</a></td>
+</tr>
+<tr>
+	<td>11/14/2025</td>
+	<td>Into to GIS in R</td>
+	<td>Elise Hellwig</td>
+	<td><a href="https://github.com/d-rug/intro_gis_in_r">Workshop Materials</a></td>
+</tr>
+<tr>
 	<td>5/2/2025</td>
-	<td>Next Steps with QGIS (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
+	<td>Next Steps with QGIS</td>
 	<td>Lauren Mabe, Geography Graduate Group</td>
 	<td><a href="https://drive.google.com/file/d/1JviOWp_8x_SXv46nJCVlef1s9t9jqcUw/view?usp=sharing">Workshop Materials</a></td>
 </tr>
 	
 <tr>
 	<td>4/18/2025</td>
-	<td>Hand Drawn Maps (<a href="https://docs.google.com/forms/d/e/1FAIpQLScHMZF-hPnY3J6T0NAbkrGBxjP0Xsw1wwhJftdHBklnXiq3sg/viewform?usp=header">RSVP</a>)</td>
+	<td>Hand Drawn Maps</td>
 	<td>Michele Tobias, DataLab</td>
 	<td><a href="https://ucdavisdatalab.github.io/workshop_hand_drawn_maps/"> Workshop Materials</a>; <a href="https://www.youtube.com/watch?v=mIAojwKUais&pp=0gcJCX4JAYcqIYzv">Video</a></td>
 </tr>

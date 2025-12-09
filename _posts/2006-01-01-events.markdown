@@ -38,50 +38,50 @@ description:
 	
 	<tr>
 		<td>1/6/2026</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session <a href="https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator">RSVP</a></td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>1/23/2026</td>
-		<td>Intro to QGIS (RSVP link coming soon)</td>
+		<td>Intro to QGIS <a href="https://www.eventbrite.com/e/1977400738840?aff=oddtdtcreator">RSVP</a></td>
 		<td>Lauren Mabe</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>1/30/2026</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session <a href="https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator">RSVP</a></td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	
 	<tr>
 		<td>2/6/2026</td>
-		<td>Lightning Talks (RSVP link coming soon)</td>
+		<td>Lightning Talks <a href="https://www.eventbrite.com/e/lightning-talks-tickets-1977401258394?aff=oddtdtcreator">RSVP</a></td>
 		<td>Coordinated by Lauren Map</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>2/13/2026</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session <a href="https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator">RSVP</a></td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>2/20/2026</td>
-		<td>Maps in R (RSVP link coming soon)</td>
+		<td>Maps in R <a href="https://www.eventbrite.com/e/making-maps-in-r-tickets-1977401965509?aff=oddtdtcreator">RSVP</a></td>
 		<td>Michele Tobias</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>2/27/2026</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session <a href="https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator">RSVP</a></td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>3/6/2026</td>
-		<td>Career Day (RSVP link coming soon)</td>
+		<td>Career Day <a href="https://www.eventbrite.com/e/career-day-tickets-1977402457982?aff=oddtdtcreator">RSVP</a></td>
 		<td>Coordinated by Naomi Kalman</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
@@ -89,7 +89,7 @@ description:
 		<td>3/6/2026 12:30-1:30</td>
 		<td>Lunch Social</td>
 		<td>Community Event</td>
-		<td>Location TBA (probably The Gunrock on campus)</td>
+		<td>The Gunrock Pub on campus</td>
 	</tr>
 	
 

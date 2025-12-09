@@ -121,7 +121,124 @@ description:
 <hr>
 <br>
 
+<h3>work session</h3>
+<p><b>Date: </b>1/16/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+<p></p>
+<p><b>Concepts Covered: </b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>Bring what you need.</p>
+<p><a href='https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>Intro to QGIS</h3>
+<p><b>Date: </b>1/23/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>This introductory-level workshop will focus upon the fundamental concepts and skills needed to explore and analyze data using Geographic Information Systems (GIS) software with examples using the QGIS platform.</p>
+<p>By the end of this workshop, you will be able to:
 
+-Define GIS and geospatial concepts and terminology.
+-Know the difference between vector and raster data types
+-Properly connect and add data to a QGIS project
+-Know where to find the attributes of your data in QGIS
+-Perform basic selections and queries in QGIS
+-Symbolize data by attributes
+-Assemble a basic map for export</p>
+<p><b>Concepts Covered: </b>Graphical User Interface GIS; Vector Data; Raster Data; Data Visualization; QGIS</p>
+<p><b>Speaker: </b>Lauren Mabe & Holden Tal</p>
+<p>Lauren is a PhD Candidate in the Geography Graduate Group and previously worked as a cartographer for Garmin Intl. Her research focuses on sustainable organic waste management systems in California. She uses many geospatial tools in her work and is passionate about good maps in research!
+
+Holden is an undergraduate student studying Sustainable Environmental Design and Community and Regional Development. He is currently a geospatial intern at Datalab in Shields Library UC Davis.</p>
+<p><b>Prerequisites: </b>No prior experience with QGIS or other GIS software is needed, though attendees should be comfortable learning new computer applications, working with the basics of spreadsheets, and managing, organizing, and moving computer files on their operating system.</p>
+<p><b>Software Required: </b>You should download and install QGIS (the latest long term release or newer) on your computer. QGIS is avaialble for free from qgis.org for Mac, Windows, and Linux operating systems.
+
+The data we'll use in this workshop is available in this Box Folder Online.</p>
+<p><a href='https://www.eventbrite.com/e/1977400738840?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>1/30/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+<p></p>
+<p><b>Concepts Covered: </b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>Bring what you need.</p>
+<p><a href='https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>Lightning Talks</h3>
+<p><b>Date: </b>2/6/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>Lightning Talks are short presentations meant to spark discussion and collaboration across the UC Davis geospatial community. Each speaker will have maximum 5 minutes to share what they’ve been working on. A cool map, a fresh spatial dataset, an idea you want to crowdsource, anything mapping and spatial related is welcome! Does it need to be a finished project? NO! Works in progress are encouraged! You can think of this as research show-and-tell; a time to share your progress, get new ideas, or learn more about research happening on campus!</p>
+<p></p>
+<p><b>Concepts Covered: </b></p>
+<p><b>Speaker: </b>Coordinated by Lauren Mabe</p>
+<p>Lauren is a PhD Candidate in the Geography Graduate Group. Her research focuses on sustainable organic waste management systems in California.</p>
+<p><b>Prerequisites: </b>Given the visual nature of maps, participants often prepare a short presentation (3-5 slides), but this is not required! Feel free to use other visual aids or none at all. Presenting in the Lightning Talk is not required, this is a great time to listen and learn about all things geospatial. If you are presenting a Lightning Talk, please use this form to sign up (https://forms.gle/BvARbTW9veJKa3XL6). We will reach out week-of to gather slides/presentations to ensure to session runs smoothly</p>
+<p><b>Software Required: </b></p>
+<p><a href='https://www.eventbrite.com/e/lightning-talks-tickets-1977401258394?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>2/13/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+<p></p>
+<p><b>Concepts Covered: </b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>Bring what you need.</p>
+<p><a href='https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>Making Maps in R</h3>
+<p><b>Date: </b>2/20/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>In this workshop, participants will learn how to use several options for composing maps in R.</p>
+<p>After completing this chapter, learners should be able to: Apply popular mapping workflows to create maps with spatial data; assess which workflow works best in different situations; apply cartographic best practices to a map composition in R</p>
+<p><b>Concepts Covered: </b>R, Cartography, Programming, Data Vizualization</p>
+<p><b>Speaker: </b>Michele Tobias</p>
+<p>Michele Tobias is a geospatial data scientist with a background in geospatial methods for ecology. Michele earned her PhD from UC Davis in Geography where she studied California’s sandy beach ecosystem with traditional phytosociological methods and innovative remote sensing tools and was a postdoc at the UC Davis Information Center for the Environment. In her current position as a geospatial data scientist at UC Davis DataLab, she applies geospatial tools to new avenues of research across disciplines.</p>
+<p><b>Prerequisites: </b>For the best experience, we recommend learners have the following skills before taking this workshop: an introductory understanding of programming in R (for example, you are familiar with how to load libraries, load common data formats like a CSV, and are comfortable running basic commands). See DataLab’s <a href="https://ucdavisdatalab.github.io/workshop_r_basics/">R Basics Workshop</a> for help; an introductory understanding of spatial data (for example, you are familiar with the difference between raster and vector data). See DataLab’s ,a href="https://ucdavisdatalab.github.io/workshop_spatial_data_formats/">Spatial Data Formats Workshop</a> for help; (recommended) review the concepts (first section) of DataLab’s <a>Cartography for Academic Publications</a> Workshop</p>
+<p><b>Software Required: </b>To fully participate in this workshop, learners should download and install R and RStudio on their laptop before the workshop begins.</p>
+<p><a href='https://www.eventbrite.com/e/making-maps-in-r-tickets-1977401965509?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>2/27/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+<p></p>
+<p><b>Concepts Covered: </b>Coworking, Getting Help, Making Progress, Crossing Things Off the To-Do list</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>Bring what you need.</p>
+<p><a href='https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>Career Day</h3>
+<p><b>Date: </b>3/6/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>This question and answer session will allow participants to ask questions about applying for jobs and working in the geospatial field at a variety of institutions.</p>
+<p></p>
+<p><b>Concepts Covered: </b>Careers</p>
+<p><b>Speaker: </b>Coordinated by Naomi Kalman</p>
+<p>Guest speakers will include geospatial professionals working in state, federal, and local government; private industry; and research universities.  Join us for a no-host lunch at Gunrock Pub (UCD Silo) after the event.</p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>No software is required.</p>
+<p><a href='https://www.eventbrite.com/e/career-day-tickets-1977402457982?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>Lunch Social @ Gunrock Pub</h3>
+<p><b>Date: </b>3/6/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b></p>
+<p></p>
+<p><b>Concepts Covered: </b>Networking, Socializing</p>
+<p><b>Speaker: </b></p>
+<p>Directly following the Career Day session, we'll walk over to the Gunrock Pub on campus at the Silo to have a relaxed (no host) lunch and continue our discussion of geospatial careers. Join us whether or not you could come to the Career Day event.</p>
+
+<br>
 
 <br>
 

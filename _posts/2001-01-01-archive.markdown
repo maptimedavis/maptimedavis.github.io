@@ -40,25 +40,25 @@ description:
 	<td>11/14/2025</td>
 	<td>Into to GIS in R</td>
 	<td>Elise Hellwig</td>
-	<td><a href="https://github.com/d-rug/intro_gis_in_r">Workshop Materials</a></td>
+	<td><a href="https://github.com/d-rug/intro_gis_in_r">Workshop Materials</a>, <a href="https://youtu.be/9r13ZBjKCP8">Video</a></td>
 </tr>
 <tr>
 	<td>10/31/2025</td>
 	<td>Hand Drawn Maps - Halloween Edition</td>
 	<td>Michele Tobias</td>
-	<td><a href="https://ucdavis.box.com/s/lzbg5p5qx8fejqzmk885z3mqriwpi1uo">Workshop Reference Maps</a>; <a href="https://ucdavisdatalab.github.io/workshop_hand_drawn_maps/">Written Materials</a></td>
+	<td><a href="https://ucdavis.box.com/s/lzbg5p5qx8fejqzmk885z3mqriwpi1uo">Workshop Reference Maps</a>; <a href="https://ucdavisdatalab.github.io/workshop_hand_drawn_maps/">Written Materials</a>; <a href="https://youtu.be/sUw4ZGRX1f4">Video</a></td>
 </tr>
 <tr>
 	<td>10/17/2025</td>
 	<td>GIS & Facilities Management </td>
 	<td>Federico Albarracin</td>
-	<td><a href="https://ucdavis.app.box.com/s/0lv160hb8fs6z55anb4vd1uuddci9p3e">Workshop Materials</a></td>
+	<td><a href="https://ucdavis.app.box.com/s/0lv160hb8fs6z55anb4vd1uuddci9p3e">Workshop Materials</a>, <a href="https://youtu.be/JnsEZWw3fFk">Video</a></td>
 </tr>
 <tr>
 	<td>10/3/2025</td>
 	<td>Google Earth online</td>
 	<td>Lauren Mabe</td>
-	<td><a href="https://docs.google.com/presentation/d/1l1Cb-vPOBp11pAqFy09p7ZnEbJsJcXNugFIGgvKuYX8">Workshop Materials</a></td>
+	<td><a href="https://docs.google.com/presentation/d/1l1Cb-vPOBp11pAqFy09p7ZnEbJsJcXNugFIGgvKuYX8">Workshop Materials</a>, <a href="https://youtu.be/EHAifRGYE68">Video</a></td>
 </tr>
 <tr>
 	<td>5/2/2025</td>

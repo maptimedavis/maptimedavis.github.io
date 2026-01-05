@@ -37,7 +37,7 @@ description:
 	
 	
 	<tr>
-		<td>1/6/2026</td>
+		<td>1/16/2026</td>
 		<td>Work Session <a href="https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator">RSVP</a></td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>

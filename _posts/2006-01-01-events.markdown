@@ -57,7 +57,7 @@ description:
 	
 	<tr>
 		<td>2/6/2026</td>
-		<td>Lightning Talks <a href="https://www.eventbrite.com/e/lightning-talks-tickets-1977401258394?aff=oddtdtcreator">RSVP</a></td>
+		<td>Lightning Talks <a href="https://www.eventbrite.com/e/lightning-talks-tickets-1977401258394?aff=oddtdtcreator">RSVP</a>;  <a href="https://forms.gle/qv35fGcae3d3ycei8">Sign Up to Share</a></td>
 		<td>Coordinated by Lauren Mabe</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>

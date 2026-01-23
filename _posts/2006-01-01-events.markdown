@@ -38,13 +38,13 @@ description:
 	
 	<tr>
 		<td>1/16/2026</td>
-		<td>Work Session <a href="https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator">RSVP</a> <a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a></td>
+		<td>Work Session <a href="https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator">RSVP</a></td> 
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>1/23/2026</td>
-		<td>Intro to QGIS <a href="https://www.eventbrite.com/e/1977400738840?aff=oddtdtcreator">RSVP</a></td>
+		<td>Intro to QGIS <a href="https://www.eventbrite.com/e/1977400738840?aff=oddtdtcreator">RSVP</a><a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a></td>
 		<td>Lauren Mabe</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>

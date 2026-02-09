@@ -71,13 +71,13 @@ description:
 		<td>2/20/2026</td>
 		<td>Maps in R <a href="https://www.eventbrite.com/e/making-maps-in-r-tickets-1977401965509?aff=oddtdtcreator">RSVP</a></td>
 		<td>Michele Tobias</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
+		<td>DataLab Classroom - room 360 Shields Library<br><a href="https://ucdavisdatalab.github.io/workshop_maps_in_R/">Workshop Materials</a></td>
 	</tr>
 	<tr>
 		<td>2/27/2026</td>
 		<td>Work Session <a href="https://www.eventbrite.com/e/geospatial-work-session-tickets-1977402989572?aff=oddtdtcreator">RSVP</a></td>
 		<td>Community Event</td>
-		<td>DataLab Classroom - room 360 Shields Library <br><a href="https://ucdavisdatalab.github.io/workshop_maps_in_R/">Workshop Materials</a></td>
+		<td>DataLab Classroom - room 360 Shields Library </td>
 	</tr>
 	<tr>
 		<td>3/6/2026</td>

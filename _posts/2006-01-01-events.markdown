@@ -46,7 +46,7 @@ description:
 		<td>1/23/2026</td>
 		<td>Intro to QGIS <a href="https://www.eventbrite.com/e/1977400738840?aff=oddtdtcreator">RSVP</a> </td>
 		<td>Lauren Mabe</td>
-		<td>DataLab Classroom - room 360 Shields Library <br> <a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a></td>
+		<td>DataLab Classroom - room 360 Shields Library <br> <a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a> <br> <a href="https://ucdavis.box.com/s/vol16qm8pear5iiv7rdf53w9joae1but">Zine Download</a></td>
 	</tr>
 	<tr>
 		<td>1/30/2026</td>
@@ -71,7 +71,7 @@ description:
 		<td>2/20/2026</td>
 		<td>Maps in R <a href="https://www.eventbrite.com/e/making-maps-in-r-tickets-1977401965509?aff=oddtdtcreator">RSVP</a></td>
 		<td>Michele Tobias</td>
-		<td>DataLab Classroom - room 360 Shields Library<br><a href="https://ucdavisdatalab.github.io/workshop_maps_in_R/">Workshop Materials</a></td>
+		<td>DataLab Classroom - room 360 Shields Library<br><a href="https://ucdavisdatalab.github.io/workshop_maps_in_R/">Workshop Materials</a> <br> <a href="https://ucdavis.box.com/s/vol16qm8pear5iiv7rdf53w9joae1but">Zine Download</a></td>
 	</tr>
 	<tr>
 		<td>2/27/2026</td>

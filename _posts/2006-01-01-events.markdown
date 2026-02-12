@@ -91,7 +91,60 @@ description:
 		<td>Community Event</td>
 		<td>The Gunrock Pub on campus</td>
 	</tr>
+
 	
+	<tr>
+		<td colspan="4">Tentative <b>SPRING 2026 SCHEDULE</b> as of 2/11/2026</td>
+	</tr>
+	<tr>
+		<td>4/10/2026</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community Event</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>4/17/2026</td>
+		<td>Intro to QGIS: Rasters (RSVP link coming soon)</td>
+		<td>Lauren Mabe</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>4/24/2026</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community Event</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>5/1/2026</td>
+		<td>Field Data Collection (RSVP link coming soon)</td>
+		<td>Many (let us know if you want to share!)</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>5/8/2026</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community Event</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>5/15/2026</td>
+		<td>Map Design (RSVP link coming soon)</td>
+		<td>Michele Tobias</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>5/22/2026</td>
+		<td>Work Session (RSVP link coming soon)</td>
+		<td>Community Event</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+	<tr>
+		<td>5/29/2026</td>
+		<td>Spatial SQL (RSVP link coming soon)</td>
+		<td>Alex Mandel, Naomi Kalman, Michele Tobias, Holden Tal</td>
+		<td>DataLab Classroom - room 360 Shields Library</td>
+	</tr>
+
 
 </table>
 

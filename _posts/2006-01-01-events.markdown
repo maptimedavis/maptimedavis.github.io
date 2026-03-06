@@ -83,7 +83,7 @@ description:
 		<td>3/6/2026</td>
 		<td>Career Day <a href="https://www.eventbrite.com/e/career-day-tickets-1977402457982?aff=oddtdtcreator">RSVP</a></td>
 		<td>Coordinated by Naomi Kalman</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
+		<td>DataLab Classroom - room 360 Shields Library; <a href="https://docs.google.com/document/d/1k8AiH8mSUGybYygGaC7hXvYeuXM0Rxgpv7frWi_F7wo/edit?usp=sharing">Summary Notes</a></td>
 	</tr>
 		<tr>
 		<td>3/6/2026 12:30-1:30</td>

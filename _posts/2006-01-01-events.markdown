@@ -37,49 +37,57 @@ description:
 	
 	<tr>
 		<td>4/10/2026</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session <a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>4/17/2026</td>
-		<td>Intro to QGIS: Rasters (RSVP link coming soon)</td>
+		<td>Intro to QGIS: Rasters <a href='https://www.eventbrite.com/e/intro-to-qgis-rasters-tickets-1986263458473?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Lauren Mabe</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>4/24/2026</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session <a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
+	
+	<tr>
+		<td>4/24/2026</td>
+		<td>Social @ Guads</td>
+		<td>Community Event</td>
+		<td>Guads at 231 3rd St. in Davis</td>
+	</tr>
+	
 	<tr>
 		<td>5/1/2026</td>
-		<td>Field Data Collection (RSVP link coming soon)</td>
+		<td>Field Data Collection <a href='https://www.eventbrite.com/e/field-data-collection-tickets-1986264576818?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Many (let us know if you want to share!)</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>5/8/2026</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session <a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>5/15/2026</td>
-		<td>Map Design (RSVP link coming soon)</td>
+		<td>Map Design & Cartography <a href='https://www.eventbrite.com/e/map-design-cartography-tickets-1986221855036?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Michele Tobias</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>5/22/2026</td>
-		<td>Work Session (RSVP link coming soon)</td>
+		<td>Work Session <a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Community Event</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>5/29/2026</td>
-		<td>Spatial SQL (RSVP link coming soon)</td>
+		<td>Spatial SQL <a href='https://www.eventbrite.com/e/spatial-sql-tickets-1986273386167?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Alex Mandel, Naomi Kalman, Michele Tobias, Holden Tal</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
@@ -123,6 +131,7 @@ description:
 <p><b>Software Required: </b>Bring what you need.</p>
 <p><a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></p>
 <br>
+
 <h3>Intro to QGIS: Rasters</h3>
 <p><b>Date: </b>4/17/2026</p>
 <p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
@@ -133,6 +142,7 @@ description:
 <p><b>Software Required: </b>QGIS: available for all major computer operating systems at qgis.org</p>
 <p><a href='https://www.eventbrite.com/e/intro-to-qgis-rasters-tickets-1986263458473?aff=oddtdtcreator'>RSVP</a></p>
 <br>
+
 <h3>work session</h3>
 <p><b>Date: </b>4/24/2026</p>
 <p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
@@ -143,16 +153,15 @@ description:
 <p><b>Software Required: </b>Bring what you need.</p>
 <p><a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></p>
 <br>
+
 <h3>Social @Guads</h3>
 <p><b>Date: </b>4/24/2026</p>
-<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Location: </b>Guads at 231 3rd St. in Davis</p>
 <p><b>Description: </b>Join the maptimeDavis community for a social gathering Guads on 3rd Street!</p>
 <p><b>Speaker: </b>Community</p>
 <p></p>
-<p><b>Prerequisites: </b></p>
-<p><b>Software Required: </b></p>
-<p><a href=''>RSVP</a></p>
 <br>
+
 <h3>Field Data Collection</h3>
 <p><b>Date: </b>5/1/2026</p>
 <p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
@@ -163,6 +172,7 @@ description:
 <p><b>Software Required: </b>None.</p>
 <p><a href='https://www.eventbrite.com/e/field-data-collection-tickets-1986264576818?aff=oddtdtcreator'>RSVP</a></p>
 <br>
+
 <h3>work session</h3>
 <p><b>Date: </b>5/8/2026</p>
 <p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
@@ -173,6 +183,7 @@ description:
 <p><b>Software Required: </b>Bring what you need.</p>
 <p><a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></p>
 <br>
+
 <h3>Map Design & Cartography</h3>
 <p><b>Date: </b>5/15/2026</p>
 <p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
@@ -183,6 +194,7 @@ description:
 <p><b>Software Required: </b>QGIS: available for all major computer operating systems at qgis.org</p>
 <p><a href='https://www.eventbrite.com/e/map-design-cartography-tickets-1986221855036?aff=oddtdtcreator'>RSVP</a></p>
 <br>
+
 <h3>work session</h3>
 <p><b>Date: </b>5/22/2026</p>
 <p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
@@ -193,6 +205,7 @@ description:
 <p><b>Software Required: </b>Bring what you need.</p>
 <p><a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></p>
 <br>
+
 <h3>Spatial SQL</h3>
 <p><b>Date: </b>5/29/2026</p>
 <p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>

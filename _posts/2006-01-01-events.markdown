@@ -36,9 +36,6 @@ description:
 	</tr>
 	
 	<tr>
-		<td colspan="4">Tentative <b>SPRING 2026 SCHEDULE</b> as of 2/11/2026</td>
-	</tr>
-	<tr>
 		<td>4/10/2026</td>
 		<td>Work Session (RSVP link coming soon)</td>
 		<td>Community Event</td>
@@ -116,6 +113,106 @@ description:
 <hr>
 <br>
 
+<h3>work session</h3>
+<p><b>Date: </b>4/10/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Community Work Sessions are a chance to work on your geospatial projects in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>Bring what you need.</p>
+<p><a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>Intro to QGIS: Rasters</h3>
+<p><b>Date: </b>4/17/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>Learn how to work with raster data in QGIS! We'll cover loading and symbolizing raster data as well as begin using raster analysis tools to gain confidence in working in QGIS. Our sample project will be a small Multi-Critera Analysis (MCA), a common raster-based spatial analysis.</p>
+<p><b>Speaker: </b>Lauren Mabe</p>
+<p>Lauren is a PhD Candidate in the Geography Graduate Group and previously worked as a cartographer for Garmin Intl. Her research focuses on sustainable organic waste management systems in California. She uses many geospatial tools in her work and is passionate about good maps in research!</p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>QGIS: available for all major computer operating systems at qgis.org</p>
+<p><a href='https://www.eventbrite.com/e/intro-to-qgis-rasters-tickets-1986263458473?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>4/24/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Community Work Sessions are a chance to work on your geospatial projects in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>Bring what you need.</p>
+<p><a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>Social @Guads</h3>
+<p><b>Date: </b>4/24/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>Join the maptimeDavis community for a social gathering Guads on 3rd Street!</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b></p>
+<p><b>Software Required: </b></p>
+<p><a href=''>RSVP</a></p>
+<br>
+<h3>Field Data Collection</h3>
+<p><b>Date: </b>5/1/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>This session will be a show-and-tell style discussion of field data collection tools. Bring your questions, stories, and/or collection tools to share.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>None.</p>
+<p><a href='https://www.eventbrite.com/e/field-data-collection-tickets-1986264576818?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>5/8/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Community Work Sessions are a chance to work on your geospatial projects in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>Bring what you need.</p>
+<p><a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>Map Design & Cartography</h3>
+<p><b>Date: </b>5/15/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>Making a map that communicates well is difficult. You likely spent a significant amount of time and energy planning and implementing your analysis and you want the resulting map to reflect that. In this workshop, we'll learn some guidelines for map visualilzations that communicate your intended message quickly and accurately.  We'll work in QGIS, but the concepts you learn in this workshop will apply to any map-making software and even to non-map figures like graphs.</p>
+<p><b>Speaker: </b>Michele Tobias</p>
+<p>Michele Tobias is a geospatial data scientist with a background in geospatial methods for ecology. Michele earned her PhD from UC Davis in Geography where she studied California’s sandy beach ecosystem with traditional phytosociological methods and innovative remote sensing tools and was a postdoc at the UC Davis Information Center for the Environment. In her current position as a geospatial data scientist at the UC Davis Library, she applies geospatial tools to new avenues of research across disciplines.</p>
+<p><b>Prerequisites: </b>No prior experience is required, but familiarity with spatial data formats (raster and vector) is recommended.</p>
+<p><b>Software Required: </b>QGIS: available for all major computer operating systems at qgis.org</p>
+<p><a href='https://www.eventbrite.com/e/map-design-cartography-tickets-1986221855036?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>5/22/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Community Work Sessions are a chance to work on your geospatial projects in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>Bring what you need.</p>
+<p><a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>Spatial SQL</h3>
+<p><b>Date: </b>5/29/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>This workshop is intended to give participants an introduction to working with spatial data using SQL -- a database querying language. We will work with a graphical user interface (GUI) and explore some examples of common analysis processes as well as present participants with resources for continued learning. This workshop will give participants a solid foundation on which to build further learning.  By the end of this workshop, participants will be able to import data into a spatialite database, write queries to answer questions about spatial data, understand the difference between attribute queries and geometry queries, view spatial tables and views in QGIS, and use terminology related to spatial databases to facilitate future learning.</p>
+<p><b>Speaker: </b>Alex Mandel, Michele Tobias, Naomi Kalman, Holden Tal</p>
+<p>This workshop will be taught by a team of instructors who use spatial SQL in their work and research.</p>
+<p><b>Prerequisites: </b>No prior experience is required, but familiarity with spatial data formats (raster and vector) is recommended.</p>
+<p><b>Software Required: </b>QGIS: available for all major computer operating systems at qgis.org</p>
+<p><a href='https://www.eventbrite.com/e/spatial-sql-tickets-1986273386167?aff=oddtdtcreator'>RSVP</a></p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>6/5/2026</p>
+<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Description: </b>People working with geospatial data and methods are scattered across campus. Community Work Sessions are a chance to work on your geospatial projects in the same space with other geo people, get feedback, ask questions, and answer questions.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>No prior experience is required.</p>
+<p><b>Software Required: </b>Bring what you need.</p>
+<p><a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></p>
+<br>
 
 
 <br>

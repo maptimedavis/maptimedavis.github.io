@@ -52,7 +52,7 @@ description:
 	<td>1/23/2026</td>
 	<td>Intro to QGIS</td>
 	<td>Lauren Mabe</td>
-	<td><a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a>; <br> <a href="https://ucdavis.box.com/s/vol16qm8pear5iiv7rdf53w9joae1but">Zine Download</a></td>
+	<td><a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a>; <br><a href="https://youtu.be/Eqi7alNAccg">Video</a>; <br> <a href="https://ucdavis.box.com/s/vol16qm8pear5iiv7rdf53w9joae1but">Zine Download</a></td>
 </tr>
 
 <tr>

@@ -45,7 +45,7 @@ description:
 		<td>4/17/2026</td>
 		<td>Intro to QGIS: Rasters <a href='https://www.eventbrite.com/e/intro-to-qgis-rasters-tickets-1986263458473?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Lauren Mabe</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
+		<td>DataLab Classroom - room 360 Shields Library; <br> <a href="https://drive.google.com/file/d/1FhptIxNaZA2TJtgZXdxCygeoUkwAdsmL/view">Workshop Materials</a.</td>
 	</tr>
 	<tr>
 		<td>4/24/2026</td>

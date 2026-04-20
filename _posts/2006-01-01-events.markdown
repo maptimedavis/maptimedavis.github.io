@@ -55,7 +55,7 @@ description:
 	</tr>
 	
 	<tr>
-		<td>4/24/2026 1:00-12:00</td>
+		<td>4/24/2026 12:00-1:00</td>
 		<td>Social @ Guads</td>
 		<td>Community Event</td>
 		<td>Guads at 231 3rd St. in Davis</td>
@@ -155,7 +155,7 @@ description:
 <br>
 
 <h3>Social @Guads</h3>
-<p><b>Date: </b>4/24/2026 1:00-12:00</p>
+<p><b>Date: </b>4/24/2026 12:00-1:00</p>
 <p><b>Location: </b>Guads at 231 3rd St. in Davis</p>
 <p><b>Description: </b>Join the maptimeDavis community for a social gathering Guads on 3rd Street!</p>
 <p><b>Speaker: </b>Community</p>

@@ -52,8 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Supported by 
-  - line: UCDavis Library + DataLab
+  - line: Supported by UCDavis Library + DataLab
   - line: Shields Library - Room 360
   - line: University of California Davis
   - line: 1 Shields Ave, Davis, CA 95616

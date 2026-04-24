@@ -47,8 +47,8 @@ social:
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/maptimedavis
-  - title: youtube
-    url: https://www.youtube.com/@maptimedavis95616
+#  - title: youtube
+#    url: https://www.youtube.com/@maptimedavis95616
 
 # Postal address (add as many lines as necessary)
 address:

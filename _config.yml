@@ -39,8 +39,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/maptimeDavis
 #  - title: facebook
     url:
 #  - title: stack-overflow
@@ -49,10 +47,13 @@ social:
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/maptimedavis
+  - title: youtube
+    url: https://www.youtube.com/@maptimedavis95616
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Supported by UCDavis DataLab
+  - line: Supported by 
+  - line: UCDavis Library + DataLab
   - line: Shields Library - Room 360
   - line: University of California Davis
   - line: 1 Shields Ave, Davis, CA 95616

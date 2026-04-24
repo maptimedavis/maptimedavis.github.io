@@ -40,11 +40,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 #  - title: facebook
-    url:
+#    url:
 #  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+#    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+#    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/maptimedavis
 #  - title: youtube

@@ -86,7 +86,7 @@ description:
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
-		<td>5/29/2026</td>
+		<td>5/29/2026 <br> DataLab Conference Room (362 Shields)</td>
 		<td>Spatial SQL <a href='https://www.eventbrite.com/e/spatial-sql-tickets-1986273386167?aff=oddtdtcreator'>RSVP</a></td>
 		<td>Alex Mandel, Naomi Kalman, Michele Tobias, Holden Tal</td>
 		<td>DataLab Classroom - room 360 Shields Library <br><a href="https://ucdavisdatalab.github.io/Spatial_SQL/">Workshop Materials</a></td>
@@ -208,7 +208,7 @@ description:
 
 <h3>Spatial SQL</h3>
 <p><b>Date: </b>5/29/2026 10:00-12:00</p>
-<p><b>Location: </b>DataLab Classroom - room 360 Shields Library</p>
+<p><b>Location: </b>DataLab Conference Room - room 362 Shields Library</p>
 <p><b>Description: </b>This workshop is intended to give participants an introduction to working with spatial data using SQL -- a database querying language. We will work with a graphical user interface (GUI) and explore some examples of common analysis processes as well as present participants with resources for continued learning. This workshop will give participants a solid foundation on which to build further learning.  By the end of this workshop, participants will be able to import data into a spatialite database, write queries to answer questions about spatial data, understand the difference between attribute queries and geometry queries, view spatial tables and views in QGIS, and use terminology related to spatial databases to facilitate future learning.</p>
 <p><b>Speaker: </b>Alex Mandel, Michele Tobias, Naomi Kalman, Holden Tal</p>
 <p>This workshop will be taught by a team of instructors who use spatial SQL in their work and research.</p>

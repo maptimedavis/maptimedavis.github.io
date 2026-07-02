@@ -34,63 +34,10 @@ description:
 		<th>Speaker</th>
 		<th>Location</th>
 	</tr>
-	
-	<tr>
-		<td>4/10/2026</td>
-		<td>Work Session <a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></td>
-		<td>Community Event</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
-	</tr>
-	<tr>
-		<td>4/17/2026</td>
-		<td>Intro to QGIS: Rasters <a href='https://www.eventbrite.com/e/intro-to-qgis-rasters-tickets-1986263458473?aff=oddtdtcreator'>RSVP</a></td>
-		<td>Lauren Mabe</td>
-		<td>DataLab Classroom - room 360 Shields Library; <br> <a href="https://drive.google.com/file/d/1FhptIxNaZA2TJtgZXdxCygeoUkwAdsmL/view">Workshop Materials</a></td>
-	</tr>
-	<tr>
-		<td>4/24/2026</td>
-		<td>Work Session <a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></td>
-		<td>Community Event</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
-	</tr>
-	
-	<tr>
-		<td>4/24/2026 12:00-1:00</td>
-		<td>Social @ Guads</td>
-		<td>Community Event</td>
-		<td>Guads at 231 3rd St. in Davis</td>
-	</tr>
-	
-	<tr>
-		<td>5/1/2026</td>
-		<td>Field Data Collection <a href='https://www.eventbrite.com/e/field-data-collection-tickets-1986264576818?aff=oddtdtcreator'>RSVP</a></td>
-		<td>Many (let us know if you want to share!)</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
-	</tr>
-	<tr>
-		<td>5/8/2026</td>
-		<td>Work Session <a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></td>
-		<td>Community Event</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
-	</tr>
-	<tr>
-		<td>5/15/2026</td>
-		<td>Map Design & Cartography <a href='https://www.eventbrite.com/e/map-design-cartography-tickets-1986221855036?aff=oddtdtcreator'>RSVP</a></td>
-		<td>Michele Tobias</td>
-		<td>DataLab Classroom - room 360 Shields Library <br><a href="https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures">Workshop Materials</a></td>
-	</tr>
-	<tr>
-		<td>5/22/2026</td>
-		<td>Work Session <a href='https://www.eventbrite.com/e/community-work-session-tickets-1986273507530?aff=oddtdtcreator'>RSVP</a></td>
-		<td>Community Event</td>
-		<td>DataLab Classroom - room 360 Shields Library</td>
-	</tr>
-	<tr>
-		<td>5/29/2026 <br> DataLab Conference Room (362 Shields)</td>
-		<td>Spatial SQL <a href='https://www.eventbrite.com/e/spatial-sql-tickets-1986273386167?aff=oddtdtcreator'>RSVP</a></td>
-		<td>Alex Mandel, Naomi Kalman, Michele Tobias, Holden Tal</td>
-		<td>DataLab Classroom - room 360 Shields Library <br><a href="https://ucdavisdatalab.github.io/Spatial_SQL/">Workshop Materials</a></td>
-	</tr>
+
+<tr>
+		<td colspan="4"><b>Fall 2026 Schedule Coming Soon!</b><br>Check back in September</td>
+	</tr>	
 
 
 </table>

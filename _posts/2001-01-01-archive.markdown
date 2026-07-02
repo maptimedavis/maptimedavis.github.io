@@ -41,7 +41,37 @@ description:
 
 
 
-
+	<tr>
+		<td>5/29/2026</td>
+		<td>Spatial SQL</td>
+		<td>Michele Tobias</td>
+		<td><a href="https://ucdavisdatalab.github.io/Spatial_SQL/">Workshop Materials</a></td>
+	</tr>
+	
+	<tr>
+		<td>5/15/2026</td>
+		<td>Map Design & Cartography</td>
+		<td>Michele Tobias</td>
+		<td><a href="https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures">Workshop Materials</a></td>
+	</tr>
+		<tr>
+		<td>4/17/2026</td>
+		<td>Intro to QGIS: Rasters</td>
+		<td>Lauren Mabe</td>
+		<td><a href="https://drive.google.com/file/d/1FhptIxNaZA2TJtgZXdxCygeoUkwAdsmL/view">Workshop Materials</a></td>
+	</tr>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 <tr>
 	<td>2/20/2026</td>
 	<td>Maps in R</td>

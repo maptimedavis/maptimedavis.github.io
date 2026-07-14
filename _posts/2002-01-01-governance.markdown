@@ -20,7 +20,7 @@ description:
 <p><b>Alex Mandel</b>, Geospatial Engineer, Development Seed (since 2017, founding member)</p>
 <p><b>Hannah Miradi</b>, Undergraduate Student, UC Davis Sustainable Environmental Design major  (since 2026)</p>
 <p><b>Holden Tal</b>, Graduate Student, UC Davis Geography Graduate Group (since 2025)
-<p><b>Michele Tobias</b>, Data Scientist, UC Davis DataLab (since 2017, founding member)</p>
+<p><b>Michele Tobias</b>, Geospatial Data Scientist, UC Davis Library (since 2017, founding member)</p>
 <p><b>Caitlyn Young</b>, Graduate Student, UC Davis Anthropology Dept (since 2026)</p>
 
 

@@ -13,12 +13,15 @@ description:
 
 <p>In the summer of 2021, the Spatial Sciences Research & Learning Cluster recruited community members to help advise and produce our #maptimeDavis workshop series.  We assembled a team with a variety of skills and interests including students, staff, and faculty. This year's #maptimeDavis Council members are:</p>
 
+<p><b>Negar Agah</b>, Undergraduate Student, UC Davis Biological and Agricultural Engineering major (since 2026)</p>
 <p><b>Matthew Conner</b>, Librarian, UC Davis Library (since 2021)</p>
 <p><b>Naomi Kalman</b>,  GIS Programmer, UC Davis Campus and Environmental Planning (since 2021)</p>
 <p><b>Lauren Mabe</b>, Graduate Student, UC Davis Geography Graduate Group (since 2024)
 <p><b>Alex Mandel</b>, Geospatial Engineer, Development Seed (since 2017, founding member)</p>
-<p><b>Holden Tal</b>, Undergraduate Student, UC Davis Sustainable Environmental Design (since 2025)
+<p><b>Hannah Miradi</b>, Undergraduate Student, UC Davis Sustainable Environmental Design major  (since 2026)</p>
+<p><b>Holden Tal</b>, Graduate Student, UC Davis Geography Graduate Group (since 2025)
 <p><b>Michele Tobias</b>, Data Scientist, UC Davis DataLab (since 2017, founding member)</p>
+<p><b>Caitlyn Young</b>, Graduate Student, UC Davis Anthropology Dept (since 2026)</p>
 
 
 

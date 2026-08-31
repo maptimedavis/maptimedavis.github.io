@@ -36,7 +36,7 @@ description:
 	</tr>
 
 <tr>
-		<td colspan="4"><b>This is our draft schedule for Fall. 2026</b><br>More Details are coming soon!</td>
+		<td colspan="4"><b>This is our draft schedule for Fall 2026.</b><br>More Details are coming soon!</td>
 	</tr>	
 	
 	<tr>
@@ -50,7 +50,7 @@ description:
 		<td>10/2/2026</td>
 		<td>Map Room Tour</td>
 		<td>Sheena Campbell & Michele Tobias</td>
-		<td>Shield Library Map Collection - room 93 Shields Library (lower level/basement)</td>
+		<td><b>Shield Library Map Collection</b> - room 93 Shields Library (lower level/basement)</td>
 	</tr>
 	
 	<tr>

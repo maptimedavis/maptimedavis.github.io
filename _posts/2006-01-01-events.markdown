@@ -61,8 +61,8 @@ description:
 	</tr>
 	<tr>
 		<td>10/16/2026</td>
-		<td>Coming Soon!</td>
-		<td>Coming Soon!</td>
+		<td>Augmented Reality (AR) Mapping</td>
+		<td>Oliver Kreylos</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>	
 	<tr>

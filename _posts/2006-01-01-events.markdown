@@ -143,18 +143,15 @@ description:
 <p><b>Location: </b>Map Room (Shields room 93, lower level)</p>
 <p><b>Description: </b>Learn to search the catalog, find & handle maps & air photos, use maps & air photos in GIS software, and use stereoscopes & loupes. See historic campus maps & air photos! Learn about map collection projects & incoming new materials!</p>
 <p><b>Speaker: </b>Sheena Campbell & Michele Tobias</p>
-<p>UC Davis STEM Librarian, Sheena Campbell, provides information literacy instruction to undergraduate and professional students in the STEM fields, offers individualized research support, and identifies resources to enhance the library’s collections. With her background as an artist and historian, Sheena’s research interests focus on the intersection of visual culture, environmental justice, and the history of scientific thought. Michele Tobias is a geospatial data scientist with a background in geospatial methods for ecology. Michele earned her PhD from UC Davis in Geography where she studied California’s sandy beach ecosystem with traditional phytosociological methods and innovative remote sensing tools and was a postdoc at the UC Davis Information Center for the Environment. In her current position as a geospatial data scientist at the UC Davis Library, she applies geospatial tools to new avenues of research across disciplines.</p>
+<p>UC Davis STEM Librarian, Sheena Campbell, provides information literacy instruction to undergraduate and professional students in the STEM fields, offers individualized research support, and identifies resources to enhance the library’s collections. With her background as an artist and historian, Sheena’s research interests focus on the intersection of visual culture, environmental justice, and the history of scientific thought. </p>
+<p>Michele Tobias is a geospatial data scientist with a background in geospatial methods for ecology. Michele earned her PhD from UC Davis in Geography where she studied California’s sandy beach ecosystem with traditional phytosociological methods and innovative remote sensing tools and was a postdoc at the UC Davis Information Center for the Environment. In her current position as a geospatial data scientist at the UC Davis Library, she applies geospatial tools to new avenues of research across disciplines.</p>
 <p><b>Prerequisites: </b>None</p>
 <p><b>Software Required: </b>None</p>
 <br>
-<h3>work session</h3>
-<p><b>Date: </b>10/9/2026</p>
-<p><b>Location: </b>Pizza & Pints - 236 B St, Davis</p>
-<p><b>Description: </b>Join us for a no-host social event! Come chat with other maptimeDavis folks and meet some new friends who also love maps!</p>
-<br>
 
-<br>
-<h3>Social @ Pizza & Pints</h3>
+
+
+<h3>work session</h3>
 <p><b>Date: </b>10/9/2026 5:00-7:00</p>
 <p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
 <p><b>Description: </b>Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, answer questions, or just get stuff done.</p>
@@ -165,7 +162,12 @@ description:
 <br>
 
 
-
+<br>
+<h3>Social @ Pizza & Pints</h3>
+<p><b>Date: </b>10/9/2026</p>
+<p><b>Location: </b>Pizza & Pints - 236 B St, Davis</p>
+<p><b>Description: </b>Join us for a no-host social event! Come chat with other maptimeDavis folks and meet some new friends who also love maps!</p>
+<br>
 
 
 <h3>Augmented Reality (AR) Mapping</h3>

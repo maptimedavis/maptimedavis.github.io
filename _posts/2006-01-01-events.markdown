@@ -56,6 +56,14 @@ description:
 		<td>Community</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
+	
+		<tr>
+		<td>10/9/2026 5:00-7:00</td>
+		<td>Social @ Pizza & Pints</td>
+		<td>Community</td>
+		<td><b>Pizza & Pints</b> - 236 B St, Davis </td>
+	</tr>
+	
 	<tr>
 		<td>10/16/2026</td>
 		<td>Augmented Reality (AR) Mapping</td>

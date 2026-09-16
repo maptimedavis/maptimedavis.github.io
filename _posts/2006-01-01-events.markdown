@@ -73,8 +73,8 @@ description:
 	</tr>
 	<tr>
 		<td>10/30/2026</td>
-		<td>Coming Soon!</td>
-		<td>Coming Soon!</td>
+		<td>Accessibility in Mapping</td>
+		<td>Josh Hori</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
@@ -85,14 +85,14 @@ description:
 	</tr>
 	<tr>
 		<td>11/13/2026</td>
-		<td>Coming Soon!</td>
-		<td>Coming Soon!</td>
+		<td>Into to QGIS</td>
+		<td>Holden Tal</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 	<tr>
 		<td>11/20/2026</td>
-		<td>Community Work Session</td>
-		<td>Community</td>
+		<td>UC GIS Week Humanitarian OpenStreetMap Map-a-Thon</td>
+		<td>Naomi Kalman & Liam Bhajan</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
 
@@ -120,6 +120,7 @@ description:
 <br>
 
 <h2>Descriptions</h2>
+<p>Workshop descriptions coming soon!</p>
 
 <br>
 <hr>

@@ -125,10 +125,102 @@ description:
 <br>
 
 <h2>Descriptions</h2>
-<p>Workshop descriptions coming soon!</p>
 
 <br>
 <hr>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>9/25/2026</p>
+<p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
+<p><b>Description: </b>Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, answer questions, or just get stuff done.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>None</p>
+<p><b>Software Required: </b>Bring what you need</p>
+<br>
+<h3>Map Room Tour + Open House</h3>
+<p><b>Date: </b>10/2/2026</p>
+<p><b>Location: </b>Map Room (Shields room 93, lower level)</p>
+<p><b>Description: </b>Learn to search the catalog, find & handle maps & air photos, use maps & air photos in GIS software, and use stereoscopes & loupes. See historic campus maps & air photos! Learn about map collection projects & incoming new materials!</p>
+<p><b>Speaker: </b>Sheena Campbell & Michele Tobias</p>
+<p>UC Davis STEM Librarian, Sheena Campbell, provides information literacy instruction to undergraduate and professional students in the STEM fields, offers individualized research support, and identifies resources to enhance the library’s collections. With her background as an artist and historian, Sheena’s research interests focus on the intersection of visual culture, environmental justice, and the history of scientific thought. Michele Tobias is a geospatial data scientist with a background in geospatial methods for ecology. Michele earned her PhD from UC Davis in Geography where she studied California’s sandy beach ecosystem with traditional phytosociological methods and innovative remote sensing tools and was a postdoc at the UC Davis Information Center for the Environment. In her current position as a geospatial data scientist at the UC Davis Library, she applies geospatial tools to new avenues of research across disciplines.</p>
+<p><b>Prerequisites: </b>None</p>
+<p><b>Software Required: </b>None</p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>10/9/2026</p>
+<p><b>Location: </b>Pizza & Pints - 236 B St, Davis</p>
+<p><b>Description: </b>Join us for a no-host social event! Come chat with other maptimeDavis folks and meet some new friends who also love maps!</p>
+<br>
+
+<br>
+<h3>Social @ Pizza & Pints</h3>
+<p><b>Date: </b>10/9/2026 5:00-7:00</p>
+<p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
+<p><b>Description: </b>Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, answer questions, or just get stuff done.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>None</p>
+<p><b>Software Required: </b>Bring what you need</p>
+<br>
+
+
+
+
+
+<h3>Augmented Reality (AR) Mapping</h3>
+<p><b>Date: </b>10/16/2026</p>
+<p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
+<p><b>Description: </b>Learn how augmented reality (AR) tools can be used for education and research!  We'll visit DataLab's AR Sandbox for a fun (and educational) experience with AR tools.</p>
+<p><b>Speaker: </b>Oliver Kreylos</p>
+<p>Oliver Kreylos is a computer scientist researching virtual reality and computer graphics, and their application to scientific data analysis. Kreylos received his PhD in Computer Science from UC Davis. He holds master’s degrees in Computer Science from UC Davis and the University of Karlsruhe, Germany. Kreylos developed the virtual reality user interface and research applications software for the UC Davis KeckCAVES and AR Sandbox.</p>
+<p><b>Prerequisites: </b>None</p>
+<p><b>Software Required: </b>None</p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>10/23/2026</p>
+<p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
+<p><b>Description: </b>Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, answer questions, or just get stuff done.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>None</p>
+<p><b>Software Required: </b>Bring what you need</p>
+<br>
+<h3>Accessible Mapmaking</h3>
+<p><b>Date: </b>10/30/2026</p>
+<p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
+<p><b>Description: </b>Learn about accessible mapmaking and points to consider to ensure your maps are accessible. Also, learn about new UC Davis Health map with 3D printing, and UC Davis Campus map & Spatial Audio Wayfinding map! Come with questions on how to ensure that your maps work well for a variety of audiences.</p>
+<p><b>Speaker: </b>Josh Hori</p>
+<p>Joshua Hori is the Accessible Technology Coordinator at UC Davis, working within Information Education Technology and Academic Technology Services. Working with Disability Management Services to provide assistive technologies to staff and faculty, after 15+ years providing technology to students in the Student Disability Center.</p>
+<p><b>Prerequisites: </b>None</p>
+<p><b>Software Required: </b>None</p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>11/6/2026</p>
+<p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
+<p><b>Description: </b>Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, answer questions, or just get stuff done.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>None</p>
+<p><b>Software Required: </b>Bring what you need</p>
+<br>
+<h3>Intro to QGIS</h3>
+<p><b>Date: </b>11/13/2026</p>
+<p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
+<p><b>Description: </b>This introductory-level workshop will focus upon the fundamental concepts and skills needed to explore and analyze data using Geographic Information Systems (GIS) software with examples using the QGIS platform.</p>
+<p><b>Speaker: </b>Holden Tal</p>
+<p>Holden is a Master Student in the Geography Graduate Group who is studying the hazards of small coastal communities</p>
+<p><b>Prerequisites: </b>None</p>
+<p><b>Software Required: </b>Please download and install QGIS (version 3.44.7 Solothurn) from qgis.org</p>
+<br>
+<h3>work session</h3>
+<p><b>Date: </b>11/20/2026</p>
+<p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
+<p><b>Description: </b>Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, answer questions, or just get stuff done.</p>
+<p><b>Speaker: </b>Community</p>
+<p></p>
+<p><b>Prerequisites: </b>None</p>
+<p><b>Software Required: </b>Bring what you need</p>
 <br>
 
 <br>

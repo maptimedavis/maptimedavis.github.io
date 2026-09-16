@@ -35,9 +35,6 @@ description:
 		<th>Location</th>
 	</tr>
 
-<tr>
-		<td colspan="4"><b>This is our draft schedule for Fall 2026.</b><br>More Details are coming soon!</td>
-	</tr>	
 	
 	<tr>
 		<td>9/25/2026</td>

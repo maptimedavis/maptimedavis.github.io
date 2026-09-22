@@ -218,11 +218,11 @@ description:
 <h3>UC GIS Week Humanitarian OpenStreetMap Map-a-Thon</h3>
 <p><b>Date: </b>11/20/2026</p>
 <p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
-<p><b>Description: </b>Learn how to edit OpenStreetMap while contributing to data that will be used to support efforts to solve a humnitarian crisis or natural disaster recovery. Bring a laptop. A mouse is not required, but recommended.</p>
+<p><b>Description: </b>Learn how to edit OpenStreetMap while contributing to data that will be used to support efforts to solve a humnitarian crisis or natural disaster recovery. </p>
 <p><b>Speaker: </b>Naomi Kalman & Liam Bhajan</p>
 <p></p>
 <p><b>Prerequisites: </b>None</p>
-<p><b>Software Required: </b>Bring what you need</p>
+<p><b>Hardware: </b>Bring a laptop. A mouse is not required, but recommended.</p>
 <br>
 
 <br>

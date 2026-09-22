@@ -215,11 +215,11 @@ description:
 <p><b>Prerequisites: </b>None</p>
 <p><b>Software Required: </b>Please download and install QGIS (version 3.44.7 Solothurn) from qgis.org</p>
 <br>
-<h3>work session</h3>
+<h3>UC GIS Week Humanitarian OpenStreetMap Map-a-Thon</h3>
 <p><b>Date: </b>11/20/2026</p>
 <p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
-<p><b>Description: </b>Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, answer questions, or just get stuff done.</p>
-<p><b>Speaker: </b>Community</p>
+<p><b>Description: </b>Learn how to edit OpenStreetMap while contributing to data that will be used to support efforts to solve a humnitarian crisis or natural disaster recovery. Bring a laptop. A mouse is not required, but recommended.</p>
+<p><b>Speaker: </b>Naomi Kalman & Liam Bhajan</p>
 <p></p>
 <p><b>Prerequisites: </b>None</p>
 <p><b>Software Required: </b>Bring what you need</p>

@@ -152,7 +152,7 @@ description:
 
 
 <h3>work session</h3>
-<p><b>Date: </b>10/9/2026 5:00-7:00</p>
+<p><b>Date: </b>10/9/2026</p>
 <p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
 <p><b>Description: </b>Wouldn’t it be nice to work on your geospatial projects around peers who actually understand what you’re doing? Come work in the same space with other geo people, get feedback, ask questions, answer questions, or just get stuff done.</p>
 <p><b>Speaker: </b>Community</p>
@@ -163,7 +163,7 @@ description:
 
 
 <br>
-<h3>Social @ Pizza & Pints</h3>
+<h3>Social @ Pizza & Pints 5:00-7:00</h3>
 <p><b>Date: </b>10/9/2026</p>
 <p><b>Location: </b>Pizza & Pints - 236 B St, Davis</p>
 <p><b>Description: </b>Join us for a no-host social event! Come chat with other maptimeDavis folks and meet some new friends who also love maps!</p>

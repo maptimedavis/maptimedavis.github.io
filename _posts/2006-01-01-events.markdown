@@ -163,8 +163,8 @@ description:
 
 
 <br>
-<h3>Social @ Pizza & Pints 5:00-7:00</h3>
-<p><b>Date: </b>10/9/2026</p>
+<h3>Social @ Pizza & Pints</h3>
+<p><b>Date: </b>10/9/2026 5:00-7:00</p>
 <p><b>Location: </b>Pizza & Pints - 236 B St, Davis</p>
 <p><b>Description: </b>Join us for a no-host social event! Come chat with other maptimeDavis folks and meet some new friends who also love maps!</p>
 <br>

@@ -206,6 +206,8 @@ description:
 <p><b>Prerequisites: </b>None</p>
 <p><b>Software Required: </b>Bring what you need</p>
 <br>
+
+
 <h3>Intro to QGIS</h3>
 <p><b>Date: </b>11/13/2026</p>
 <p><b>Location: </b>DataLab Classroom (Shields room 360)</p>
@@ -213,8 +215,11 @@ description:
 <p><b>Speaker: </b>Holden Tal</p>
 <p>Holden is a Master Student in the Geography Graduate Group who is studying the hazards of small coastal communities</p>
 <p><b>Prerequisites: </b>None</p>
-<p><b>Software Required: </b>Please download and install QGIS (version 3.44.7 Solothurn) from qgis.org</p>
+<p><b>Software Required: </b>Please download and install QGIS (version 3.44.7 Solothurn) from qgis.org<br><a href="https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/">Workshop Materials</a></p>
 <br>
+
+
+
 <h3>UC GIS Week Humanitarian OpenStreetMap Map-a-Thon</h3>
 <p><b>Date: </b>11/20/2026</p>
 <p><b>Location: </b>DataLab Classroom (Shields room 360)</p>

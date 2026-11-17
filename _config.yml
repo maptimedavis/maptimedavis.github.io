@@ -47,13 +47,15 @@ social:
 #    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/maptimedavis
+  - title: instagram
+    url: https://www.instagram.com/maptimedavis/
   - title: youtube
     url: https://www.youtube.com/@maptimedavis95616
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Supported by UCDavis Library + DataLab
-  - line: Shields Library - Room 360
+  - line: Supported by UCDavis Library
+  - line: Shields Library
   - line: University of California Davis
   - line: 1 Shields Ave, Davis, CA 95616
 

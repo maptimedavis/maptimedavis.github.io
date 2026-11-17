@@ -100,6 +100,9 @@ description:
 		<td>Naomi Kalman & Liam Bhajan</td>
 		<td>DataLab Classroom - room 360 Shields Library</td>
 	</tr>
+	<tr>
+		<td colspan="4">Get ready! The <b>WINTER 2026 SCHEDULE</b> is coming soon!</td>
+	</tr>
 
 
 </table>

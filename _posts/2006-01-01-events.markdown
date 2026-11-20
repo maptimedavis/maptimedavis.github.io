@@ -101,7 +101,7 @@ description:
 		<td>DataLab Classroom - room 360 Shields Library<br><a href="https://community-ucgis.hub.arcgis.com/pages/mapathon">Workshop Materials</a></td>
 	</tr>
 	<tr>
-		<td colspan="4">Get ready! The <b>WINTER 2027 SCHEDULE</b> is coming soon!</td>
+		<td colspan="4">Get ready! The <b>WINTER 2027 SCHEDULE</b> is coming soon!<br>We're moving to Shields 205 for Winter Quarter! Join us there!</td>
 	</tr>
 
 
